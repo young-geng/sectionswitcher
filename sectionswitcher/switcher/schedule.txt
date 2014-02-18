@@ -1,0 +1,3604 @@
+
+     UC Berkeley Online Schedule of Classes 
+    
+new search  |  home page  |  using the online schedule of classes 
+
+17-FEB-14, Spring 2014
+
+Dept    Course      Course Title
+
+AFRICAN AMERICAN STUDIES
+AFRICAM    R1A  Freshman Composition
+AFRICAM    R1B  Freshman Composition
+AFRICAM    4B   Africa: History and Culture
+AFRICAM    5B   African American Life and Culture in the United Sta...
+AFRICAM    7B   Elementary Wolof
+AFRICAM    8B   Intermediate Wolof
+AFRICAM    10B  Intermediate Swahili
+AFRICAM    11B  Elementary Swahili
+AFRICAM    15B  Advanced Swahili
+AFRICAM    24   Freshman Seminars
+AFRICAM    39F  Freshman/Sophmore Seminar
+AFRICAM    98   Directed Group Studies for Freshmen and Sophomores
+AFRICAM    112B Political and Economic Development in the Third Wor...
+AFRICAM    114  Linguistic Structure of Bantu Languages
+AFRICAM    117  African Americans in the Industrial Age, 1865-1970
+AFRICAM    122  African American Families in American Society
+AFRICAM    123  Social and Political Thought in the Diaspora
+AFRICAM    134  Information Technology and Society
+AFRICAM    137  Multicultural Communities
+AFRICAM    138  Black Nationalism
+AFRICAM    139  Selected Topics of African American Social Organiza...
+AFRICAM    142AC    Race and American Film
+AFRICAM    153C Novels of Toni Morrison
+AFRICAM    156AC    Poetry for the People: Introduction to the Art of P...
+AFRICAM    157  Creative Writing
+AFRICAM    158B Poetry for the People: Practicum
+AFRICAM    159  Special Topics in African American Literature
+AFRICAM    173AC    Gandhi and the Civil Rights Movement in America
+AFRICAM    H195A    Senior Honors Thesis
+AFRICAM    H195B    Senior Honors Thesis
+AFRICAM    197  Field Study in African American Life
+AFRICAM    198  Directed Group Studies for Undergraduates
+AFRICAM    199  Supervised Independent Study and Research
+AFRICAM    240  Special Topics in Cultural Studies of the Diaspora
+AFRICAM    241  Special Topics in Development Studies of the Diaspo...
+AFRICAM    296  Directed Dissertation Research
+AFRICAM    602  Individual Study for Doctoral Students
+
+AGRICULTURAL AND ENVIRON CHEMISTRY
+AGR CHM    299  Research in Agricultural and Environmental Chemistr...
+
+ENVIRONMENTAL ECONOMICS AND POLICY
+ENVECON    C1   Introduction to Environmental Economics and Policy
+ENVECON    100  Microeconomic Theory with Application to Natural Re...
+ENVECON    C101 Environmental Economics
+ENVECON    C118 Introductory Applied Econometrics
+ENVECON    142  Industrial Organization with Applications to Agricu...
+ENVECON    147  Regulation of Energy and the Environment
+ENVECON    153  Population, Environment, and Development
+ENVECON    154  Economics of Poverty and Technology
+ENVECON    162  Economics of Water Resources
+ENVECON    C180 Ecological Economics in Historical Context
+ENVECON    C181 International Trade
+ENVECON    C183 Forest Ecosystem Management
+ENVECON    195  Senior Thesis
+ENVECON    H196 Honors Research
+ENVECON    197  Field Study in Environmental Economics and Policy
+ENVECON    198  Directed Group Studies for Advanced Undergraduates
+ENVECON    199  Supervised Independent Study and Research
+
+AGRICULTURAL AND RESOURCE ECONOMICS
+A,RESEC    202  Issues and Concepts in Agricultural Economics
+A,RESEC    212  Econometrics: Multiple Equation Estimation
+A,RESEC    242  Quantitative Policy Analysis
+A,RESEC    264  Empirical Energy and Environmental Economics
+A,RESEC    298  Special Study for Graduate Students
+A,RESEC    299  Individual Research
+A,RESEC    375  Professional Preparation: Teaching of Environmental...
+A,RESEC    400  Professional Training in Research Methodology
+A,RESEC    602  Individual Study for Doctoral Students
+
+AMERICAN STUDIES
+AMERSTD    10   Introduction to American Studies
+AMERSTD    101  Examining U.S. Cultures in Time
+AMERSTD    101AC    Examining U.S. Cultures in Time
+AMERSTD    102  Examining U.S. Cultures in Place
+AMERSTD    H110 Honors Seminar: Special Topics in American Studies
+AMERSTD    C111E    Topics in American Studies
+AMERSTD    C112B    American Cultural Landscapes, 1900 to Present
+AMERSTD    C132B    Intellectual History of the United States since 186...
+AMERSTD    139AC    Civil Rights and Social Movements in U.S. History
+AMERSTD    C152 Native American Literature
+AMERSTD    C172 History of American Business
+AMERSTD    191  Senior Seminar
+AMERSTD    H195 Honors Thesis
+
+ANCIENT HISTORY AND MED. ARCH.
+AHMA       210  Ancient History and Mediterranean Archaeology Inter...
+AHMA       299  Special Study
+
+ANTHROPOLOGY
+ANTHRO     1    Introduction to Biological Anthropology
+ANTHRO     2AC  Introduction to Archaeology
+ANTHRO     3AC  Introduction to Social/Cultural Anthropology (Ameri...
+ANTHRO     R5B  Reading and Composition in Anthropology
+ANTHRO     24   Freshman Seminar
+ANTHRO     84   Sophomore Seminar
+ANTHRO     98   Directed Group Study
+ANTHRO     C103 Introduction to Human Osteology
+ANTHRO     112  Special Topics in Biological Anthropology
+ANTHRO     114  History of Anthropological Thought
+ANTHRO     115  Introduction to Medical Anthropology
+ANTHRO     119  Special Topics in Medical Anthropology
+ANTHRO     128  Special Topics in Archaeology
+ANTHRO     C129D    Holocene Paleoecology: How Humans Changed the Earth
+ANTHRO     135  Paleoethnobotany: Archaeological Methods and Labora...
+ANTHRO     137  Energy, Culture and Social Organization
+ANTHRO     138B Field Production of Ethnographic Film
+ANTHRO     152  Art and Culture
+ANTHRO     158  Religion and Anthropology
+ANTHRO     162  Topics in Folklore
+ANTHRO     166  Language, Culture, and Society
+ANTHRO     174AC    California Historical Anthropology
+ANTHRO     181  Themes in the Anthropology of the Middle East and I...
+ANTHRO     189  Special Topics in Social/Cultural Anthropology
+ANTHRO     196  Undergraduate Seminar
+ANTHRO     219  Topics in Medical Anthropology
+ANTHRO     229B Archaeological Research Strategies
+ANTHRO     229C Writing the Field in Archaeology
+ANTHRO     230  Special Topics in Archaeology
+ANTHRO     240B Fundamentals of Anthropological Theory
+ANTHRO     250C Globalization
+ANTHRO     250R Dissertation Writing
+ANTHRO     250V Tourism
+ANTHRO     250X Special Topics
+ANTHRO     C262B    Theories of Traditionality and Modernity
+ANTHRO     C273 Science and Technology Studies Research Seminar
+ANTHRO     290  Survey of Anthropological Research
+ANTHRO     296A Supervised Research
+ANTHRO     296B Supervised Research
+ANTHRO     298  Directed Reading
+ANTHRO     299  Directed Research
+ANTHRO     301  Professional Training: Teaching
+ANTHRO     602  Individual Study for Doctoral Students
+
+APPLIED SCIENCE AND TECHNOLOGY
+AST    299  Individual Study or Research
+
+ARCHITECTURE
+ARCH       24   Freshman Seminars
+ARCH       98   Special Group Study
+ARCH       100B Fundamentals of Architectural Design
+ARCH       100D Architectural Design IV
+ARCH       102B Architecture Capstone Project
+ARCH       111  Housing: An International Survey
+ARCH       119  Special Topics in the Social and Cultural Basis of ...
+ARCH       129  Special Topics in Digital Design Theories and Metho...
+ARCH       139  Special Topics in Architectural Design Theory and C...
+ARCH       140  Energy and Environment
+ARCH       154  Design and Computer Analysis of Structure
+ARCH       160  Introduction to Construction
+ARCH       170B An Historical Survey of Architecture and Urbanism
+ARCH       179  Special Topics in the History of Architecture
+ARCH       180AC    Prison
+ARCH       198  Special Group Study
+ARCH       200B Introduction to Architecture Studio 2
+ARCH       202  Advanced Option Studio
+ARCH       204B Thesis Studio
+ARCH       205B Studio One, Spring
+ARCH       207B Architecture Research Colloquium
+ARCH       207D The Cultures of Practice
+ARCH       208  Introduction to Construction Law
+ARCH       209  Special Topics in Architectural Design
+ARCH       215  Landscape, Architecture, Infrastructure, and Urbani...
+ARCH       219  Special Topics in the Social and Cultural Basis of ...
+ARCH       229  Special Topics in Digital Design Theories and Metho...
+ARCH       230  Advanced Architectural Design Theory and Criticism
+ARCH       239  Special Topics in Architecture Design Theory and Cr...
+ARCH       245  Daylighting
+ARCH       249  Special Topics in the Physical Environment in Build...
+ARCH       259  Special Topics in Building Structures
+ARCH       269  Special Topics in Construction and Materials
+ARCH       276  Spaces of Recreation and Leisure, 1850-2000
+ARCH       279  Special Topics in the History of Architecture
+ARCH       375  Seminar in the Teaching of Architecture
+
+VISUAL STUDIES
+VIS STD    185X Special Topics: Word and Image
+VIS STD    187A Freehand Drawing
+VIS STD    280  Advanced Visual Studies
+VIS STD    298  Special Group Study
+
+PRACTICE OF ART
+ART    8    Introduction to Visual Thinking
+ART    12   The Language of Drawing
+ART    13   Language of Painting
+ART    14   The Language of Sculpture
+ART    W23AC    American Cybercultures: Principles of Internet Citi...
+ART    98   Directed Group Study
+ART    99   Supervised Independent Study
+ART    102  Approaches to Painting
+ART    117  Drawing and Composition
+ART    118  Figure Drawing
+ART    119  Global Perspectives in Contemporary Art
+ART    120  Approaches to Printmaking: Intaglio
+ART    123  The Language of Printmaking-Screenprinting
+ART    130  Approaches to Sculpture: Concept and Construction
+ART    137  Advanced Projects in Ceramic Sculpture
+ART    141  Temporal Structures: Video and Performance Art
+ART    160  Special Topics in Visual Studies
+ART    165  Art, Medicine, and Disabilities
+ART    C171 Digital Video: The Architecture of Time
+ART    174  Advanced Digital Video
+ART    C174 Advanced Digital Video
+ART    178  Game Design Methods
+ART    180  Advanced Digital Photography
+ART    185  Senior Projects/Professional Practices
+ART    H195A    Special Study for Honors Candidates in the Practice...
+ART    H195B    Special Study for Honors Candidates in the Practice...
+ART    198  Directed Group Study
+ART    199  Supervised Independent Study for Advanced Undergrad...
+ART    218  Seminar: Theory and Criticism
+ART    290  Independent Study
+ART    294  Seminar for M.F.A. Students
+ART    295  Independent Study for M.F.A. Students
+ART    298  Directed Group Study
+ART    299  Supervised Independent Study for Graduate Students
+ART    301  The Teaching of Art: Practice
+
+HISTORY OF ART
+HISTART    R1B  Reading and Writing about Visual Experience
+HISTART    11   Introduction to Western Art: Renaissance to the Pre...
+HISTART    24   Freshman Seminar
+HISTART    34   Arts of China
+HISTART    62   Introduction to Italian Renaissance Art
+HISTART    98   Directed Group Study for Freshmen and Sophomores
+HISTART    134A Buddhist Temple Art & Architecture in Japan
+HISTART    156B Gothic Art in Northern Europe: 1270-1400
+HISTART    173  The Age of Rubens
+HISTART    180C Nineteenth-Century Europe: The Invention of Avant-G...
+HISTART    185A American Art (1800-Present)
+HISTART    187AC     Race and Representation in the Twentieth Century i...
+HISTART    188A Latin American Art: Before Columbus
+HISTART    190B ANCIENT
+HISTART    190C MEDIEVAL
+HISTART    192A Asian
+HISTART    192B Ancient
+HISTART    192D 15th-16th Century
+HISTART    192DH    Undergraduate Seminar: Digital Imaging and Forensic...
+HISTART    192F 19th-20th Century
+HISTART    192G Undergraduate Seminar: American Art, Architecture, ...
+HISTART    194  Museum Internship
+HISTART    H195 Special Study for Honors Candidates in the History ...
+HISTART    C196A    UCDC Core Seminar
+HISTART    C196B    UCDC Internship
+HISTART    C196W    Special Field Research
+HISTART    198  Supervised Group Study
+HISTART    199  Supervised Independent Study
+HISTART    234  Seminar in Japanese Art
+HISTART    263  Seminar in European Art: Mimesis
+HISTART    290  Special Topics in Fields of Art History
+HISTART    291  Judith Stronach Graduate Travel Seminar in Art Hist...
+HISTART    296  Directed Dissertation Research
+HISTART    298  Group Study for Graduate Students in the History of...
+HISTART    299  Special Study for Graduate Students in the History ...
+HISTART    300  Teaching the History of Art
+HISTART    601  Individual Study for Master's Students in the Histo...
+HISTART    602  Individual Study for Doctoral Students in the Histo...
+
+ASIAN AMERICAN STUDIES
+ASAMST     R2A  Reading and Composition
+ASAMST     R2B  Reading and Composition
+ASAMST     20A  Introduction to the History of Asians in the United...
+ASAMST     20B  Introduction to the Contemporary Issues in the Asia...
+ASAMST     97   Field Studies in Asian American Communities
+ASAMST     98   Supervised Group Study
+ASAMST     99   Supervised Independent Study and Research
+ASAMST     127  South Asian American Historical and Contemporary Is...
+ASAMST     131  Asian Diaspora(s) from an Asian American Perspectiv...
+ASAMST     132AC    Islamophobia and Constructing Otherness
+ASAMST     143  Asian American Health
+ASAMST     144  Religions of Asian America
+ASAMST     146  Asian Americans and Education
+ASAMST     150  Gender and Generation in Asian American Families
+ASAMST     173  Creative Writing
+ASAMST     175  Contemporary Narratives on the Philippines and the ...
+ASAMST     195  Senior Thesis
+ASAMST     H195B    Senior Honors Thesis for Asian American and Asian D...
+ASAMST     197  Field Study in Asian American Communities
+ASAMST     198  Supervised Group Study
+ASAMST     199  Supervised Independent Study and Research
+
+ASIAN STUDIES
+ASIANST    98   Directed Group Study
+ASIANST    150  Special Topics
+ASIANST    H195A    Senior Honors
+ASIANST    H195B    Senior Honors
+ASIANST    198  Directed Group Study
+ASIANST    199  Independent Study
+ASIANST    201  Asian Studies Proseminar
+ASIANST    298  Directed Group Study
+ASIANST    299  Independent Study
+
+ASTRONOMY
+ASTRON     3    Introduction to Modern Cosmology
+ASTRON     7B   Introduction to Astrophysics
+ASTRON     C10  Introduction to General Astronomy
+ASTRON     84   Sophomore Seminar
+ASTRON     98   Directed Group Study
+ASTRON     99   Directed Study in Astronomy
+ASTRON     121  Radio Astronomy Laboratory
+ASTRON     C161 Relativistic Astrophysics and Cosmology
+ASTRON     C162 Planetary Astrophysics
+ASTRON     H195 Special Study for Honors Candidates
+ASTRON     198  Directed Group Study
+ASTRON     199  Supervised Independent Study and Research
+ASTRON     C202 Astrophysical Fluid Dynamics
+ASTRON     218  Stellar Dynamics and Galactic Structure
+ASTRON     250  Special Topics in Astrophysics
+ASTRON     C254 High Energy Astrophysics
+ASTRON     C285 Theoretical Astrophysics Seminar
+ASTRON     290B Introduction to Current Research
+ASTRON     C290C    Cosmology
+ASTRON     292  Seminar
+ASTRON     C292 Planetary Science Seminar
+ASTRON     298  Directed Group Study
+ASTRON     299  Advanced Study and Research
+ASTRON     375  Instruction Techniques in General Astronomy
+ASTRON     999  
+
+BIOENGINEERING
+BIO ENG    25   Careers in Biotechnology
+BIO ENG    98   Supervised Independent Group Studies
+BIO ENG    99   Supervised Independent Study and Research
+BIO ENG    101  Instrumentation in Biology and Medicine
+BIO ENG    104  Biological Transport Phenomena
+BIO ENG    111  Functional Biomaterials Development and Characteriz...
+BIO ENG    C112 Molecular Cell Biomechanics
+BIO ENG    115  Cell Biology for Engineers
+BIO ENG    116  Cell and Tissue Engineering
+BIO ENG    121L BioMems and BioNanotechnology Laboratory
+BIO ENG    C136L    Laboratory in the Mechanics of Organisms
+BIO ENG    140L Synthetic Biology Laboratory
+BIO ENG    C144 Introduction to Protein Informatics
+BIO ENG    C144L    Protein Informatics Laboratory
+BIO ENG    148  Bioenergy and Sustainable Chemical Synthesis: Metab...
+BIO ENG    151  Micro/Nanofluidics for Bioengineering and Lab-On-A-...
+BIO ENG    163  Principles of Molecular and Cellular Biophotonics
+BIO ENG    H194 Honors Undergraduate Research
+BIO ENG    196  Undergraduate Design Research
+BIO ENG    198  Directed Group Study for Advanced Undergraduates
+BIO ENG    199  Supervised Independent Study
+BIO ENG    200  The Graduate Group Introductory Seminar
+BIO ENG    C213 Fluid Mechanics of Biological Systems
+BIO ENG    C215 Mechanobiology of the Cell: Dynamics of the Cytoske...
+BIO ENG    C216 Macromolecular Science in Biotechnology and Medicin...
+BIO ENG    C217 Biomimetic Engineering -- Engineering from Biology
+BIO ENG    C218 Stem Cells and Directed Organogenesis
+BIO ENG    221  Advanced BioMEMS and Bionanotechnology
+BIO ENG    221L BioMEMS and BioNanotechnology Laboratory
+BIO ENG    241  Probabilistic Modeling in Computational Biology
+BIO ENG    C244 Introduction to Protein Informatics
+BIO ENG    C244L    Protein Informatics Laboratory
+BIO ENG    248  Bioenergy and Sustainable Chemical Synthesis: Metab...
+BIO ENG    251  Micro/Nanofluidics for Bioengineering and Lab-On-A-...
+BIO ENG    263  Principles of Molecular and Cellular Biophotonics
+BIO ENG    C265 Principles of Magnetic Resonance Imaging
+BIO ENG    C279 Occupational Biomechanics
+BIO ENG    296  MTM Capstone Project
+BIO ENG    298  Group Studies, Seminars, or Group Research
+BIO ENG    299  Individual Study or Research
+
+BIOLOGY
+BIOLOGY    1A   General Biology Lecture
+BIOLOGY    1AL  General Biology Laboratory
+BIOLOGY    1B   General Biology
+BIOLOGY    11   Introduction to the Science of Living Organisms
+BIOLOGY    11L  Laboratory for Biology 11
+
+BIOPHYSICS
+BIOPHY     H196 Honors Research in Biophysics
+BIOPHY     292  Research
+BIOPHY     293B Research Seminar: Faculty Evening Research Presenta...
+
+GROUP IN BUDDHIST STUDIES
+BUDDSTD    C128 Buddhism in Contemporary Society
+BUDDSTD    C140 Readings in Chinese Buddhist Texts
+BUDDSTD    200  Proseminar in Buddhist Studies
+BUDDSTD    C215B    Readings in Indian Buddhist Texts
+BUDDSTD    220  Seminar in Buddhism and Buddhist Texts
+BUDDSTD    C224 Readings in Tibetan Buddhist Texts
+BUDDSTD    C225 Readings in Japanese Buddhist Texts
+BUDDSTD    298  Directed Study for Graduate Students
+BUDDSTD    299  Thesis Preparation and Related Research
+BUDDSTD    601  Individual Study for Master's Students
+BUDDSTD    602  Individual Study for Doctoral Students
+
+UNDERGRAD. BUSINESS ADMINISTRATION
+UGBA       10   Principles of Business
+UGBA       100  Business Communication
+UGBA       101A Microeconomic Analysis for Business Decisions
+UGBA       101B Macroeconomic Analysis for Business Decisions
+UGBA       102A Introduction to Financial Accounting
+UGBA       102B Introduction to Managerial Accounting
+UGBA       103  Introduction to Finance
+UGBA       104  Analytic Decision Modeling Using Spreadsheets
+UGBA       105  Introduction to Organizational Behavior
+UGBA       106  Marketing
+UGBA       107  The Social, Political, and Ethical Environment of B...
+UGBA       115  Competitive Strategy
+UGBA       119  Leading Strategy Implementation
+UGBA       120AA    Intermediate Financial Accounting 1
+UGBA       120AB    Intermediate Financial Accounting 2
+UGBA       120B Advanced Financial Accounting
+UGBA       121  Federal Income Tax Accounting
+UGBA       122  Financial Information Analysis
+UGBA       126  Auditing
+UGBA       129  Financial Reporting for Complex Transactions
+UGBA       131  Corporate Finance and Financial Statement Analysis
+UGBA       132  Financial Institutions and Markets
+UGBA       133  Investments
+UGBA       137  Special Topics in Finance
+UGBA       141  Production and Operations Management
+UGBA       152  Negotiation and Conflict Resolution
+UGBA       154  Power and Politics in Organizations
+UGBA       155  Leadership
+UGBA       157  Special Topics in the Management of Organizations
+UGBA       165  Advertising Strategy
+UGBA       167  Special Topics in Marketing
+UGBA       168B International Marketing
+UGBA       170  Ethical Leadership in Business
+UGBA       C172 History of American Business
+UGBA       178  Introduction to International Business
+UGBA       183  Introduction to Real Estate Finance
+UGBA       184  Urban and Real Estate Economics
+UGBA       190T Special Topics in Innovation and Design
+UGBA       191P Leadership and Personal Development
+UGBA       192N Topics in Non-Profit Management
+UGBA       192T Topics in Corporate Social Responsibility
+UGBA       194  Undergraduate Colloquium on Business Topics
+UGBA       195A Entrepreneurship
+UGBA       196  Special Topics in Business Administration
+
+PH.D. IN BUSINESS ADMINISTRATION
+PHDBA      219S Research Seminar in Economic Analysis and Policy
+PHDBA      229C Doctoral Seminar in Accounting III
+PHDBA      229S Research Seminar in Accounting
+PHDBA      239B Continuous Time Asset Pricing
+PHDBA      239DA    Market Microstructure
+PHDBA      239DB    Corporate Finance
+PHDBA      239E Dynamic Game Theory and Applications
+PHDBA      239S Research Seminar in Finance
+PHDBA      249C Doctoral Seminar in Management III
+PHDBA      259B Research in Macro-Organizational Behavior
+PHDBA      259S Research Seminar in Organizational Behavior and Ind...
+PHDBA      269A Seminar in Marketing: Buyer Behavior
+PHDBA      269S Research Seminar in Marketing
+PHDBA      C270 Workshop in Institutional Analysis
+PHDBA      279B The Political Economy of Capitalism
+PHDBA      C279I    Economics of Innovation
+PHDBA      279S Research Seminar in Business and Public Policy
+PHDBA      289A Doctoral Seminar in Real Estate
+PHDBA      289S Research Seminar in Real Estate
+PHDBA      297T Doctoral Topics in Business Administration
+PHDBA      375  Teaching Business
+
+CELTIC STUDIES
+CELTIC     R1A  Voices of the Celtic World
+CELTIC     85   Intermediate Modern Irish
+CELTIC     98   Directed Group Study
+CELTIC     99   Supervised Independent Study and Research
+CELTIC     128  Medieval Celtic Culture
+CELTIC     139  Irish Literature
+CELTIC     144B Modern Welsh Level 4
+CELTIC     170  Topics in Celtic Studies
+CELTIC     173  Celtic Christianity
+CELTIC     H195A    Honors Course
+CELTIC     H195B    Honors Course
+CELTIC     198  Directed Group Study
+CELTIC     199  Supervised Independent Study and Research
+
+CHEMICAL & BIOMOLECULAR ENGINEERING
+CHM ENG    24   Freshman Seminars
+CHM ENG    98   Directed Group Studies for Lower Division Undergrad...
+CHM ENG    140  Introduction to Chemical Process Analysis
+CHM ENG    141  Chemical Engineering Thermodynamics
+CHM ENG    150A Transport Processes
+CHM ENG    154  Chemical Engineering Laboratory
+CHM ENG    160  Chemical Process Design
+CHM ENG    162  Dynamics and Control of Chemical Processes
+CHM ENG    179  Process Technology of Solid-State Materials Devices
+CHM ENG    185  Technical Communication for Chemical Engineers
+CHM ENG    H194 Research for Advanced Undergraduates
+CHM ENG    195  Special Topics
+CHM ENG    196  Special Laboratory Study
+CHM ENG    197  Field Study in Chemical Engineering
+CHM ENG    198  Directed Group Study for Undergraduates
+CHM ENG    199  Supervised Independent Study and Research
+CHM ENG    245  Catalysis
+CHM ENG    248  Applied Surface and Colloid Chemistry
+CHM ENG    274  Biomolecular Engineering
+CHM ENG    295Q Advanced Topics in New Product Development
+CHM ENG    C295Z    Energy Solutions: Carbon Capture and Sequestration
+CHM ENG    296  Special Study for Graduate Students in Chemical Eng...
+CHM ENG    298  Seminar in Chemical Engineering
+CHM ENG    299  Research in Chemical Engineering
+CHM ENG    300  Professional Preparation: Supervised Teaching of Ch...
+CHM ENG    602  Individual Studies for Graduate Students
+
+CHEMISTRY
+CHEM       1A   General Chemistry
+CHEM       1AL  General Chemistry Laboratory
+CHEM       1B   General Chemistry
+CHEM       3A   Chemical Structure and Reactivity
+CHEM       3AL  Organic Chemistry Laboratory
+CHEM       3B   Chemical Structure and Reactivity
+CHEM       3BL  Organic Chemistry Laboratory
+CHEM       4B   General Chemistry and Quantitative Analysis
+CHEM       24   Freshman Seminar
+CHEM       49   Supplementary Work in Lower Division Chemistry
+CHEM       98   Supervised Group Study
+CHEM       104B Advanced Inorganic Chemistry
+CHEM       105  Instrumental Methods in Analytical Chemistry
+CHEM       C110L    General Biochemistry and Molecular Biology Laborato...
+CHEM       112B Organic Chemistry
+CHEM       114  Advanced Synthetic Organic Chemistry
+CHEM       115  Organic Chemistry--Advanced Laboratory Methods
+CHEM       120A Physical Chemistry
+CHEM       120B Physical Chemistry
+CHEM       125  Physical Chemistry Laboratory
+CHEM       C130 Biophysical Chemistry: Physical Principles and the ...
+CHEM       130B Biophysical Chemistry
+CHEM       135  Chemical Biology
+CHEM       146  Chemical Methods in Nuclear Technology
+CHEM       149  Supplementary Work in Upper Division Chemistry
+CHEM       C150 Introduction to Materials Chemistry
+CHEM       C182 Atmospheric Chemistry and Physics Laboratory
+CHEM       192  Individual Study for Advanced Undergraduates
+CHEM       H194 Research for Advanced Undergraduates
+CHEM       195  Special Topics
+CHEM       196  Special Laboratory Study
+CHEM       197  Field Study in Chemistry
+CHEM       199  Supervised Independent Study and Research
+CHEM       208  Structure Analysis by X-Ray Diffraction
+CHEM       214  Heterocyclic Chemistry
+CHEM       221B Advanced Quantum Mechanics
+CHEM       223A Chemical Kinetics
+CHEM       C230 Protein Chemistry, Enzymology, and Bio-organic Chem...
+CHEM       C234 Green Chemistry: An Interdisciplonary Approach to S...
+CHEM       C236 Energy Solutions: Carbon Capture and Sequestration
+CHEM       250B Inorganic Spectroscopy
+CHEM       253A Materials Chemistry I
+CHEM       253B Materials Chemistry II
+CHEM       254  Bioinorganic Chemistry
+CHEM       262  Metals in Organic Synthesis
+CHEM       263A Synthetic Design I
+CHEM       265  Nuclear Magnetic Resonance Theory and Application
+CHEM       268  Mass Spectrometry
+CHEM       270A Advanced Biophysical Chemistry I
+CHEM       270B Advanced Biophysical Chemistry II
+CHEM       C271A    Chemical Biology I - Structure, Synthesis and Funct...
+CHEM       C271B    Chemical Biology II - Enzyme Reaction Mechanisms
+CHEM       C271C    Chemical Biology III - Contemporary Topics in Chemi...
+CHEM       295  Special Topics
+CHEM       298  Seminars for Graduate Students
+CHEM       299  Research for Graduate Students
+CHEM       300  Professional Preparation: Supervised Teaching of Ch...
+CHEM       301  Pre-High School Chemistry Classroom Immersion
+CHEM       301A Undergraduate Lab Instruction
+CHEM       301B Undergraduate Chemistry Instruction
+CHEM       301C Chemistry 3 Lab Assistant
+CHEM       301D Undergraduate Chemistry Course Instruction
+CHEM       301T Undergraduate Preparation for Teaching or Instructi...
+CHEM       301W Supervised Instruction of Chemistry Scholars
+CHEM       602  Individual Study for Doctoral Students
+
+CHICANO STUDIES
+CHICANO    R1A  Reading and Composition
+CHICANO    R1B  Reading and Composition
+CHICANO    20   Introduction to Chicano Culture
+CHICANO    24   Freshman Seminar
+CHICANO    97   Field Study in Chicano Studies
+CHICANO    98   Supervised Group Study
+CHICANO    99   Supervised Independent Study and Research
+CHICANO    110  Latina/o Philosophy and Religious Thought
+CHICANO    135B Latino Narrative Film Since 1990
+CHICANO    143  Chicano and Latin American Literature
+CHICANO    150B History of the Southwest: Mexican-United States War...
+CHICANO    C161 Central American Peoples and Cultures
+CHICANO    165  Cuba, the United States and Cuban Americans
+CHICANO    172  Chicanos and the Educational System
+CHICANO    176  Chicanos and Health Care
+CHICANO    180  Topics in Chicano Studies
+CHICANO    180AC    Topics in Chicano Studies
+CHICANO    195  Senior Thesis
+CHICANO    H195B    Senior Honors Thesis for Chicano Studies Majors
+CHICANO    197  Field Work in Chicano Studies
+CHICANO    198  Directed Group Study
+CHICANO    199  Supervised Independent Study and Research
+
+CITY AND REGIONAL PLANNING
+CY PLAN    98   Special Group Study
+CY PLAN    110  Introduction to City Planning
+CY PLAN    111  Introduction to Housing: An International Survey
+CY PLAN    114  Introduction to Urban and Regional Transportation
+CY PLAN    116  Urban Planning Process--The Undergraduate Planning ...
+CY PLAN    118AC    The Urban Community
+CY PLAN    119  Planning for Sustainability
+CY PLAN    120  Community Planning and Public Policy for Disability
+CY PLAN    190  Advanced Topics in Urban Studies
+CY PLAN    198  Special Group Study
+CY PLAN    204B Research Methods for Planners
+CY PLAN    204C Introduction to GIS and City Planning
+CY PLAN    207  Land and Housing Market Economics
+CY PLAN    208  Plan Preparation Studio
+CY PLAN    C217 Transportation Policy and Planning
+CY PLAN    219  Comparative International Topics in Transportation
+CY PLAN    223  Economic Development Planning
+CY PLAN    228  Research Workshop on Metropolitan Regional Planning
+CY PLAN    230  U.S. Housing, Planning, and Policy
+CY PLAN    235  Methods of Project Analysis
+CY PLAN    C240 Theories of Urban Form and Design
+CY PLAN    248  Advanced Studio: Urban Design/Environmental Plannin...
+CY PLAN    252  Land Use Controls
+CY PLAN    254  Sustainable Communities
+CY PLAN    271  Development Theories and Practices
+CY PLAN    280C Doctoral Colloquium
+CY PLAN    281  Theories of Planning Practice
+CY PLAN    290  Topics in City and Metropolitan Planning
+CY PLAN    291  Special Projects Studio in Planning
+CY PLAN    298  Group Studies
+
+CIVIL AND ENVIRONMENTAL ENGINEERING
+CIV ENG    11   Engineered Systems and Sustainability
+CIV ENG    24   Freshman Seminars
+CIV ENG    C30  Introduction to Solid Mechanics
+CIV ENG    60   Structure and Properties of Civil Engineering Mater...
+CIV ENG    93   Engineering Data Analysis
+CIV ENG    98   Supervised Group Study and Research
+CIV ENG    99   Supervised Independent Study and Research
+CIV ENG    100  Elementary Fluid Mechanics
+CIV ENG    103  Introduction to Hydrology
+CIV ENG    C106 Air Pollution
+CIV ENG    107  Climate Change Mitigation
+CIV ENG    111L Water and Air Quality Laboratory
+CIV ENG    112  Environmental Engineering Design
+CIV ENG    120  Structural Engineering
+CIV ENG    121  Advanced Structural Analysis
+CIV ENG    122L Structural Steel Design Project
+CIV ENG    123L Structural Concrete Design Project
+CIV ENG    130N Mechanics of Structures
+CIV ENG    C133 Engineering Analysis Using the Finite Element Metho...
+CIV ENG    155  Transportation Systems Engineering
+CIV ENG    156  Infrastructure Planning and Management
+CIV ENG    165  Concrete Materials and Construction
+CIV ENG    175  Geotechnical and Geoenvironmental Engineering
+CIV ENG    186  Design of Cyber-Physical Systems
+CIV ENG    H194 Honors Undergraduate Research
+CIV ENG    197  Field Studies in Civil Engineering
+CIV ENG    198  Directed Group Study for Advanced Undergraduates
+CIV ENG    199  Supervised Independent Study
+CIV ENG    200B Numerical Methods for Environmental Flow Modeling
+CIV ENG    200C Transport and Mixing in the Environment
+CIV ENG    209  Design for Sustainable Communities
+CIV ENG    210A Control of Water-Related Pathogens
+CIV ENG    211B Environmental Biological Processes
+CIV ENG    212  Water Quality Engineering
+CIV ENG    217  Environmental Chemical Kinetics
+CIV ENG    221  Nonlinear Structural Analysis
+CIV ENG    222  Finite Element Methods
+CIV ENG    226  Stochastic Structural Dynamics
+CIV ENG    227  Earthquake-Resistant Design
+CIV ENG    232  Structural Mechanics
+CIV ENG    C236 Micromechanics
+CIV ENG    246  Prestressed Concrete Structures
+CIV ENG    247  Design of Steel and Composite Structures
+CIV ENG    C250N    Transportation Policy and Planning
+CIV ENG    255  Highway Traffic Operations
+CIV ENG    256  Transportation Sustainability
+CIV ENG    C258 Supply Chain and Logistics Management
+CIV ENG    259  Public Transportation Systems
+CIV ENG    260  Air Transportation
+CIV ENG    261   Infrastructure Systems Management
+CIV ENG    C265 Traffic Safety and Injury Control
+CIV ENG    268B Lean Construction and Supply Chain Management
+CIV ENG    268D Law for Engineers
+CIV ENG    268I Business Fundamentals for Engineers
+CIV ENG    271  Sensors and Signal Interpretation
+CIV ENG    272  Numerical Modelling in Geomechanics
+CIV ENG    273  Advanced GeoEngineering Testing and Design
+CIV ENG    277  Advanced Foundation Engineering
+CIV ENG    290  Advanced Special Topics in Civil and Environmental ...
+CIV ENG    290F Advanced Topics in Seismology
+CIV ENG    290J Advanced Topics in Geotechnical Engineering
+CIV ENG    C291F    Control and Optimization of Distributed Parameters ...
+CIV ENG    297  Field Studies in Civil and Environmental Engineerin...
+CIV ENG    298  Group Studies, Seminars, or Group Research
+CIV ENG    299  Individual Research
+CIV ENG    301  Workshop for Future Civil and Environmental Enginee...
+CIV ENG    601  Individual Study for Master's Students
+CIV ENG    602  Individual Study for Doctoral Students
+
+CLASSICS
+CLASSIC    10B  Introduction to Roman Civilization
+CLASSIC    17B  Introduction to the Archaeology of the Late Greek a...
+CLASSIC    24   Freshman Seminars
+CLASSIC    28   The Classic Myths
+CLASSIC    35   Greek Tragedy
+CLASSIC    98   Directed Group Study for Freshmen and Sophomores
+CLASSIC    99   Supervised Independent Study and Research
+CLASSIC    130  Topics in Ancient Greek and Roman Culture
+CLASSIC    172  Art and Archaeology of the Aegean Bronze Age
+CLASSIC    175D Pompeii and Herculaneum
+CLASSIC    H195 Honors Course in Classical Civilization
+CLASSIC    198  Directed Group Study for Advanced Undergraduates
+CLASSIC    199  Supervised Independent Study and Research
+CLASSIC    201B Survey of Greek Literature
+CLASSIC    218  Greek Philosophers
+CLASSIC    239  Topics in Greek or Roman Literature, History, and C...
+CLASSIC    260  Advanced Latin Composition
+CLASSIC    270  Seminar in Classical Archaeology
+CLASSIC    298  Special Study
+CLASSIC    299  Special Study
+CLASSIC    302  Teaching Practicum
+CLASSIC    601  Individual Study for Master's Candidates
+CLASSIC    602  Individual Study for Doctoral Candidates
+
+GREEK
+GREEK      2    Elementary Greek
+GREEK      10   Intensive Elementary Greek
+GREEK      98   Directed Group Study for Freshmen and Sophomores
+GREEK      99   Supervised Independent Study and Research
+GREEK      101  Homer
+GREEK      115  Archaic Poetry
+GREEK      125  Greek Literature of the Hellenistic and Imperial Pe...
+GREEK      H195 Honors Course in Greek
+GREEK      198  Directed Group Study for Advanced Undergraduates
+GREEK      199  Supervised Independent Study and Research
+
+LATIN
+LATIN      1    Elementary Latin
+LATIN      2    Elementary Latin
+LATIN      40   Intermediate Latin Prose Composition
+LATIN      98   Directed Group Study for Freshmen and Sophomores
+LATIN      99   Supervised Independent Study and Research
+LATIN      100  Republican Prose
+LATIN      101  Vergil
+LATIN      102  Lyric and Society
+LATIN      119  Latin Epic
+LATIN      H195 Honors Course in Latin
+LATIN      198  Directed Group Study for Advanced Undergraduates
+LATIN      199  Supervised Independent Study and Research
+
+COGNITIVE SCIENCE
+COG SCI    1    Introduction to Cognitive Science
+COG SCI    C101 The Mind and Language
+COG SCI    C103 History of Information
+COG SCI    C126 Perception
+COG SCI    131  Computational Models of Cognition
+COG SCI    C140 Quantitative Methods in Linguistics
+COG SCI    C142 Language and Thought
+COG SCI    201  Graduate Seminar on the Mind and Language
+
+COLLEGE WRITING PROGRAM
+COLWRIT    1    Grammar and Vocabulary of Written English
+COLWRIT    R1A  Accelerated Reading and Composition
+COLWRIT    R4B  Reading, Composition, and Research
+COLWRIT    9C   ESP ACAD WRITING
+COLWRIT    10A  Introduction to Public Speaking
+COLWRIT    10B  Advanced Public Speaking
+COLWRIT    21   Advanced Listening and Speaking for International S...
+COLWRIT    25AC Reading in and about U.S. Education Institutions
+COLWRIT    50AC Researching Water in the West: Its Presence, Its Ab...
+COLWRIT    98   Directed Group Study
+COLWRIT    99   Supervised Independent Study
+COLWRIT    110  Advanced Composition: Challenging Writing
+COLWRIT    130  Introduction to the Craft of Creative Writing
+COLWRIT    150AC    Researching Water in the West: Its Presence, Its Ab...
+COLWRIT    151  Introduction to Principles of Professional Communic...
+COLWRIT    152  Advanced Professional Communication
+COLWRIT    198  Directed Group Study
+COLWRIT    199  Supervised Independent Study
+
+COMPARATIVE BIOCHEMISTRY
+COMPBIO    299  Graduate Research
+
+COMPARATIVE LITERATURE
+COM LIT    R1A  English Composition in Connection with the Reading ...
+COM LIT    R1B  English Composition in Connection with the Reading ...
+COM LIT    60AC Topics in the Literature of American Cultures
+COM LIT    98   Directed Group Study for Freshmen and Sophomores
+COM LIT    100  Introduction to Comparative Literature
+COM LIT    112B Modern Greek Language and Modern Greek Composition
+COM LIT    152  The Middle Ages
+COM LIT    154  Eighteenth- and 19th-Century Literature
+COM LIT    155  The Modern Period
+COM LIT    170  Special Topics in Comparative Literature
+COM LIT    171  Topics in Modern Greek Literature
+COM LIT    190  Senior Seminar in Comparative Literature
+COM LIT    H195 Honors Course
+COM LIT    198  Directed Group Study
+COM LIT    199  Supervised Independent Study and Research
+COM LIT    202B Lyric Poetry
+COM LIT    212  Studies in Medieval Literature
+COM LIT    225  Studies in Symbolist and Modern Literature
+COM LIT    227  Studies in Contemporary Literature
+COM LIT    260  Problems in Literary Translation
+COM LIT    266  Nationalism, Colonialism, and Culture
+COM LIT    298  Special Study
+COM LIT    299  Directed Research
+COM LIT    300  Supervised Teaching in Comparative Literature
+COM LIT    601  Individual Study for Master's Students
+COM LIT    602  Individual Study for Doctoral Students
+
+COMPUTATIONAL BIOLOGY
+CMPBIO     294B Introduction to Research in Computational Biology
+CMPBIO     295  Individual Research for Doctoral Students
+
+CRITICAL THEORY GRADUATE GROUP
+CRIT TH    240  Contemporary Critique and Critical Theory
+
+DEMOGRAPHY
+DEMOG      98   Directed Group Study
+DEMOG      145AC    The American Immigrant Experience
+DEMOG      C175 Economic Demography
+DEMOG      198  Directed Group Study
+DEMOG      211  Advanced Demographic Analysis
+DEMOG      260  Special Topics in Demography Seminar
+DEMOG      C275A    Economic Demography
+DEMOG      298  Directed Reading
+DEMOG      299  Directed Research
+DEMOG      602  Individual Study for Doctoral Students
+
+DEVELOPMENT PRACTICE
+DEVP       225  Innovation, Product Development, and Marketing
+DEVP       C232 Foundations of Public Health
+DEVP       233  Law, Politics, and Policymaking
+DEVP       237  Leadership, Conflict Resolution, and Community Deve...
+DEVP       299  Independent Study
+DEVP       300  Interactive/Multidisciplinary Seminar
+
+DEVELOPMENT STUDIES
+DEV STD    24   Freshman Seminar
+DEV STD    C100 History of Development and Underdevelopment
+DEV STD    H195 Senior Honors Thesis Seminar
+
+EARTH AND PLANETARY SCIENCE
+EPS    3    The Water Planet
+EPS    24   Freshman Seminar in Earth and Planetary Sciences
+EPS    39A  Freshman/Sophomore Seminar
+EPS    50   The Planet Earth
+EPS    C100 Communicating Ocean Science
+EPS    100B Genesis and Interpretation of Rocks
+EPS    101  Field Geology and Digital Mapping
+EPS    102  History and Evolution of Planet Earth
+EPS    103  Introduction to Aquatic and Marine Geochemistry
+EPS    118  Advanced Field Course
+EPS    119  Geologic Field Studies
+EPS    122  Physics of the Earth and Planetary Interiors
+EPS    130  Strong Motion Seismology
+EPS    150  Case Studies in Earth Systems
+EPS    C162 Planetary Astrophysics
+EPS    C180 Air Pollution
+EPS    C182 Atmospheric Chemistry and Physics Laboratory
+EPS    C183 Carbon Cycle Dynamics
+EPS    H195 Senior Honors Course
+EPS    198  Directed Group Study
+EPS    199  Supervised Independent Study and Research
+EPS    200  Problems in Hydrogeology
+EPS    203  Introduction to Aquatic and Marine Geochemistry
+EPS    207  Laboratory in Observational Seismology
+EPS    214  Igneous Petrology
+EPS    217  Fluvial Geomorphology
+EPS    220  Advanced Concepts in Mineral Physics
+EPS    225  Topics in High-Pressure Research
+EPS    C241 Stable Isotope Ecology
+EPS    251  Carbon Cycle Dynamics
+EPS    254  Advanced Topics in Seismology and Geophysics
+EPS    255  Advanced Topics in Earth and Planetary Science
+EPS    256  Earthquake of the Week
+EPS    280  Research
+EPS    290  Seminar
+EPS    C292 Planetary Science Seminar
+EPS    C295Z    Energy Solutions: Carbon Capture and Sequestration
+EPS    298  Directed Group Study for Graduates
+
+EAST ASIAN LANGUAGES AND CULTURES
+EA LANG    105  Dynamics of Romantic Core Values in East Asian Prem...
+EA LANG    110  Bio-Ethical Issues in East Asian Thought
+EA LANG    112  The East Asian Sixties
+EA LANG    C128 Buddhism in Contemporary Society
+EA LANG    181  East Asian Film: Special Topics in Genre
+
+CHINESE
+CHINESE    1B   Elementary Chinese
+CHINESE    7B   Introduction to Modern Chinese Literature and Cultu...
+CHINESE    10B  Intermediate Chinese
+CHINESE    10X  Intermediate Chinese for Mandarin Speakers
+CHINESE    10Y  Intermediate Chinese for Dialect Speakers
+CHINESE    39B  Freshman/Sophomore Seminar
+CHINESE    100B Advanced Chinese
+CHINESE    100XB    Advanced Chinese for Heritage Learners
+CHINESE    101  Fourth-Year Readings: Literature
+CHINESE    110B Introduction to Literary Chinese
+CHINESE    112  Fifth-Year Chinese B
+CHINESE    122  Ancient Chinese Poetry
+CHINESE    C140 Readings in Chinese Buddhist Texts
+CHINESE    158  Reading Chinese Cities
+CHINESE    176  Bad Emperors: Fantasies of Sovereignty and Transgre...
+CHINESE    181  Sex and Gender in Premodern Chinese Culture
+CHINESE    C184 Sonic Culture in China
+CHINESE    221  Reading the Zhuangzi
+CHINESE    242A Genre and Method in Traditional Chinese Texts
+CHINESE    255  Late Imperial Fiction and Drama
+CHINESE    280  Modern Chinese Cultural Studies
+CHINESE    298  Directed Study for Graduate Students
+CHINESE    299  Thesis Preparation and Related Research
+CHINESE    601  Individual Study for Master's Students
+CHINESE    602  Individual Study for Doctoral Students
+
+JAPANESE
+JAPAN      1B   Elementary Japanese
+JAPAN      7B   Introduction to Modern Japanese Literature and Cult...
+JAPAN      10B  Intermediate Japanese
+JAPAN      100B Advanced Japanese
+JAPAN      100X Advanced Japanese for Heritage Learners
+JAPAN      102  Fourth-year Readings: Japanese Culture
+JAPAN      104  Fourth-Year Readings: Japanese History
+JAPAN      112  Fifth-Year Japanese B
+JAPAN      146  Japanese Historical Documents
+JAPAN      159  Contemporary Japanese Literature
+JAPAN      161  Introduction to Japanese Linguistics: Usage
+JAPAN      170  Classical Japanese Literature in Translation
+JAPAN      181  Mediating Disaster: Fukushima, Before and After
+JAPAN      C225 Readings in Japanese Buddhist Texts
+JAPAN      230  Seminar in Classical Japanese Poetry
+JAPAN      C231 Japanese Studies: Past, Present... and Future?
+JAPAN      259  Seminar in Postwar Japanese Literature
+JAPAN      298  Directed Study for Graduate Students
+JAPAN      299  Thesis Preparation and Related Research
+JAPAN      601  Individual Study for Master's Students
+JAPAN      602  Individual Study for Doctoral Students
+
+KOREAN
+KOREAN     1B   Elementary Korean
+KOREAN     1BX  Elementary Korean for Heritage Speakers
+KOREAN     7B   Introduction to Modern Korean Literature and Cultur...
+KOREAN     10B  Intermediate Korean
+KOREAN     10BX Intermediate Korean for Heritage Speakers
+KOREAN     100B Advanced Korean
+KOREAN     100BX    Advanced Korean for Heritage Speakers
+KOREAN     102  Fourth-Year Readings--Social Sciences and History
+KOREAN     112  Fifth-Year Korean B
+KOREAN     155  Modern Korean Fiction
+KOREAN     170  Intercultural Encounters in Korean Literature
+KOREAN     298  Directed Study for Graduate Students
+KOREAN     299  Thesis Preparation and Related Research
+KOREAN     601  Individual Study for Master's Students
+KOREAN     602  Individual Study for Doctoral Students
+
+TIBETAN
+TIBETAN    1B   Elementary Tibetan
+TIBETAN    115  Contemporary Tibet
+TIBETAN    C224 Readings in Tibetan Buddhist Texts
+
+ECONOMICS
+ECON       1    Introduction to Economics
+ECON       2    Introduction to Economics--Lecture Format
+ECON       C3   Introduction to Environmental Economics and Policy
+ECON       84   Sophomore Seminar
+ECON       100A Economic Analysis--Micro
+ECON       100B Economic Analysis--Macro
+ECON       101A Economic Theory--Micro
+ECON       101B Economic Theory--Macro
+ECON       115  The World Economy in the Twentieth Century
+ECON       123  Government Regulation of Industry
+ECON       124  Special Topics in Industrial Organization
+ECON       C125 Environmental Economics
+ECON       131  Public Economics
+ECON       136  Financial Economics
+ECON       138  Financial and Behavioral Economics
+ECON       140  Economic Statistics and Econometrics
+ECON       141  Econometric Analysis
+ECON       C142 Applied Econometrics and Public Policy
+ECON       151  Labor Economics
+ECON       154  Economics of Discrimination
+ECON       157  Health Economics
+ECON       162  The Chinese Economy
+ECON       172  Case Studies in Economic Development
+ECON       C175 Economic Demography
+ECON       C181 International Trade
+ECON       183  International Economic Seminar
+ECON       191  Topics in Economic Research
+ECON       H195B    Senior Honors Thesis
+ECON       197  Field Studies
+ECON       198  Directed Group Study
+ECON       199  Supervised Independent Study and Research
+ECON       201B Economic Theory
+ECON       202B Macroeconomic Theory
+ECON       208  Microeconomic Theory Seminar
+ECON       209B Theory and Application of Non-Cooperative Games: II
+ECON       210A Introduction to Economic History
+ECON       211  Seminar in Economic History
+ECON       218  Seminar in Psychology and Economics
+ECON       219A Foundations of Psychology and Economics
+ECON       219B Applications of Psychology and Economics
+ECON       219D Experimental Economics
+ECON       220A Industrial Organization
+ECON       221  Seminar in Industrial Organization: Regulation and...
+ECON       C222 Economics of Innovation
+ECON       230B Public Economics
+ECON       231  Seminar in Public Sector Economics
+ECON       234C Financial Decision-Making in Firms
+ECON       235  Financial Economics Seminar
+ECON       236B Aggregate Economics
+ECON       237  Seminar in Advanced Macroeconomics and Money
+ECON       240B Econometrics
+ECON       241A Econometrics
+ECON       242  Seminar in Econometrics
+ECON       244  Applied Econometrics
+ECON       250B Labor Economics
+ECON       251  Seminar in Labor Economics
+ECON       270B Development Economics
+ECON       270C Development Economics
+ECON       271  Seminar in Economic Development and Planning
+ECON       C275A    Economic Demography
+ECON       280C International Economics
+ECON       281  Seminar in International Trade and Finance
+ECON       291  Departmental Seminar
+ECON       295  Survey of Research in Economics
+ECON       298  Directed Group Study for Graduates
+ECON       299  Supervised Independent Study and Research
+ECON       301  GSI Practicum
+ECON       602  Individual Study for Doctoral Students
+
+EDUCATION
+EDUC       40AC Experiencing Education: Diversity and (In)Equality...
+EDUC       97   Field Studies
+EDUC       98   Directed Group Study
+EDUC       114A Early Development and Education
+EDUC       130  Knowing and Learning in Mathematics and Science
+EDUC       131  Classroom Interactions in Science and Mathematics: ...
+EDUC       140AC    Literacy: Individual and Societal Development
+EDUC       143  Introduction to the Teaching of English
+EDUC       C145 Literacy through Literature
+EDUC       160  Foundations for Teaching Social Studies
+EDUC       182AC    The Politics of Educational Inequality
+EDUC       190  Critical Studies in Education
+EDUC       195B Special Topics in the Foundations of Teaching
+EDUC       197  Field Studies
+EDUC       198  Directed Group Study
+EDUC       199  Supervised Independent Study and Research for Under...
+EDUC       201B Seminars in Intellectual Development
+EDUC       202D Seminars in Social and Personality Development
+EDUC       204C Research Seminars: Inquiry in Educational Psycholog...
+EDUC       205  Instruction and Development
+EDUC       207C Diagnosis of Human Handicaps
+EDUC       212  Adolescent Development and the Teaching of Secondar...
+EDUC       213B Theoretical and Scientific Bases for School Psychol...
+EDUC       213D Educational Interventions for the School Psychologi...
+EDUC       213L Laboratory for School Psychology
+EDUC       223B Special Problems in Mathematics, Science and Techno...
+EDUC       228A Qualitative Methodology
+EDUC       231  Introduction to Secondary School
+EDUC       236B Elementary Teaching in Mathematics
+EDUC       240B Theoretical Issues in the Study of Literacy
+EDUC       244C Methods for Teaching English in the Secondary Schoo...
+EDUC       246A Teaching Linguistic and Cultural Minority Students
+EDUC       249C Foundations in Reading (Learning from Text) for Sec...
+EDUC       250A Qualitative Research in Language/Literacy Education
+EDUC       250D Language and Identity
+EDUC       258  Academic Support Services for Student Athletes
+EDUC       261A Organization Theory in Education and Other Social S...
+EDUC       262C Personnel Administration in School Systems and Soci...
+EDUC       262D Research Group on the Working Lives of Teachers
+EDUC       263B Legal and Policy Issues in Urban Educational Leader...
+EDUC       266B School Site Finance and Resources 1
+EDUC       270B BEAR Center Seminar
+EDUC       271B Introduction to Qualitative Research Methods
+EDUC       272B School Data Analysis for Principals
+EDUC       273B Research Group on Policy Implementation
+EDUC       273C Decision Making Based on Data Evidence
+EDUC       274B Measurement in Education and the Social Sciences II
+EDUC       274C Research Seminar in Measurement
+EDUC       275B Data Analysis in Educational Research II
+EDUC       275H Research Group in Multilevel Modeling
+EDUC       275L Educational Data Analysis Laboratory II
+EDUC       276A Introduction to Program Evaluation
+EDUC       278C Milestone 2: Mapping the Professional Knowledge Bas...
+EDUC       278D Milestone 4:Research Design and Methodology
+EDUC       280B Proseminar: Sociocultural Critique of Education
+EDUC       280D Research Apprenticeship and Qualitative Methodology...
+EDUC       283F Urban Education
+EDUC       290A Policy, Organization, Measurement, and Evaluation
+EDUC       290B Education in Language, Literacy, and Culture
+EDUC       290C Cognition and Development
+EDUC       290E Special Topics Seminar
+EDUC       294A Thesis Seminar: Policy, Organization, Measurement, ...
+EDUC       294B Thesis Seminar--ELLC
+EDUC       294E Thesis Seminar
+EDUC       295B Technology, Curriculum, and Instruction
+EDUC       295C Integrating Technology into Secondary English Instr...
+EDUC       298A Group Study for Graduate Students--POME
+EDUC       298B Group Study for Graduate Students--LLSC
+EDUC       298C Group Studies, Seminars, or Group Research--DCEMST
+EDUC       298E Group Study and Research
+EDUC       299  Special Study and Research
+EDUC       390B Supervised Teaching for Secondary English
+EDUC       390C Supervised Teaching in Elementary Education
+EDUC       390D Supervised Teaching in Mathematics and Science for ...
+EDUC       393  Preparation for Completion of the Elementary Mathem...
+EDUC       413B Community-Based Internship in School Psychology
+EDUC       413D School-Based Internship in School Psychology
+EDUC       413L Consultation for School Psychology Students
+EDUC       460B Practicum in School Site Management
+EDUC       460C Research Practicum in Administration
+EDUC       601  Individual Study for Master's Students
+
+ELECTRICAL ENGINEERING
+EL ENG     20   Structure and Interpretation of Systems and Signals
+EL ENG     40   Introduction to Microelectronic Circuits
+EL ENG     97   Field Study
+EL ENG     98   Directed Group Study for Undergraduates
+EL ENG     99   Individual Study and Research for Undergraduates
+EL ENG     105  Microelectronic Devices and Circuits
+EL ENG     117  Electromagnetic Fields and Waves
+EL ENG     118  Introduction to Optical Engineering
+EL ENG     120  Signals and Systems
+EL ENG     122  Introduction to Communication Networks
+EL ENG     123  Digital Signal Processing
+EL ENG     126  Probability and Random Processes
+EL ENG     127  Optimization Models in Engineering
+EL ENG     C128 Feedback Control Systems
+EL ENG     130  Integrated-Circuit Devices
+EL ENG     134  Fundamentals of Photovoltaic Devices
+EL ENG     137B Introduction to Electric Power Systems
+EL ENG     140  Linear Integrated Circuits
+EL ENG     143  Microfabrication Technology
+EL ENG     C145O    Laboratory in the Mechanics of Organisms
+EL ENG     192  Mechatronic Design Laboratory
+EL ENG     H196A    Senior Honors Thesis Research
+EL ENG     H196B    Senior Honors Thesis Research
+EL ENG     197  Field Study
+EL ENG     198  Directed Group Study for Advanced Undergraduates
+EL ENG     199  Supervised Independent Study
+EL ENG     218A Introduction to Optical Engineering
+EL ENG     C219D    Concurrent Models of Computation
+EL ENG     222  Nonlinear Systems--Analysis, Stability and Control
+EL ENG     225A Digital Signal Processing
+EL ENG     225B Digital Image Processing
+EL ENG     225D Audio Signal Processing in Humans and Machines
+EL ENG     C225E    Principles of Magnetic Resonance Imaging
+EL ENG     227AT    Optimization Models in Engineering
+EL ENG     C227C    Convex Optimization and Approximation
+EL ENG     230A Integrated-Circuit Devices
+EL ENG     W230A    Integrated-Circuit Devices
+EL ENG     230B Solid State Devices
+EL ENG     240A Analog Integrated Circuits
+EL ENG     240B Advanced Analog Integrated Circuits
+EL ENG     W241A    Introduction to Digital Integrated Circuits
+EL ENG     241B Advanced Digital Integrated Circuits
+EL ENG     243  Advanced IC Processing and Layout
+EL ENG     C247B    Introduction to MEMS Design
+EL ENG     290A Advanced Topics in Computer-Aided Design
+EL ENG     290C Advanced Topics in Circuit Design
+EL ENG     290F Advanced Topics in Photonics
+EL ENG     290T Advanced Topics in Signal Processing
+EL ENG     C291 Control and Optimization of Distributed Parameters ...
+EL ENG     C291E    Hybrid Systems and Intelligent Control
+EL ENG     298  Group Studies, Seminars, or Group Research
+EL ENG     299  Individual Research
+EL ENG     375  Teaching Techniques for Electrical Engineering
+EL ENG     602  Individual Study for Doctoral Students
+
+COMPUTER SCIENCE
+COMPSCI    9A   Matlab for Programmers
+COMPSCI    9C   C for Programmers
+COMPSCI    9D   Scheme and Functional Programming for Programmers
+COMPSCI    9E   Productive Use of the UNIX Environment
+COMPSCI    9F   C++ for Programmers
+COMPSCI    9G   JAVA for Programmers
+COMPSCI    9H   Python for Programmers
+COMPSCI    10   The Beauty and Joy of Computing
+COMPSCI    24   Freshman Seminars
+COMPSCI    47A  Completion of Work in Computer Science 61A
+COMPSCI    47B  Completion of Work in Computer Science 61B
+COMPSCI    47C  Completion of Work in Computer Science 61C
+COMPSCI    61A  The Structure and Interpretation of Computer Progra...
+COMPSCI    61AS The Structure and Interpretation of Computer Progra...
+COMPSCI    61B  Data Structures
+COMPSCI    61C  Machine Structures
+COMPSCI    70   Discrete Mathematics and Probability Theory
+COMPSCI    98   Directed Group Study
+COMPSCI    152  Computer Architecture and Engineering
+COMPSCI    160  User Interface Design and Development
+COMPSCI    161  Computer Security
+COMPSCI    162  Operating Systems and System Programming
+COMPSCI    164  Programming Languages and Compilers
+COMPSCI    169  Software Engineering
+COMPSCI    170  Efficient Algorithms and Intractable Problems
+COMPSCI    174  Combinatorics and Discrete Probability
+COMPSCI    184  Foundations of Computer Graphics
+COMPSCI    186  Introduction to Database Systems
+COMPSCI    188  Introduction to Artificial Intelligence
+COMPSCI    189  Introduction to Machine Learning
+COMPSCI    194  Special Topics
+COMPSCI    195  Social Implications of Computer Technology
+COMPSCI    H195 Honors Social Implications of Computer Technology
+COMPSCI    198  Directed Group Studies for Advanced Undergraduates
+COMPSCI    C219D    Concurrent Models of Computation
+COMPSCI    252  Graduate Computer Architecture
+COMPSCI    260A User Interface Design and Development
+COMPSCI    261N Internet and Network Security
+COMPSCI    263  Design of Programming Languages
+COMPSCI    C267 Applications of Parallel Computers
+COMPSCI    268  Computer Networks
+COMPSCI    278  Machine-Based Complexity Theory
+COMPSCI    C281A    Statistical Learning Theory
+COMPSCI    C281B    Advanced Topics in Learning and Decision Making
+COMPSCI    284A Foundations of Computer Graphics
+COMPSCI    289A Introduction to Machine Learning
+COMPSCI    294  Special Topics
+COMPSCI    297  Field Studies in Computer Science
+COMPSCI    298  Group Studies Seminars, or Group Research
+COMPSCI    299  Individual Research
+COMPSCI    302  Designing Computer Science Education
+COMPSCI    375  Teaching Techniques for Computer Science
+COMPSCI    399  Professional Preparation: Supervised Teaching of Co...
+
+ENERGY AND RESOURCES GROUP
+ENE,RES    98   Directed Group Study for Lower Division Students
+ENE,RES    99   Supervised Independent Studies for Freshmen and Sop...
+ENE,RES    102  Quantitative Aspects of Global Environmental Proble...
+ENE,RES    175  Water and Development
+ENE,RES    C180 Ecological Economics in Historical Context
+ENE,RES    199  Supervised Independent Study and Research
+ENE,RES    273  Research Methods in Social Sciences
+ENE,RES    275  Water and Development
+ENE,RES    290  Seminar in Energy and Resources
+ENE,RES    292D Master's Project Seminar
+ENE,RES    295  Special Topics in Energy and Resources
+ENE,RES    296  Doctoral Seminar
+ENE,RES    298  Doctoral Seminar
+ENE,RES    298N Directed Group Study
+ENE,RES    299  Individual Research in Energy and Resources
+
+ENGINEERING
+ENGIN      7    Introduction to Computer Programming for Scientists...
+ENGIN      10   Engineering Design and Analysis
+ENGIN      28   Basic Engineering Design Graphics
+ENGIN      45   Properties of Materials
+ENGIN      98   Directed Group Studies for Lower Division Undergrad...
+ENGIN      120  Principles of Engineering Economics
+ENGIN      125  Ethics, Engineering, and Society
+ENGIN      147  Supplementary Work in Upper Division Engineering
+ENGIN      157AC    Engineering, The Environment, and Society
+ENGIN      198  Directed Group Studies for Advanced Undergraduates
+ENGIN      201  Ocean Engineering Seminar
+ENGIN      C233 Applications of Parallel Computers
+ENGIN      266B Spectral Methods for Fluid Dynamics
+ENGIN      272  Engineering Leadership II
+ENGIN      295  Master of Engineering Capstone Integration
+ENGIN      296MB    Master of Engineering Capstone Project
+ENGIN      298B Group Studies or Seminars
+
+ENGLISH
+ENGLISH    R1A  Reading and Composition
+ENGLISH    R1B  Reading and Composition
+ENGLISH    20   Modern British and American Literature
+ENGLISH    24   Freshman Seminars
+ENGLISH    37   Chicana/o Literature and Culture
+ENGLISH    43B  Introduction to the Writing of Verse
+ENGLISH    45A  Literature in English
+ENGLISH    45B  Literature in English
+ENGLISH    45C  Literature in English
+ENGLISH    84   Sophomore Seminar
+ENGLISH    98   Directed Group Study for Freshmen and Sophomores
+ENGLISH    99   Independent Study
+ENGLISH    102  Topics in the English Language
+ENGLISH    110  Medieval Literature
+ENGLISH    111  Chaucer
+ENGLISH    114A English Drama
+ENGLISH    117S Shakespeare
+ENGLISH    118  Milton
+ENGLISH    120  Literature of the Later 18th Century
+ENGLISH    121  Romantic Period
+ENGLISH    127  Modern Poetry
+ENGLISH    130A American Literature: Before 1800
+ENGLISH    130D American Literature: 1900-1945
+ENGLISH    C136 Topics in American Studies
+ENGLISH    141  Modes of Writing (Exposition, Fiction, Verse, Etc.)
+ENGLISH    143A Short Fiction
+ENGLISH    143B Verse
+ENGLISH    143N Prose Nonfiction
+ENGLISH    161  Introduction to Literary Theory
+ENGLISH    165  Special Topics
+ENGLISH    166  Special Topics
+ENGLISH    166AC    Special Topics in American Cultures
+ENGLISH    171  Literature and Sexual Identity
+ENGLISH    174  Literature and History
+ENGLISH    180A Autobiography
+ENGLISH    180H Short Story
+ENGLISH    180L Lyric Verse
+ENGLISH    180N The Novel
+ENGLISH    190  Research Seminar
+ENGLISH    H195B    Honors Course
+ENGLISH    198  Directed Group Study
+ENGLISH    199  Supervised Independent Study for Advanced Undergrad...
+ENGLISH    202  History of Literary Criticism
+ENGLISH    203  Graduate Readings
+ENGLISH    205B Old English
+ENGLISH    243B Poetry Writing Workshop
+ENGLISH    246E Restoration and early 18th century
+ENGLISH    246J American 1855 to 1900
+ENGLISH    246L Literature in English 1945 to Present
+ENGLISH    250  Research Seminars
+ENGLISH    298  Special Studies
+ENGLISH    299  Special Study
+ENGLISH    310  Field Studies in Tutoring Writing
+ENGLISH    602  Individual Study for Doctoral Students
+
+ENVIRONMENTAL DESIGN
+ENV DES    1    People and Environmental Design
+ENV DES    R3B  Reading and Composition in Energy, Society, and Env...
+ENV DES    4A   Design and Activism
+ENV DES    4C   Future Ecologies: Urban Design, Climate Adaptation,...
+ENV DES    11A  Introduction to Visual Representation and Drawing
+ENV DES    11B  Introduction to Design
+ENV DES    98   Directed Group Study
+ENV DES    100  The City: Theories and Methods in Urban Studies
+ENV DES    101A Writing about Environmental Design: Short Compositi...
+ENV DES    C169B    American Cultural Landscapes, 1900 to Present
+ENV DES    195B Thesis Research and Writing
+ENV DES    198  Directed Group Study
+ENV DES    252  Urban Place Studies
+ENV DES    298  Environmental Design Group Studies
+
+ENVIRON SCI, POLICY, AND MANAGEMENT
+ESPM       C10  Environmental Issues
+ESPM       C11  Americans and the Global Forest
+ESPM       15   Introduction to Environmental Sciences
+ESPM       24   Freshman Seminar
+ESPM       39A  Freshman/Sophomore Seminar
+ESPM       42   Natural History of Insects
+ESPM       50AC Introduction to Culture and Natural Resource Manage...
+ESPM       60   Environmental Policy, Administration, and Law
+ESPM       72   Introduction to Geographic Information Systems
+ESPM       90   Introduction to Conservation and Resource Studies M...
+ESPM       98   Directed Group Study in ESPM
+ESPM       99   Supervised Independent Study and Research
+ESPM       100ES    Introduction to the Methods of Environmental Scienc...
+ESPM       102C Resource Management
+ESPM       102D Resource and Environmental Policy
+ESPM       111  Ecosystem Ecology
+ESPM       113  Insect Ecology
+ESPM       114  Wildlife Ecology
+ESPM       C130 Water in Terrestrial Environment
+ESPM       131  Soil Microbial Ecology
+ESPM       132  Spider Biology
+ESPM       C138 Introduction to Comparative Virology
+ESPM       144  Insect Physiology
+ESPM       147  Field Entomology
+ESPM       C148 Pesticide Chemistry and Toxicology
+ESPM       152  Global Change Biology
+ESPM       163AC    Environmental Justice: Race, Class, Equity, and the...
+ESPM       165  International Rural Development Policy
+ESPM       166  Natural Resource Policy and Indigenous Peoples
+ESPM       C167 Environmental Health and Development
+ESPM       C170 Carbon Cycle Dynamics
+ESPM       173  Introduction to Ecological Data Analysis
+ESPM       175B Senior Research Seminar in Environmental Sciences
+ESPM       175L Senior Research Laboratory in Environmental Science...
+ESPM       C180 Air Pollution
+ESPM       C183 Forest Ecosystem Management
+ESPM       187  Restoration Ecology
+ESPM       188  Case Histories in Wildlife Management
+ESPM       192  Molecular Approaches to Environmental Problem Solvi...
+ESPM       194A Senior Seminar in Conservation and Resource Studies
+ESPM       194B Capstone Course in Society and Environment
+ESPM       195  Senior Thesis
+ESPM       H196 Honors Research
+ESPM       197  Field Study in Environmental Science, Policy, and M...
+ESPM       198  Directed Group Studies for Advanced Undergraduates
+ESPM       199  Supervised Independent Study and Research
+ESPM       201S Environmental Science, Policy, and Management Collo...
+ESPM       C204 Research Reviews in Animal Behavior: Behavior Revie...
+ESPM       210  Spatial Data Analysis for Natural Resources
+ESPM       C216 Freshwater Ecology
+ESPM       C220 Stable Isotope Ecology
+ESPM       228  Advanced Topics in Biometeorology and Micrometeorol...
+ESPM       C234 Green Chemistry: An Interdisciplonary Approach to S...
+ESPM       C255 Seminar in Sociology of Forest and Wildland Resourc...
+ESPM       259  Transnational Environmental Politics and Movements
+ESPM       260  Governance of Global Production
+ESPM       262  Race, Identity, and the Environment
+ESPM       276  Advanced Silviculture
+ESPM       277  Advanced Topics in Conservation Biology
+ESPM       C282 Health Implications of Climate Change
+ESPM       290  Special Topics in Environmental Science, Policy, an...
+ESPM       296  Individual Study
+ESPM       298  Directed Group Study
+ESPM       299  Individual Research
+ESPM       300  Supervised Teaching in Environmental Science, Polic...
+ESPM       400  Professional Training in Research
+ESPM       601  Individual Study for Master's Students
+ESPM       602  Individual Study for Doctoral Students
+ESPM       999  
+
+ETHNIC STUDIES
+ETH STD    11AC Theories and Concepts in Comparative Ethnic Studies...
+ETH STD    21AC A Comparative Survey of Racial and Ethnic Groups in...
+ETH STD    24   Freshman Seminar
+ETH STD    97   Field Study in Communities of Color
+ETH STD    98   Supervised Group Study
+ETH STD    99   Supervised Independent Study and Research
+ETH STD    100  Comparative Ethnic Literature in America
+ETH STD    101B Humanities Methods in Ethnic Studies
+ETH STD    103E Racialization, Gender, and Popular Culture
+ETH STD    122AC    Ethnicity and Race in Contemporary American Films
+ETH STD    144AC    Racism and the U.S. Law: Historical Treatment of Pe...
+ETH STD    174  Existential Panic in American Ethnic Literature
+ETH STD    176  Against the Grain: Ethnic American Art and Artists
+ETH STD    180  Selected Topics in Comparative Ethnic Studies
+ETH STD    181AC    Prison
+ETH STD    190  Advanced Seminar in Comparative Ethnic Studies
+ETH STD    190AC    Advanced Seminar in Ethnic Studies
+ETH STD    196  Senior Thesis
+ETH STD    H196B    Senior Honors Thesis for Ethnic Studies Majors
+ETH STD    197  Field Study in Communities of Color
+ETH STD    198  Supervised Group Study
+ETH STD    199  Supervised Independent Study and Research
+
+ETHNIC STUDIES GRADUATE GROUP
+ETH GRP    201  History and Narrativity: Contemporary Theories and ...
+ETH GRP    240  Series in Comparative Transnational Theories and Me...
+ETH GRP    250  Research Seminar: Selected Issues and Topics
+ETH GRP    296  Directed Dissertation Research
+ETH GRP    299  Directed Reading
+ETH GRP    601  Individual Study for Master's Students
+ETH GRP    602  Individual Study for Doctoral Students
+
+FILM AND MEDIA
+FILM       R1B  The Craft of Writing - Film Focus
+FILM       25B  The History of Film
+FILM       50   Introduction to Film for Nonmajors
+FILM       108  Special Topics in Film Genre
+FILM       128  Documentary
+FILM       140  Special Topics in Film
+FILM       151  Auteur Theory
+FILM       160  National Cinema
+FILM       180A Screenwriting
+FILM       C185 Digital Video: The Architecture of Time
+FILM       C187 Advanced Digital Video
+FILM       H195 Film Honors Thesis
+FILM       197A Field Study at the Pacific Film Archive
+FILM       197B Field Studies for Majors
+FILM       197C Film Curating Internship
+FILM       199  Supervised Independent Study for Advanced Undergrad...
+FILM       201  Graduate Film Historiography
+FILM       240  Graduate Topics in Film
+FILM       298  Special Study
+FILM       299  Directed Research
+FILM       602  Individual Study for Doctoral Students
+
+FOLKLORE
+FOLKLOR    C262B    Theories of Traditionality and Modernity
+FOLKLOR    298  Readings in Folklore
+FOLKLOR    299  Directed Research
+
+FRENCH
+FRENCH     1    Elementary French
+FRENCH     R1A  English Composition in Connection with the Reading ...
+FRENCH     R1B  English Composition in Connection with the Reading ...
+FRENCH     2    Elementary French
+FRENCH     3    Intermediate French
+FRENCH     4    Advanced Intermediate French
+FRENCH     13   Intermediate Conversation
+FRENCH     14   Advanced Conversation
+FRENCH     24   Freshman Seminars
+FRENCH     35   Practical Phonetics and Listening Comprehension
+FRENCH     102  Reading and Writing Skills in French
+FRENCH     103B Language and Culture
+FRENCH     114A Late Medieval Literature
+FRENCH     117B Seventeenth-Century Literature
+FRENCH     119A Nineteenth-Century Literature
+FRENCH     126  Senior Seminar
+FRENCH     131A Translation and Debate
+FRENCH     138  French for Future Teachers of the Language
+FRENCH     140D French Literature in English Translation
+FRENCH     150A Women in French Literature
+FRENCH     177B History and Criticism of Film
+FRENCH     180D French Civilization
+FRENCH     183A Configurations of Crisis
+FRENCH     H195A    Honors Sequence
+FRENCH     H195B    Honors Sequence
+FRENCH     197  Field Studies
+FRENCH     199  Supervised Independent Study and Research for Advan...
+FRENCH     C203 Comparative Studies in Romance Literatures and Cult...
+FRENCH     206  Special Topics in French Linguistics
+FRENCH     210A Studies in Medieval Literature
+FRENCH     250B Studies in 19th-Century Literature
+FRENCH     265B Modern Studies
+FRENCH     274  Traditions of Critical Thought: French Theory
+FRENCH     298  Special Study
+FRENCH     299  Individual Research
+FRENCH     302  Teaching French in College: Advanced First Year
+FRENCH     303  Teaching French in College: Second Year
+FRENCH     601  Special Study for Graduate Students
+FRENCH     602  Individual Study
+
+GENDER AND WOMEN'S STUDIES
+GWS    10   Introduction to Gender and Women's Studies
+GWS    50AC Gender in American Culture
+GWS    97   Internship
+GWS    98   Directed Group Study for Undergraduates
+GWS    101  Doing Feminist Research
+GWS    104  Feminist Theory
+GWS    131  Gender and Science
+GWS    139  Women and Work
+GWS    140  Feminist Cultural Studies
+GWS    C146A    Cultural Representations of Sexualities: Queer Lite...
+GWS    C146B    Cultural Representations of Sexualities: Queer Visu...
+GWS    H195 Gender and Women's Studies Senior Honors Thesis
+GWS    C196A    UCDC Core Seminar
+GWS    C196B    UCDC Internship
+GWS    C196W    Special Field Research
+GWS    197  Internship
+GWS    198  Directed Group Study for Advanced Undergraduates
+GWS    210  Advanced Interdisciplinary Studies
+GWS    220  Research Seminar
+
+LESBIAN GAY BISEXUAL TRANSGENDER ST
+LGBT       98   Directed Group Study for Advanced Undergraduates
+LGBT       100  Special Topics
+LGBT       145   Interpreting the Queer Past: Methods and Problems ...
+LGBT       C146A    Cultural Representations of Sexualities: Queer Lite...
+LGBT       C146B    Cultural Representations of Sexualities: Queer Visu...
+LGBT       198  Directed Group Study for Advanced Undergraduates
+
+GEOGRAPHY
+GEOG       31   Justice, Nature, and the Geographies of Identity
+GEOG       37   The Politics of Science and Technology
+GEOG       50AC California
+GEOG       98   Directed Group Study
+GEOG       C112 History of Development and Underdevelopment
+GEOG       130  Food and the Environment
+GEOG       C136 Water in Terrestrial Environment
+GEOG       140A Physical Landscapes: Process and Form
+GEOG       C146 Communicating Ocean Science
+GEOG       148  Biogeography
+GEOG       C157 Central American Peoples and Cultures
+GEOG       C160B    American Cultural Landscapes, 1900 to Present
+GEOG       170  Special Topics in Geography
+GEOG       171  Special Topics in Physical Geography
+GEOG       180  Field Methods for Physical Geography
+GEOG       187  Advanced Cartographic Methods: GIS for Cartographer...
+GEOG       H195A    Honors Course
+GEOG       H195B    Honors Course
+GEOG       197  Field Study in Geography
+GEOG       198  Directed Group Study
+GEOG       199  Supervised Independent Study
+GEOG       200B Contemporary Geographic Thought
+GEOG       204  Geographic Research Methods and Theories
+GEOG       244  Complex Environmental Systems
+GEOG       C250 Seminar in Sociology of Forest and Wildland Resourc...
+GEOG       253  Topics in Urban Geography
+GEOG       280  Advanced Field Study in Geography
+GEOG       295  Geography Colloquium
+GEOG       296  Directed Dissertation Research
+GEOG       297  Directed Field Studies
+GEOG       298  Directed Study for Graduate Students
+GEOG       299  Individual Research
+GEOG       301  Professional Training: Teaching Practice
+GEOG       C301 Communicating Ocean Science
+GEOG       601  Individual Study for Master's Students
+GEOG       602  Individual Study for Doctoral Students
+
+GERMAN
+GERMAN     1    Elementary German 1
+GERMAN     2    Elementary German 2
+GERMAN     3    Intermediate German I
+GERMAN     4    Intermediate German II
+GERMAN     R5B  Reading and Composition
+GERMAN     24   Freshman Seminar
+GERMAN     C76  Beauty and the Beholder: Approaching Art at the Ber...
+GERMAN     98   Directed Group Study
+GERMAN     99   Supervised Independent Study
+GERMAN     100  Introduction to Reading Culture
+GERMAN     101  Advanced German: Conversation, Composition and Styl...
+GERMAN     102A Advanced Language Practice: German Performance
+GERMAN     C106 Literacy through Literature
+GERMAN     108  Literary Translation
+GERMAN     110  The Literature of the Middle Ages
+GERMAN     157D Adorno, Benjamin, Habermas
+GERMAN     160B Facism and Propaganda
+GERMAN     160D Multicultural Germany
+GERMAN     168  Yiddish Literature and Culture in Translation
+GERMAN     172  German Dialects
+GERMAN     178  Semiotics
+GERMAN     182  German Cinema in Exile
+GERMAN     H196 Honors Studies in German
+GERMAN     H196A    Honors Studies in German
+GERMAN     H196B    Honors Studies in German
+GERMAN     198  Directed Group Study
+GERMAN     199  Supervised Independent Study and Research
+GERMAN     201A Literature of the Middle Ages
+GERMAN     204  Compact Seminar
+GERMAN     207  Reading the German Literary Text
+GERMAN     214  Studies in the 20th Century
+GERMAN     256  Problems of Literary Theory
+GERMAN     291  Methods and Issues in German Morphology
+GERMAN     298  Directed Group Study
+GERMAN     299  Individual Study for Graduate Students in Literatur...
+GERMAN     375B Seminar in Foreign Language Pedagogy: Teaching Coll...
+GERMAN     602  Individual Study for Doctoral Students
+
+YIDDISH
+YIDDISH    102  Intermediate Yiddish
+
+DUTCH
+DUTCH      2    Elementary Dutch
+DUTCH      100  Dutch for Reading and Translation Knowledge
+DUTCH      125  Conversation and Composition
+DUTCH      C164 The Indonesian Connection: Dutch Literature About t...
+DUTCH      H196 Honors Studies in Dutch
+DUTCH      198  Directed Group Study
+DUTCH      199  Special Studies in Dutch
+DUTCH      299  Individual Studies in Dutch for Graduate Students
+
+GLOBAL METROPOLITAN STUDIES
+GMS    201  Research Seminar in Comparative Urban Studies
+
+GLOBAL POVERTY AND PRACTICE
+GPP    105  The Ethics, Methods, and Pragmatics of Global Pract...
+GPP    196  Global Poverty and Practice Capstone Course
+
+GRAD STUDENT PROF DEVELOPMENT PGM
+GSPDP      301  Mentoring in Higher Education
+GSPDP      302  Reading and Composition Pedagogy for Graduate Stude...
+GSPDP      320  Academic Writing for Graduate Students
+GSPDP      375  Teaching and Learning in Higher Education
+
+LANGUAGE PROFICIENCY PROGRAM
+LAN PRO    100A Language Proficiency Workshop
+
+HEALTH AND MEDICAL SCIENCES
+HMEDSCI    98   Directed Group Study
+HMEDSCI    198  Directed Group Study
+
+HISTORY
+HISTORY    R1B  Reading and Composition in History
+HISTORY    4B   Medieval Europe
+HISTORY    5    European Civilization from the Renaissance to the P...
+HISTORY    6B   Introduction to Chinese History from the Mongols to...
+HISTORY    7B   The United States from Civil War to Present
+HISTORY    8A   Becoming Latin America, 1492 to 1824
+HISTORY    12   The Middle East
+HISTORY    24   Freshman Seminar
+HISTORY    30   Science and Society
+HISTORY    39P  Freshman Sophomore Seminar
+HISTORY    39Q  Freshman Sophomore Seminar
+HISTORY    84   Sophomore Seminar
+HISTORY    98   Directed Group Study for Lower Division Students
+HISTORY    100E Special Topics in Latin American History
+HISTORY    100H Special Topics in African History
+HISTORY    100U Special Topics in Comparative History
+HISTORY    101  Seminar in Historical Research and Writing for Hist...
+HISTORY    103B Europe
+HISTORY    103D United States
+HISTORY    103E Latin America
+HISTORY    103S History of Science
+HISTORY    103U Studies in Comparative History
+HISTORY    104  The Craft of History
+HISTORY    106A The Roman Republic
+HISTORY    112B Modern South Africa, 1652-Present
+HISTORY    116D Twentieth-Century China
+HISTORY    118A Japan, Archaeological Period to 1800
+HISTORY    118C Empire and Alienation: The 20th Century in Japan
+HISTORY    121B The American Revolution
+HISTORY    122AC    Antebellum America: The Advent of Mass Society
+HISTORY    124B The United States from World War II to the Vietnam ...
+HISTORY    125B Soul Power: African American History 1861-1980
+HISTORY    127AC    California
+HISTORY    130B The United States and the World Since 1945
+HISTORY    C132B    Intellectual History of the United States since 186...
+HISTORY    134A The Age of the City, 1825-1933
+HISTORY    136AC    Gender Matters in 20th Century America
+HISTORY    C139B    The American Immigrant Experience
+HISTORY    C139C    Civil Rights and Social Movements in U.S. History
+HISTORY    140B Modern Mexico
+HISTORY    151C The Peculiar Modernity of Britain, 1848-2000
+HISTORY    159B European Economic History
+HISTORY    160  The International Economy of the 20th Century
+HISTORY    162B War and Peace: International Relations since 1914
+HISTORY    164A European Intellectual History from Renaissance to E...
+HISTORY    164C European Intellectual History 1870 to the Present
+HISTORY    167C Germany 1914 to the Present
+HISTORY    168A The Spanish and Portuguese Empires in the Golden Ag...
+HISTORY    171B Imperial Russia: From Peter the Great to the Russia...
+HISTORY    174A A History of Poland-Lithuania
+HISTORY    177A Armenia from Ethnogenesis to the Dark Ages
+HISTORY    178  History of the Holocaust
+HISTORY    182A Technology and Society
+HISTORY    182AT    Technology and Society (Cal Teach)
+HISTORY    183A Health and Disease
+HISTORY    185A History of Christianity to 1250
+HISTORY    C192 History of Information
+HISTORY    C196W    Special Field Research
+HISTORY    198  Directed Group Study for Upper Division Students
+HISTORY    199  Supervised Independent Study and Research
+HISTORY    C231 Japanese Studies: Past, Present... and Future?
+HISTORY    275B Europe
+HISTORY    275F Asia
+HISTORY    280A Ancient
+HISTORY    280B Europe
+HISTORY    280D United States
+HISTORY    280F Asia (For M.A. Candidates)
+HISTORY    280G Asia (For Ph.D. Candidates)
+HISTORY    280U Studies in Comparative History
+HISTORY    281  Paleography and Other Auxiliary Sciences
+HISTORY    283  Historical Method and Theory
+HISTORY    285A Ancient
+HISTORY    285B Europe
+HISTORY    285D United States
+HISTORY    285S History of Science
+HISTORY    285U Studies in Comparative History
+HISTORY    290  Historical Colloquium
+HISTORY    601  Individual Study for Master's Students
+HISTORY    602  Individual Study for Doctoral Students
+
+INDUSTRIAL ENGIN AND OPER RESEARCH
+IND ENG    131  Discrete Event Simulation
+IND ENG    153  Logistics Network Design and Supply Chain Managemen...
+IND ENG    161  Operations Research II
+IND ENG    162  Linear Programming
+IND ENG    165  Engineering Statistics, Quality Control, and Forcas...
+IND ENG    166  Decision Analysis
+IND ENG    170  Industrial Design and Human Factors
+IND ENG    171  Technology Firm Leadership
+IND ENG    180  Senior Project
+IND ENG    190B Entrepreneurial Marketing and Finance
+IND ENG    190C Advanced Topics in Industrial Engineering and Opera...
+IND ENG    190D Advanced Topics in Industrial Engineering and Opera...
+IND ENG    190G Advanced Topics in Industrial Engineering and Opera...
+IND ENG    199  Supervised Independent Study
+IND ENG    220  Economics and Dynamics of Production
+IND ENG    221  Introduction to Financial Engineering
+IND ENG    231  Introduction to Data Modeling, Statistics, and Syst...
+IND ENG    252  Service Operations Management
+IND ENG    C253 Supply Chain and Logistics Management
+IND ENG    254  Production and Inventory Systems
+IND ENG    262B Mathematical Programming II
+IND ENG    263B Applied Stochastic Process II
+IND ENG    264  Computational Optimization
+IND ENG    266  Network Flows and Graphs
+IND ENG    290A Dynamic Production Theory and Planning Models
+IND ENG    290G Advanced Mathematical Programming
+IND ENG    290R Topics in Risk Theory
+IND ENG    298  Group Studies, Seminars, or Group Research
+IND ENG    299  Individual Study or Research
+
+INFORMATION
+INFO       98   Directed Group Study for Lower Division Undergradua...
+INFO       C103 History of Information
+INFO       190  Special Topics in Information
+INFO       198  Directed Group Study for Advanced Undergraduates
+INFO       199  Individual Study
+INFO       203  Social and Organizational Issues of Information
+INFO       205  Information Law and Policy
+INFO       209  Professional Skills Workshop
+INFO       214  Needs and Usability Assessment
+INFO       225  Managing in Information-Intensive Companies
+INFO       234  Information Technology Economics, Strategy, and Pol...
+INFO       235  Cyberlaw
+INFO       247  Information Visualization and Presentation
+INFO       C263 Technologies for Creativity and Learning
+INFO       290  Special Topics in Information
+INFO       290A Special Topics in Information
+INFO       290T Special Topics in Technology
+INFO       293  Curricular Practical Training for International Stu...
+INFO       295  Doctoral Colloquium
+INFO       296A Seminar
+INFO       297  Field Study in Information
+INFO       298  Directed Group Study
+INFO       298A Directed Group Work on Final Project
+INFO       299  Individual Study
+INFO       375  Teaching Assistance Practicum
+INFO       602  Individual Study for Doctoral Students
+
+INTEGRATIVE BIOLOGY
+INTEGBI    24   Freshman Seminars
+INTEGBI    31   The Ecology and Evolution of Animal Behavior
+INTEGBI    95   Special Research Project in Biology 1B
+INTEGBI    98   Directed Group Study
+INTEGBI    99   Supervised Independent Study and Research
+INTEGBI    C100 Communicating Ocean Science
+INTEGBI    103LF    Invertebrate Zoology with Laboratory
+INTEGBI    104LF    Natural History of the Vertebrates with Laboratory
+INTEGBI    112  Horticultural Methods in the Botanical Garden
+INTEGBI    113L Paleobiological Perspectives on Ecology and Evoluti...
+INTEGBI    115  Introduction to Systems in Biology and Medicine
+INTEGBI    C129L    Human Physiological Assessment
+INTEGBI    132  Survey of Human Physiology
+INTEGBI    132L Mammalian Physiology Laboratory
+INTEGBI    C135L    Laboratory in the Mechanics of Organisms
+INTEGBI    140  Biology of Human Reproduction
+INTEGBI    C142L    Introduction to Human Osteology
+INTEGBI    C143B    Hormones and Behavior
+INTEGBI    152  Environmental Toxicology
+INTEGBI    C155 Holocene Paleoecology: How Humans Changed the Earth
+INTEGBI    166  Evolutionary Biogeography
+INTEGBI    167  Evolution and Earth History: From Genes to Fossils
+INTEGBI    168L Systematics of Vascular Plants with Laboratory
+INTEGBI    169  Evolutionary Medicine
+INTEGBI    173LF    Mammalogy with Laboratory
+INTEGBI    190  Seminar for Integrative Biology Majors
+INTEGBI    194  Undergraduate Student Instructor for Integrative Bi...
+INTEGBI    C195 Introduction to Global Health Disparities Research
+INTEGBI    H196B    Thesis Course
+INTEGBI    197  Supervised Internship
+INTEGBI    198  Supervised Group Study and Research By Upper Divisi...
+INTEGBI    199  Supervised Independent Study and Research
+INTEGBI    200B Principles of Phylogenetics: Ecology and Evolution
+INTEGBI    C204 Research Reviews in Animal Behavior: Behavior Revie...
+INTEGBI    C215 Communicating Ocean Science
+INTEGBI    C216 Freshwater Ecology
+INTEGBI    C217 Biomimetic Engineering -- Engineering from Biology
+INTEGBI    C227 Stable Isotope Ecology
+INTEGBI    230  Marine Science Review
+INTEGBI    232  Seminar in Biomechanics
+INTEGBI    234  Seminar on Biology of Amphibians and Reptiles
+INTEGBI    241  Advanced Topics in Endocrine-Regulated Development
+INTEGBI    246  Seminars in Systems Biology
+INTEGBI    248  Comparative Physiology and Endocrinology Seminar
+INTEGBI    251  Ecological Research Reviews
+INTEGBI    264  Seminar in Evolutionary Biology of the Vertebrates
+INTEGBI    281  Seminar in Evolution
+INTEGBI    283  Seminar in Vertebrate Evolution and Paleontology
+INTEGBI    286  Seminars in Paleontology
+INTEGBI    290  Research Seminar
+INTEGBI    291  Research Seminar
+INTEGBI    292  Integrative Biology Colloquium
+INTEGBI    296  Special Study for Graduate Students
+INTEGBI    297  Directed Field Studies
+INTEGBI    298  Special Study in Integrative Biology
+INTEGBI    299  Graduate Research
+INTEGBI    C407 Introduction to Scientific Diving
+INTEGBI    601  Individual Study for Master's Students
+INTEGBI    602  Individual Study for Doctoral Students
+
+INTERDISCIPLINARY STUDIES FIELD MAJ
+ISF    61   Moral Reasoning and Human Action: The Quest for Jud...
+ISF    100A Introduction to Social Theory and Cultural Analysis
+ISF    100B Introduction to Social Theory and Cultural Analysis
+ISF    189  Introduction to Interdisciplinary Research Methods
+ISF    190  Senior Thesis
+
+INTERNATIONAL AND AREA STUDIES
+IAS    45   Survey of World History
+IAS    98   Issues in Political Economy and Development
+IAS    102  Scope and Methods of Research in International and ...
+IAS    106  Intermediate Microeconomic Theory
+IAS    C118 Introductory Applied Econometrics
+IAS    150  Advanced Studies in International and Area Studies
+IAS    157AC    Engineering, The Environment, and Society
+IAS    158AC    Social Movements, Urban Histories, and the Politics...
+IAS    180  Current Issues in International and Area Studies
+IAS    194  Senior Seminar in International and Area Studies
+IAS    198  Directed Group Study
+IAS    202  Seminar in Portuguese Studies
+IAS    206  Intermediate Microeconomic Theory
+
+ITALIAN STUDIES
+ITALIAN    1    Elementary Italian
+ITALIAN    1G   Reading Italian for Graduate Students
+ITALIAN    2    Elementary Italian
+ITALIAN    3    Intermediate Italian
+ITALIAN    4    Advanced Italian
+ITALIAN    R5A  Reading and Composition
+ITALIAN    R5B  Reading and Composition
+ITALIAN    40   Italian Culture (in English)
+ITALIAN    98   Directed Group Study
+ITALIAN    101B Advanced Grammar, Reading, and Composition
+ITALIAN    102  Italian through Theater: Advanced Language in Perfo...
+ITALIAN    104  Reading Italian Literature
+ITALIAN    109  Dante's <Commedia> (in Italian)
+ITALIAN    112  Sixteenth-Century Literature and Culture
+ITALIAN    160  Studies in the History, Society, and Politics of th...
+ITALIAN    175  Film and Literature (in English)
+ITALIAN    H195 Special Studies for Honors Candidates
+ITALIAN    198  Directed Group Study
+ITALIAN    199  Supervised Independent Study and Research for Advan...
+ITALIAN    C203 Comparative Studies in Romance Literatures and Cult...
+ITALIAN    210  Seminar in Medieval Literature and Culture
+ITALIAN    215  Seminar in Renaissance Literature and Culture
+ITALIAN    230  Seminar in 19th Century Literature and Culture
+ITALIAN    260  Directed Readings in Italian Literature and Culture
+ITALIAN    270  Seminar Research Course
+ITALIAN    282  Prospectus Tutorial
+ITALIAN    290B Graduate Colloquium in Italian Studies
+ITALIAN    298  Special Study
+ITALIAN    299  Directed Research
+ITALIAN    302  Practicum in College Teaching of Italian
+ITALIAN    303  Practicum in the Teaching of Italian Literature, Hi...
+ITALIAN    601  Individual Studies for M.A. Candidates
+ITALIAN    602  Individual Studies for Doctoral Students
+
+JEWISH STUDIES
+JEWISH     98   Directed Group Study
+JEWISH     101  The Cultural Legacies of the Jews
+JEWISH     120  Special Topics in Jewish Studies
+JEWISH     198  Directed Group Study
+JEWISH     200  Advanced Topics in Jewish Studies
+JEWISH     290  Modern Jewish Scholarship: History and Practice
+
+JOURNALISM
+JOURN      24   Freshman Seminars
+JOURN      C101 Edible Education: The Rise and Future of the Food M...
+JOURN      C141 Understanding Journalism
+JOURN      226  Science Reporting
+JOURN      234  International Reporting
+JOURN      294  Master's Project Seminar
+JOURN      298  Group Study - Special Topics
+
+LANDSCAPE ARCHITECTURE
+LD ARCH    102  Case Studies in Landscape Design
+LD ARCH    112  Landscape Plants: Identification and Use
+LD ARCH    121  Design in Detail: Introduction to Landscape Materia...
+LD ARCH    130  Sustainable Landscapes and Cities
+LD ARCH    140  Social and Psychological Factors in Open Space Desi...
+LD ARCH    160  Professional Practice Seminar
+LD ARCH    170  History and Literature of Landscape Architecture
+LD ARCH    200B Case Studies in Landscape Design
+LD ARCH    202  Design of Landscape Sites
+LD ARCH    204  Advanced Project Design
+LD ARCH    205  Environmental Planning Studio
+LD ARCH    206  Final Project Preparation Studio: Thesis and Report...
+LD ARCH    221  Quantitative Methods in Environmental Planning
+LD ARCH    222  Hydrology for Planners
+LD ARCH    223  Introduction to California Landscapes
+LD ARCH    225  Urban Forest Planning and Management
+LD ARCH    226  Landscape Design Construction
+LD ARCH    C250 Theories of Urban Form and Design
+LD ARCH    254  Topics in Landscape Architecture and Environmental ...
+LD ARCH    255  Doctoral Seminar in Environmental Planning
+LD ARCH    257  Special Topics in Design
+LD ARCH    296  Directed Dissertation Research
+LD ARCH    297  Supervised Field Study
+LD ARCH    298  Group Study
+LD ARCH    300  Supervised Teaching in Landscape Architecture and E...
+LD ARCH    602  Individual Study for Doctoral Students
+
+LATIN AMERICAN STUDIES
+LATAMST    150  Advanced Studies in Latin American Studies
+LATAMST    250  Selected Topics in Latin American Studies
+LATAMST    298  Directed Graduate Group Study
+
+LEGAL STUDIES
+LEGALST    R1B  Reading and Composition in Connection with the Law ...
+LEGALST    39D  Freshman/Sophomore Seminar
+LEGALST    98   Directed Group Study
+LEGALST    100  Foundations of Legal Studies
+LEGALST    102  Policing and Society
+LEGALST    104AC    Youth Justice and Culture
+LEGALST    105  Theoretical Foundations of Criminal Law
+LEGALST    138  The Supreme Court and Public Policy
+LEGALST    139  Comparative Perspectives on Norms and Legal Traditi...
+LEGALST    140  Property and Liberty
+LEGALST    145  Law and Economics I
+LEGALST    161  Law in Chinese Society
+LEGALST    168  Sex, Reproduction and the Law
+LEGALST    174  Comparative Constitutional Law: The Case of Israel
+LEGALST    179  Comparative Constitutional Law
+LEGALST    183  Psychology of Diversity and Discrimination in Ameri...
+LEGALST    185AC    Prison
+LEGALST    189  Feminist Jurisprudence
+LEGALST    190  Seminar on Topics in Law and Society
+LEGALST    H195B    Honors Thesis
+LEGALST    198  Directed Group Study
+LEGALST    199  Supervised Independent Study and Research
+
+LETTERS AND SCIENCE
+L & S      22   Sense and Sensibility and Science
+L & S      C30U Americans and the Global Forest
+L & S      C30V Environmental Issues
+L & S      C30X Big Ideas in Cell Biology
+L & S      C30Y Biology for Voters
+L & S      C70U Introduction to General Astronomy
+L & S      C70V Descriptive Introduction to Physics
+L & S      C70W Physics and Music
+L & S      C76  Beauty and the Beholder: Approaching Art at the Ber...
+L & S      C101 Edible Education: The Rise and Future of the Food M...
+L & S      105  Arts Entrepreneurship
+L & S      124  Consciousness: Buddhist and Neuroscientific Perspec...
+L & S      160B Philosophy and Values
+L & S      180AC    Archaeology of Sex and Gender
+L & S      C180U    Wealth and Poverty
+
+LINGUISTICS
+LINGUIS    1B   American Sign Language II
+LINGUIS    R1B  Endangered Languages: What We Lose when a Language ...
+LINGUIS    5    Language and Linguistics
+LINGUIS    22   Introduction to the History of the English Language
+LINGUIS    24   Freshman Seminar
+LINGUIS    47   Language and Communication Disorders
+LINGUIS    55AC The American Languages
+LINGUIS    100  Introduction to Linguistic Science
+LINGUIS    C105 The Mind and Language
+LINGUIS    113  Experimental Phonetics
+LINGUIS    115  Phonology and Morphology
+LINGUIS    120  Introduction to Syntax and Semantics
+LINGUIS    128  Linguistic Analysis of Literature
+LINGUIS    C142 Language and Thought
+LINGUIS    155AC    Language in the United States: a Capsule History
+LINGUIS    C160 Quantitative Methods in Linguistics
+LINGUIS    170  History, Structure, and Sociolinguistics of a Parti...
+LINGUIS    H195B    Linguistics Honors Course
+LINGUIS    197  Research Practicum
+LINGUIS    210  Phonetic Theory
+LINGUIS    211A Advanced Phonological Theory
+LINGUIS    215  Advanced Morphology
+LINGUIS    220B Syntax and Semantics II
+LINGUIS    221  Advanced Logical Semantics
+LINGUIS    222  Linguistic Typology
+LINGUIS    230  Historical Linguistics
+LINGUIS    240B Field Methods
+LINGUIS    290E Phonology
+LINGUIS    297  Research Mentorship
+LINGUIS    298  Special Group Study
+LINGUIS    301  Teaching Practice and Instruction
+LINGUIS    601  Individual Study for Master's Students
+LINGUIS    602  Individual Study for Doctoral Students
+
+MATERIALS SCIENCE AND ENGINEERING
+MAT SCI    24   Freshman Seminar
+MAT SCI    103  Phase Transformations and Kinetics
+MAT SCI    104  Materials Characterization
+MAT SCI    111  Properties of Electronic Materials
+MAT SCI    112  Corrosion (Chemical Properties)
+MAT SCI    121  Metals Processing
+MAT SCI    C150 Introduction to Materials Chemistry
+MAT SCI    151  Polymeric Materials
+MAT SCI    H194 Honors Undergraduate Research
+MAT SCI    199  Supervised Independent Study
+MAT SCI    202  Crystal Structure and Bonding
+MAT SCI    205  Defects in Solids
+MAT SCI    C214 Micromechanics
+MAT SCI    C216 Macromolecular Science in Biotechnology and Medicin...
+MAT SCI    241  Electron Microscopy Laboratory
+MAT SCI    C286 Modeling and Simulation of Advanced Manufacturing P...
+MAT SCI    296B Independent Research for Five-Year BS/MS Program
+MAT SCI    298  Group Studies, Seminars, or Group Research
+MAT SCI    299  Individual Study or Research
+MAT SCI    601  Individual Study for Master's Students
+MAT SCI    602  Individual Study for Doctoral Students
+
+MATHEMATICS
+MATH       1A   Calculus
+MATH       1B   Calculus
+MATH       10B  Methods of Mathematics: Calculus, Statistics, and C...
+MATH       16A  Analytic Geometry and Calculus
+MATH       16B  Analytic Geometry and Calculus
+MATH       24   Freshman Seminars
+MATH       32   Precalculus
+MATH       49   Supplementary Work in Lower Division Mathematics
+MATH       53   Multivariable Calculus
+MATH       H53  Honors Multivariable Calculus
+MATH       54   Linear Algebra and Differential Equations
+MATH       55   Discrete Mathematics
+MATH       98   Supervised Group Study
+MATH       104  Introduction to Analysis
+MATH       105  Second Course in Analysis
+MATH       110  Linear Algebra
+MATH       113  Introduction to Abstract Algebra
+MATH       H113 Honors Introduction to Abstract Algebra
+MATH       118  Fourier Analysis, Wavelets, and Signal Processing
+MATH       121A Mathematical Tools for the Physical Sciences
+MATH       121B Mathematical Tools for the Physical Sciences
+MATH       123  Ordinary Differential Equations
+MATH       128A Numerical Analysis
+MATH       128B Numerical Analysis
+MATH       130  The Classical Geometries
+MATH       136  Incompleteness and Undecidability
+MATH       140  Metric Differential Geometry
+MATH       142  Elementary Algebraic Topology
+MATH       151  Mathematics of the Secondary School Curriculum I
+MATH       153  Mathematics of the Secondary School Curriculum III
+MATH       160  History of Mathematics
+MATH       172  Combinatorics
+MATH       185  Introduction to Complex Analysis
+MATH       H185 Honors Introduction to Complex Analysis
+MATH       196  Honors Thesis
+MATH       197  Field Study
+MATH       198  Directed Group Study
+MATH       199  Supervised Independent Study and Research
+MATH       202B Introduction to Topology and Analysis
+MATH       209  Von Neumann Algebras
+MATH       215B Algebraic Topology
+MATH       C218B    Probability Theory
+MATH       222B Partial Differential Equations
+MATH       C223B    Advanced Topics in Probablity and Stochastic Proces...
+MATH       224B Mathematical Methods for the Physical Sciences
+MATH       225B Metamathematics
+MATH       228B Numerical Solution of Differential Equations
+MATH       235A Theory of Sets
+MATH       242  Symplectic Geometry
+MATH       C243 Seq: Methods and Applications
+MATH       245A General Theory of Algebraic Structures
+MATH       250B Multilinear Algebra and Further Topics
+MATH       254B Number Theory
+MATH       256B Algebraic Geometry
+MATH       257  Group Theory
+MATH       261B Lie Groups
+MATH       273  Topics in Numerical Analysis
+MATH       274  Topics in Algebra
+MATH       275  Topics in Applied Mathematics
+MATH       276  Topics in Topology
+MATH       290  Seminars
+MATH       299  Reading Course for Graduate Students
+MATH       301  Undergraduate Mathematics Instruction
+MATH       303  Professional Preparation: Supervised Teaching of Ma...
+MATH       375  Teaching Workshop
+MATH       602  Individual Study for Doctoral Students
+MATH       999  
+MATH       999  
+MATH       999  
+MATH       999  
+MATH       999  
+MATH       999  
+
+MECHANICAL ENGINEERING
+MEC ENG    24   Freshman Seminars
+MEC ENG    40   Thermodynamics
+MEC ENG    C85  Introduction to Solid Mechanics
+MEC ENG    98   Supervised Independent Group Studies
+MEC ENG    101  High Mix/Low Volume Manufacturing
+MEC ENG    102A Introduction to Mechanical Systems for Mechatronics
+MEC ENG    102B Mechatronics Design
+MEC ENG    104  Engineering Mechanics II
+MEC ENG    106  Fluid Mechanics
+MEC ENG    107  Mechanical Engineering Laboratory
+MEC ENG    108  Mechanical Behavior of Engineering Materials
+MEC ENG    109  Heat Transfer
+MEC ENG    110  Introduction to Product Development
+MEC ENG    C115 Molecular Cell Biomechanics
+MEC ENG    122  Processing of Materials in Manufacturing
+MEC ENG    131  Vehicle Dynamics and Control
+MEC ENG    132  Dynamic Systems and Feedback
+MEC ENG    133  Mechanical Vibrations
+MEC ENG    C134 Feedback Control Systems
+MEC ENG    135  Design of Microprocessor-Based Mechanical Systems
+MEC ENG    150A Solar-Powered Vehicles: Analysis, Design and Fabric...
+MEC ENG    151  Advanced Heat Transfer
+MEC ENG    165  Ocean-Environment Mechanics
+MEC ENG    167  Microscale Fluid Mechanics
+MEC ENG    170  Engineering Mechanics III
+MEC ENG    C180 Engineering Analysis Using the Finite Element Metho...
+MEC ENG    190L Practical Control System Design: A Systematic Loops...
+MEC ENG    191K Professional Communication
+MEC ENG    H194 Honors Undergraduate Research
+MEC ENG    196  Undergraduate Research
+MEC ENG    198  Directed Group Studies for Advanced Undergraduates
+MEC ENG    199  Supervised Independent Study
+MEC ENG    C201 Modeling and Simulation of Advanced Manufacturing P...
+MEC ENG    C213 Fluid Mechanics of Biological Systems
+MEC ENG    C216 Mechanobiology of the Cell: Dynamics of the Cytoske...
+MEC ENG    C217 Biomimetic Engineering -- Engineering from Biology
+MEC ENG    C218 Introduction to MEMS Design
+MEC ENG    229  Design of Basic Electro-Mechanical Devices
+MEC ENG    233  Advanced Control Systems II
+MEC ENG    235  Design of Microprocessor-Based Mechanical Systems
+MEC ENG    C236 Control and Optimization of Distributed Parameters ...
+MEC ENG    240B Advanced Marine Structures II
+MEC ENG    241A Marine Hydrodynamics I
+MEC ENG    245  Oceanic and Atmospheric Waves
+MEC ENG    252  Heat Convection
+MEC ENG    256  Combustion
+MEC ENG    259  Microscale Thermophysics and Heat Transfer
+MEC ENG    260B Advanced Fluid Mechanics II
+MEC ENG    277  Oscillations in Nonlinear Systems
+MEC ENG    284  Nonlinear Theory of Elasticity
+MEC ENG    285A Foundations of the Theory of Continuous Media
+MEC ENG    285D Engineering Rheology
+MEC ENG    290I Sustainable Manufacturing
+MEC ENG    C290S    Hybrid Systems and Intelligent Control
+MEC ENG    298  Group Studies, Seminars, or Group Research
+MEC ENG    299  Individual Study or Research
+MEC ENG    375  Teaching of Mechanical Engineering at the Universit...
+
+MEDIA STUDIES
+MEDIAST    24   Freshman Seminar
+MEDIAST    101  Visual Communications
+MEDIAST    C103 Understanding Journalism
+MEDIAST    104A Freedom of Speech and the Press
+MEDIAST    C104C    History of Information
+MEDIAST    140  Media and Politics
+MEDIAST    160  International Media
+MEDIAST    170  Cultural History of Advertising
+MEDIAST    180  Television Studies
+MEDIAST    H195 Honors Colloquium
+MEDIAST    C196W    Special Field Research
+
+MIDDLE EASTERN STUDIES
+M E STU    20   Perspectives on the Middle East
+M E STU    24   Freshman Seminar
+M E STU    109  Model Arab League
+M E STU    130  Cross-Listed Topics
+M E STU    150  Advanced Study in the Middle East
+M E STU    190  Senior Thesis
+M E STU    H195 Honors in Middle Eastern Studies
+
+MILITARY AFFAIRS
+MIL AFF    1    Military Physical Fitness and Nutrition
+MIL AFF    145B Preparation for Active Duty
+MIL AFF    154  The History of Littoral Warfare
+MIL AFF    199  Supervised Independent Study and Research
+
+AEROSPACE STUDIES
+AEROSPC    1B   Foundations of the U.S. Air Force
+AEROSPC    2B   The Evolution of U.S. Air Force Air and Space Power
+AEROSPC    100  Leadership Laboratory
+AEROSPC    135B Air Force Leadership Studies
+
+MILITARY SCIENCE
+MIL SCI    1    Leadership Laboratory
+MIL SCI    3    Introduction to Tactical Leadership
+MIL SCI    101  Foundations of Leadership
+MIL SCI    132  Leadership and Ethics
+MIL SCI    142  Leadership in a Complex World
+
+NAVAL SCIENCE
+NAV SCI    2    Sea Power and Maritime Affairs
+NAV SCI    10   Naval Ship Systems I
+NAV SCI    400E Naval Laboratory
+NAV SCI    412  Leadership and Ethics
+
+MOLECULAR AND CELL BIOLOGY
+MCELLBI    15   Current Topics in the Biological Sciences
+MCELLBI    C31  Big Ideas in Cell Biology
+MCELLBI    C44  Biology for Voters
+MCELLBI    50   The Immune System and Disease
+MCELLBI    61   Brain, Mind, and Behavior
+MCELLBI    90A  Biochemistry and Molecular Biology
+MCELLBI    90D  Immunology
+MCELLBI    90E  Neurobiology
+MCELLBI    98   Directed Group Study
+MCELLBI    C100A    Biophysical Chemistry: Physical Principles and the ...
+MCELLBI    100B Biochemistry: Pathways, Mechanisms, and Regulation
+MCELLBI    102  Survey of the Principles of Biochemistry and Molecu...
+MCELLBI    C103 Bacterial Pathogenesis
+MCELLBI    104  Genetics, Genomics, and Cell Biology
+MCELLBI    110  Molecular Biology: Macromolecular Synthesis and Cel...
+MCELLBI    C110L    General Biochemistry and Molecular Biology Laborato...
+MCELLBI    C112L    General Microbiology Laboratory
+MCELLBI    C114 Introduction to Comparative Virology
+MCELLBI    118  The Cancer Karyotype: What it is and What it Does
+MCELLBI    130A Cell and Systems Biology
+MCELLBI    133L Physiology and Cell Biology Laboratory
+MCELLBI    C134 Chromosome Biology/Cytogenetics
+MCELLBI    137  Computer Simulation in Biology
+MCELLBI    140L Genetics Laboratory
+MCELLBI    141  Developmental Biology
+MCELLBI    C148 Microbial Genomics and Genetics
+MCELLBI    149  The Human Genome
+MCELLBI    150  Molecular Immunology
+MCELLBI    150L Immunology Laboratory
+MCELLBI    C160 Introduction to Neurobiology
+MCELLBI    160L Neurobiology Laboratory
+MCELLBI    165  Molecular Neurobiology
+MCELLBI    167  Physiological and Genetic Basis of Behavior
+MCELLBI    198  Directed Group Study
+MCELLBI    206  Physical Biochemistry
+MCELLBI    210  Macromolecular Reactions and the Cell
+MCELLBI    C212A    Chemical Biology I - Structure, Synthesis and Funct...
+MCELLBI    C212B    Chemical Biology II - Enzyme Reaction Mechanisms
+MCELLBI    C212C    Chemical Biology III - Contemporary Topics in Chemi...
+MCELLBI    C214 Protein Chemistry, Enzymology, and Bio-organic Chem...
+MCELLBI    218B Molecular and Cellular Engineering Approaches to In...
+MCELLBI    218C Synthetic Biology and Cellular Enzymology
+MCELLBI    218D Gene Regulation at the RNA Level
+MCELLBI    218E Viruses as Models for Eukaryote Gene Expression and...
+MCELLBI    218F Energy-dependent Proteases and Molecular Machines
+MCELLBI    218G Myxobacterial Development
+MCELLBI    218H Protein Synthesis in Bacteria and Mammals
+MCELLBI    218I Chemical Biology and Inorganic Chemistry
+MCELLBI    218J Advanced 20th Century Perspectives on Cancer Cell G...
+MCELLBI    218O Chemical Biology and Enzymology
+MCELLBI    218P Chemical Biology and Neuroscience
+MCELLBI    218Q Single Molecular Imaging of Macromolecular Enzymes
+MCELLBI    218R The Protein Folding Problem
+MCELLBI    218S Cryo-Electron Microscopy of Macromolecules
+MCELLBI    218U Protein Folding and Stability
+MCELLBI    218V Biophysics of Macromolecule Transport Across Membra...
+MCELLBI    218W Enzyme Catalysis
+MCELLBI    218X  Chemical Reactions of Metabolism
+MCELLBI    218Z Molecular and Cellular Mechanisms of Nutrient Sensi...
+MCELLBI    219A Structural Membrane Biology
+MCELLBI    219B Regulation of Translation
+MCELLBI    219F Eukaryotic Gene Expression
+MCELLBI    219H Molecular and Cell Biology of <Listeria monocytogen...
+MCELLBI    219J Structure and Function of RNA
+MCELLBI    219Q Structural Biology of Molecular Machines
+MCELLBI    219S Structural Biology of Signaling and Replication
+MCELLBI    219T Signal Transduction Mechanisms
+MCELLBI    219U Single Molecule Biophysics
+MCELLBI    219X Cell Surface Glycoconjugate Interactions
+MCELLBI    219Y Regulation of HIV Gene Expression
+MCELLBI    219Z Telomere Synthesis and Dynamics
+MCELLBI    230  Advanced Cell Biology
+MCELLBI    231  Advanced Developmental and Stem Cell Biology
+MCELLBI    C237 Stem Cells and Directed Organogenesis
+MCELLBI    239B Regulation of the Cell Cycle
+MCELLBI    239BB    Mechanics and Dynamics of Cell Movements
+MCELLBI    239C The Regulation of Meiotic Gene Expression and Cellu...
+MCELLBI    239CC    Biological Spatial Organization and Normal and Dysp...
+MCELLBI    239D Epithelial Function, Structure, and Regulations
+MCELLBI    239EE    Cell Morphogenesis
+MCELLBI    239F Nucleocytoplasmic Transport
+MCELLBI    239FF    Signal Transduction and Tumor Suppressor Genes
+MCELLBI    239H Cell Division
+MCELLBI    239HH    Mechanisms of Control of Growth and Cell Proliferat...
+MCELLBI    239I Cytoskeleton and Cell Motility
+MCELLBI    239J Steroid Hormone and Growth Factor Action
+MCELLBI    239K Secretion and Cell Membrane Assembly
+MCELLBI    239KK    Assembly and Subcellular Organization of Bacterial ...
+MCELLBI    239M MicroRNA Functions in Cancer Development, Mouse Tum...
+MCELLBI    239N Biophysics of Cell Motility and Morphogenesis
+MCELLBI    239O Cancer Biology
+MCELLBI    239Q Regulation of Cell Polarity in Drosophila
+MCELLBI    239R Telomere Biology of Human Stem Cells
+MCELLBI    239T The Cell Biology of Fertilization
+MCELLBI    239U The Cytoskeleton and Morphogenesis
+MCELLBI    239V Molecular Mechanisms of Transduction in Touch and P...
+MCELLBI    239W Leech Embryology and Development
+MCELLBI    239X Malignant Transformation
+MCELLBI    239Z Chromosome Remodeling and Reorganization During Mei...
+MCELLBI    240  Advanced Genetic Analysis
+MCELLBI    C243 Seq: Methods and Applications
+MCELLBI    249A Genetics of Regulatory Variation
+MCELLBI    249BB    Aging and Protein Homeostasis
+MCELLBI    249C Nucleic Acid-Protein Interactions and Control of Ge...
+MCELLBI    249D Mechanisms of Genetic Regulation in Yeast
+MCELLBI    249F Neuronal Development
+MCELLBI    249G Developmental and Evolutionary Genetics
+MCELLBI    249H Investigating Cellular Aging and Chromosome Segrega...
+MCELLBI    249J Developmental and Molecular Genetics of <C. elegans...
+MCELLBI    249K Animal Origins
+MCELLBI    249M Saccharomyces Cerevisiae Microtubule Cytoskeleton
+MCELLBI    249N Gene Regulation
+MCELLBI    249O  Genome Sequences
+MCELLBI    249P Mesodermal Patterning and Segmentation
+MCELLBI    249Q Computational Genomics
+MCELLBI    249S Evolution of Development Mechanisms
+MCELLBI    249T Evolution of Genomes
+MCELLBI    249V Induction in Vertebrate Development and ES Cell Dif...
+MCELLBI    249X Comparative Genomics and Computational Biology
+MCELLBI    249Y Mechanisms of Gene Control in Vertebrate Animals
+MCELLBI    249Z Chromosome Structure and Integrity, Genome Evolutio...
+MCELLBI    250  Advanced Immunology
+MCELLBI    251  The Regulation of Immune System Development and Fun...
+MCELLBI    259B Specificity of T Lymphocytes
+MCELLBI    259C Nuclear Receptor-Mediated Regulation of Neuroinflam...
+MCELLBI    259E Regulation of T Cell Receptor Genes Expression
+MCELLBI    259F Natural Killer (NK) Cell and T Cell Receptors
+MCELLBI    259G T Cell Development
+MCELLBI    259H B Cell Differentiation
+MCELLBI    259J Immune Evasion by Viruses
+MCELLBI    259M Innate Immunity and Innate Control of Adaptive Immu...
+MCELLBI    259N Immunology, Microbiology, and Genetics of Bacterial...
+MCELLBI    C261 Advanced Cellular Neurobiology
+MCELLBI    269A Special Topics in Neuroplasticity
+MCELLBI    269B Synaptic Transmission and Neuromodulation
+MCELLBI    269C Molecular Mechanisms of Neuronal Plasticity
+MCELLBI    269D Signaling Within and Between Neurons
+MCELLBI    269H Recent Advances in Retinal Neurobiology
+MCELLBI    269J Taste Recognition in Drosophila
+MCELLBI    269M Insect Neurophysiology
+MCELLBI    269O Neural Circuits for Sensory Processing and Behavior
+MCELLBI    269Q Sensory Processing and Plasticity in Cerebral Corte...
+MCELLBI    269R Potassium Channels and Synaptic Plasticity
+MCELLBI    269S Molecular Mechanisms of Olfaction
+MCELLBI    269T Processing of Visual Information in the Mammalian B...
+MCELLBI    269U Research Review in Neurobiology
+MCELLBI    269W Neural Activity Affecting the Assembly of Neural Ci...
+MCELLBI    290  Graduate Seminar
+MCELLBI    291B Introduction to Research
+MCELLBI    292  Research
+MCELLBI    293C Responsible Conduct of Research
+MCELLBI    295  Careers for Life Sciences Ph.D's
+MCELLBI    380  Teaching of Molecular and Cell Biology
+MCELLBI    481B Transmission Electron Microscopy
+MCELLBI    481C Scanning Electron Microscopy
+
+MUSIC
+MUSIC      R1B  Reading and Writing about Music
+MUSIC      20A  Basic Musicianship
+MUSIC      20B  Basic Musicianship
+MUSIC      25A  Introduction to Music Theory
+MUSIC      26AC Music in American Culture
+MUSIC      29   Music Now
+MUSIC      41A  Private Carillon Lessons for Beginning Students
+MUSIC      41B  Private Carillon Lessons for Intermediate Students
+MUSIC      41C  Private Carillon Lessons for Advanced Students
+MUSIC      42   Carillon Lessons for Advanced Students
+MUSIC      44   Voice Class
+MUSIC      49B  Musicianship
+MUSIC      49C  Harmony
+MUSIC      50   Musicianship
+MUSIC      51   Musicianship
+MUSIC      60   Harmony
+MUSIC      61   Harmony
+MUSIC      74   Introduction to Selected Musics of the World
+MUSIC      75   History of Western Music: Music to 1700
+MUSIC      76   History of Western Music: The 18th and 19th Centuri...
+MUSIC      97   Field Studies
+MUSIC      98   Directed Group Study for Freshmen and Sophomores
+MUSIC      99   Independent Study for Freshmen and Sophomores
+MUSIC      116B Jazz Theory and Performance 2
+MUSIC      116BM    Jazz Theory and Performance 2
+MUSIC      128  Topics in the History of European and American Musi...
+MUSIC      C134C    Sonic Culture in China
+MUSIC      135A Musics of the Caribbean
+MUSIC      139  Topics in Musics of the World
+MUSIC      140  Javanese Gamelan
+MUSIC      141  University Symphony Orchestra
+MUSIC      142  University Wind Ensemble
+MUSIC      143  Gospel Chorus
+MUSIC      144  University Chorus
+MUSIC      145  University Chamber Chorus
+MUSIC      146B Balinese Gamelan
+MUSIC      148  African Music Ensemble
+MUSIC      149  University Baroque Ensemble
+MUSIC      150A Instrumental Performance
+MUSIC      150B Vocal Performance
+MUSIC      150C Keyboard Performance
+MUSIC      150D Various Musical Practices Performance
+MUSIC      150E Jazz Performance
+MUSIC      150G Guitar Performance
+MUSIC      150H Early Music Performance
+MUSIC      154A Counterpoint
+MUSIC      155  Music Composition
+MUSIC      156  Studies in Musical Analysis
+MUSIC      159  Computer Programming for Music Applications
+MUSIC      161A Instrumental Conducting
+MUSIC      179  Topics in History, Culture, and Analysis
+MUSIC      189  Topics in Research and Performance
+MUSIC      H195 Special Study for Honors Candidates in Music
+MUSIC      197  Field Studies
+MUSIC      198  Group Special Study for Advanced Undergraduates
+MUSIC      199  Supervised Independent Study and Research
+MUSIC      203  Seminar in Composition
+MUSIC      220  Topics in Music History and Criticism
+MUSIC      230  Topics in Performance Studies
+MUSIC      243  Transcription and Analysis in Ethnomusicology
+MUSIC      244B Research Design for Ethnomusicologists
+MUSIC      290  Colloquium
+MUSIC      296  Directed Dissertation Research - Music
+MUSIC      298  Group Special Studies
+MUSIC      299  Special Study
+MUSIC      300  Professional Preparation for Teaching Assistants in...
+MUSIC      405  Elementary Piano
+MUSIC      410  Vocal Technique
+MUSIC      601  Individual Study for Master's Students
+MUSIC      602  Individual Study for Doctoral Students
+
+NANOSCALE SCIENCE AND ENGINEERING
+NSE    298  Group Studies, Seminars, or Group Research
+
+NATIVE AMERICAN STUDIES
+NATAMST    R1A  Native American Studies Reading and Composition
+NATAMST    R1B  Native American Studies Reading and Composition
+NATAMST    20B  Introduction to Native American Studies II: Cultura...
+NATAMST    97   Field Work in Native American Communities
+NATAMST    98   Supervised Group Study and Research
+NATAMST    99   Supervised Independent Study and Research
+NATAMST    101  Native American Tribal Governments
+NATAMST    102  Critical Native American Legal and Policy Studies
+NATAMST    110  Theories and Methods in Native American Studies
+NATAMST    120AC    Photography and the American Indian: Manifest Desti...
+NATAMST    149  Gender in Native American Society
+NATAMST    C152 Native American Literature
+NATAMST    190  Seminar on Advanced Topics in Native American Studi...
+NATAMST    H195B    Senior Honors Thesis for Native American Studies Ma...
+NATAMST    197  Field Work in the Native American Community
+NATAMST    198  Supervised Group Study
+NATAMST    199  Supervised Independent Study and Research
+
+NATURAL RESOURCES
+NAT RES    24   Freshman Seminars
+NAT RES    84   Sophomore Seminar
+
+NEAR EASTERN STUDIES
+NE STUD    R1B  Reading and Composition in Near Eastern Studies
+NE STUD    15   Introduction to Near Eastern Art and Archaeology
+NE STUD    24   Freshman Seminars
+NE STUD    102B Archaeology of Ancient Egypt
+NE STUD    113  Gilgamesh: King, Hero, and God
+NE STUD    126  Silk Road Art and Archaeology
+NE STUD    140  Topics in Islamic Thought and Institutions
+NE STUD    146B Islam
+NE STUD    165  Film and Fiction of Iran
+NE STUD    190A Ancient Near Eastern Studies
+NE STUD    190C Jewish Studies
+NE STUD    190D Islamic Studies
+NE STUD    192B Egyptian Studies
+NE STUD    291  Dissertation Writing Workshop
+NE STUD    298  Seminar
+
+ARABIC
+ARABIC     1B   Elementary Arabic
+ARABIC     20B  Intermediate Arabic
+ARABIC     100B Advanced Arabic
+ARABIC     111B Survey of Arabic Literature (in Arabic)
+ARABIC     190A Special Topics in Arabic
+ARABIC     200  Arabic Grammatical Tradition
+ARABIC     298  Seminar
+
+CUNEIFORM
+CUNEIF     100B Elementary Akkadian
+CUNEIF     101B Selected Readings in Akkadian
+CUNEIF     103B Selected Readings in Sumerian
+
+EGYPTIAN
+EGYPT      100B Elementary Egyptian
+
+HEBREW
+HEBREW     1B   Elementary Hebrew
+HEBREW     20B  Intermediate Hebrew
+HEBREW     100B Advanced Hebrew
+HEBREW     102B Postbiblical Hebrew Texts
+HEBREW     104B Modern Hebrew Literature and Culture
+HEBREW     190A Special Topics in Hebrew
+HEBREW     206  Ancient and Modern Hebrew Literary Texts
+
+PERSIAN
+PERSIAN    1B   Elementary Modern Persian
+PERSIAN    11B  Reading and Composition for Persian-Speaking Studen...
+PERSIAN    100B Intermediate Modern Persian
+PERSIAN    101B Readings in Persian Literature
+
+SEMITICS
+SEMITIC    100B Aramaic
+
+TURKISH
+TURKISH    1B   Elementary Modern Turkish
+TURKISH    100B Intermediate Modern Turkish
+TURKISH    198  Directed Group Study for Upper Division Students
+
+NEUROSCIENCE
+NEUROSC    C160 Introduction to Neurobiology
+NEUROSC    C217D    Biological and Public Health Aspects of Alzheimer's...
+NEUROSC    C261 Advanced Cellular Neurobiology
+NEUROSC    290  Neuroscience First Year Research
+NEUROSC    291B Neuroscience Introduction to Research
+NEUROSC    292  Neuroscience Graduate Research
+NEUROSC    294  Neuroscience Graduate Student Presentation Seminar
+NEUROSC    299  Seminars
+
+NEW MEDIA
+NWMEDIA    198  Directed Group Study
+NWMEDIA    200  History and Theory of New Media
+NWMEDIA    C263 Technologies for Creativity and Learning
+NWMEDIA    290  Special Topics in New Media
+NWMEDIA    299  Individual Study or Research
+
+NUCLEAR ENGINEERING
+NUC ENG    24   Freshman Seminars
+NUC ENG    104  Radiation Detection and Nuclear Instrumentation Lab...
+NUC ENG    124  Radioactive Waste Management
+NUC ENG    130  Analytical Methods for Non-proliferation
+NUC ENG    150  Introduction to Nuclear Reactor Theory
+NUC ENG    155  Introduction to Numerical Simulations in Radiation ...
+NUC ENG    162  Radiation Biophysics and Dosimetry
+NUC ENG    170A Nuclear Design: Design in Nuclear Power Technology ...
+NUC ENG    H194 Honors Undergraduate Research
+NUC ENG    199  Supervised Independent Study
+NUC ENG    201  Nuclear Reactions and Interactions of Radiation wit...
+NUC ENG    221  Corrosion in Nuclear Power Systems
+NUC ENG    224  Safety Assessment for Geological Disposal of Radioa...
+NUC ENG    230  Analytical Methods for Non-Proliferation
+NUC ENG    281  Fully Ionized Plasmas
+NUC ENG    C285 Nuclear Security: The Nexus Between Policy and Tech...
+NUC ENG    295  Nuclear Engineering Colloquium
+NUC ENG    298  Group Research Seminars
+NUC ENG    299  Individual Research
+NUC ENG    602  Individual Study for Doctoral Students
+
+NUTRITIONAL SCIENCES AND TOXICOLOGY
+NUSCTX     10   Introduction to Human Nutrition
+NUSCTX     11   Introduction to Toxicology
+NUSCTX     24   Freshman Seminar
+NUSCTX     98   Directed Group Study
+NUSCTX     99   Supervised Independent Study and Research
+NUSCTX     104  Human Food Practices
+NUSCTX     C114 Pesticide Chemistry and Toxicology
+NUSCTX     115  Principles of Drug Action
+NUSCTX     121  Computational Toxicology
+NUSCTX     135  Food Systems Organization and Management
+NUSCTX     145  Nutrition Education and Counseling
+NUSCTX     160  Metabolic Bases of Human Health and Diseases
+NUSCTX     161B Applications in Medical Nutrition Therapy
+NUSCTX     170  Experimental Nutrition Laboratory
+NUSCTX     190  Introduction to Research in Nutritional Sciences
+NUSCTX     193  Introduction to Research in Toxicology
+NUSCTX     194  Senior Seminar in Dietetics
+NUSCTX     H196 Honors Research
+NUSCTX     198  Directed Group Study
+NUSCTX     199  Supervised Independent Study and Research
+NUSCTX     211B Introduction to Research in Nutritional Sciences
+NUSCTX     250  Advanced Topics in Metabolic Biology
+NUSCTX     290  Advanced Seminars in Nutritional Sciences
+NUSCTX     292  Graduate Research Colloquium
+NUSCTX     296A Research Review in Nutritional Sciences and Toxicol...
+NUSCTX     296B Research Review in Nutritional Sciences and Toxicol...
+NUSCTX     296C Research Review in Nutritional Sciences and Toxicol...
+NUSCTX     296D Research Review in Nutritional Sciences and Toxicol...
+NUSCTX     296E Research Review in Nutritional Sciences and Toxicol...
+NUSCTX     296F Research Review in Nutritional Sciences and Toxicol...
+NUSCTX     296G Research Review in Nutritional Sciences and Toxicol...
+NUSCTX     296H Research Review in Nutritional Sciences and Toxicol...
+NUSCTX     296I Research Review in Nutritional Sciences and Toxicol...
+NUSCTX     296J Research Review in Nutritional Sciences and Toxicol...
+NUSCTX     296K Research Review in Nutritional Sciences and Toxicol...
+NUSCTX     296L Research Review in Nutritional Sciences and Toxicol...
+NUSCTX     298  Directed Group Studies
+NUSCTX     299  Nutritional Sciences and Toxicology Research
+NUSCTX     302  Professional Preparation: Supervised Teaching Exper...
+NUSCTX     999  
+NUSCTX     999  
+
+OPTOMETRY
+OPTOM      10   The Eye and Vision in a Changing Environment
+OPTOM      200B Clinical Examination of the Visual System
+OPTOM      200BL    Clinical Examination of the Visual System
+OPTOM      200D Clinical Examination of the Visual System
+OPTOM      200DL    Clinical Examination of the Visual System
+OPTOM      222A Optics of Ophthalmic Lenses
+OPTOM      222B Advanced Clinical Optics
+OPTOM      226B Ocular Pharmacology
+OPTOM      230B Graduate General Clinical Practice
+OPTOM      231B Graduate Specialty Clinics
+OPTOM      236B Systemic Disease and its Ocular Manifestations
+OPTOM      240  Diagnosis and Treatment of Sensory/Motor Anomalies
+OPTOM      256  Diagnosis and Treatment of Posterior Segment Ocular...
+OPTOM      260A Contact Lenses: Examination Principles and Practic...
+OPTOM      270A Eyecare Business and Professional Management I
+OPTOM      270C Eyecare Business and Professional Management III
+OPTOM      281B Graduate Clinical Rounds
+OPTOM      291B Optometry Research Project
+OPTOM      292B Graduate Optometry Seminar
+OPTOM      298B Independent or Group Studies
+OPTOM      299B Graduate Optometry Research
+OPTOM      430C Optometry Clinics
+OPTOM      440C Advanced Optometry Clinic
+OPTOM      441C Specialty Clinics
+OPTOM      450B Grand Rounds and Seminar
+OPTOM      452  Current Concepts in Ocular Disease
+OPTOM      499  Supervised Independent Study
+
+VISION SCIENCE
+VIS SCI    24   Freshman Seminars
+VIS SCI    39   Freshman and Sophomore Seminar
+VIS SCI    84   Sophomore Seminar
+VIS SCI    199  Supervised Independent Study and Research
+VIS SCI    201B Seminar in Vision Science
+VIS SCI    203B Optical System and Physical Optics
+VIS SCI    206B Anatomy and Physiology of the Eye and Visual System
+VIS SCI    212E Color Vision and Visual Sensitivity
+VIS SCI    212F Spatial and Binocular Vision, Eye Movements, and Mo...
+VIS SCI    212G Molecular Genetics of Vertebrate Eye Development an...
+VIS SCI    217  Oculomotor Functions and Neurology
+VIS SCI    219  Binocular Vision and Space Perception
+VIS SCI    230  Ethics in Scientific Research
+VIS SCI    298  Group Studies, Seminars, or Group Research
+VIS SCI    299  Research in Vision Science
+VIS SCI    300  Teaching Methods in Vision Science
+VIS SCI    601  Individual Study for Master's Students
+VIS SCI    602  Individual Study for Doctoral Students
+
+PEACE AND CONFLICT STUDIES
+PACS       10   Introduction to Peace and Conflict Studies
+PACS       94   Theory and Practice of Meditation
+PACS       98   Directed Group Study
+PACS       100  Peace Theory: Approaches and Analyses
+PACS       119  Special Topics in Peace and Conflict Issues
+PACS       127  Human Rights and Global Politics
+PACS       128AC    Human Rights and American Cultures
+PACS       148AC    Social Movements, Urban Histories, and the Politics...
+PACS       154  Multicultural Conflict Resolution
+PACS       190  Senior Seminar
+PACS       H195 Senior Honors Thesis Seminar
+PACS       198  Directed Group Study for Upper Division Students
+
+PHILOSOPHY
+PHILOS     2    Individual Morality and Social Justice
+PHILOS     3    The Nature of Mind
+PHILOS     4    Knowledge and Its Limits
+PHILOS     11   Introduction to the Philosophy of Religion
+PHILOS     12A  Introduction to Logic
+PHILOS     25B  Modern Philosophy
+PHILOS     84   Sophomore Seminar
+PHILOS     98   Directed Group Study for Lower Division Students
+PHILOS     100  Philosophical Methods
+PHILOS     108  Contemporary Ethical Issues
+PHILOS     125  Metaphysics
+PHILOS     129  Special Topics in the Philosophy of Science
+PHILOS     133  Philosophy of Language
+PHILOS     135  Theory of Meaning
+PHILOS     138  Philosophy of Society
+PHILOS     140A Intermediate Logic
+PHILOS     141  Philosophy and Game Theory
+PHILOS     153  Chinese Philosophy
+PHILOS     161  Aristotle
+PHILOS     172  Spinoza
+PHILOS     186B Later Wittgenstein
+PHILOS     187  Special Topics in the History of Philosophy
+PHILOS     188  Phenomenology
+PHILOS     198  Group Study
+PHILOS     199  Supervised Independent Study and Research
+PHILOS     250  Special Studies
+PHILOS     251  Directed Studies
+PHILOS     290  Seminar
+PHILOS     295  Dissertation Seminar
+PHILOS     299  Independent Study
+PHILOS     301  Professional Preparation: The Teaching of Philosoph...
+PHILOS     602  Individual Study for Doctoral Students
+PHILOS     603  Independent Philosophical Studies
+
+PHYSICAL EDUCATION
+PHYS ED    1    Physical Education Activities
+PHYS ED    2    Physical Education Activities
+PHYS ED    3    Physical Education Activities
+PHYS ED    4    Physical Education Activities
+PHYS ED    5    Physical Education Activities
+PHYS ED    11   Physical Education Activities
+PHYS ED    12   Physical Education Activities
+PHYS ED    32   Fitness for Life: Physical Adaptations to Exercise
+PHYS ED    98   Supervised Group Study
+PHYS ED    C129 Human Physiological Assessment
+PHYS ED    197  Field Study in Physical Education
+PHYS ED    198  Supervised Group Study
+PHYS ED    C407 Introduction to Scientific Diving
+
+PHYSICS
+PHYSICS    7A   Physics for Scientists and Engineers
+PHYSICS    7B   Physics for Scientists and Engineers
+PHYSICS    H7B  Physics for Scientists and Engineers
+PHYSICS    7C   Physics for Scientists and Engineers
+PHYSICS    H7C  Physics for Scientists and Engineers
+PHYSICS    8A   Introductory Physics
+PHYSICS    8B   Introductory Physics
+PHYSICS    C10  Descriptive Introduction to Physics
+PHYSICS    C21  Physics and Music
+PHYSICS    24   Freshman Seminars
+PHYSICS    49   Supplementary Work in Lower Division Physics
+PHYSICS    98   Directed Group Study
+PHYSICS    99   Supervised Independent Study
+PHYSICS    105  Analytic Mechanics
+PHYSICS    110A Electromagnetism and Optics
+PHYSICS    110B Electromagnetism and Optics
+PHYSICS    111  Modern Physics and Advanced Electrical Laboratory
+PHYSICS    112  Introduction to Statistical and Thermal Physics
+PHYSICS    130  Quantum and Nonlinear Optics
+PHYSICS    137A Quantum Mechanics
+PHYSICS    137B Quantum Mechanics
+PHYSICS    139  Special Relativity and General Relativity
+PHYSICS    141A Solid State Physics
+PHYSICS    141B Solid State Physics
+PHYSICS    142  Introduction to Plasma Physics
+PHYSICS    C161 Relativistic Astrophysics and Cosmology
+PHYSICS    177  Principles of Molecular Biophysics
+PHYSICS    H190 Physics Honors Course
+PHYSICS    H195A    Senior Honors Thesis Research
+PHYSICS    H195B    Senior Honors Thesis Research
+PHYSICS    198  Directed Group Study
+PHYSICS    199  Supervised Independent Study
+PHYSICS    C202 Astrophysical Fluid Dynamics
+PHYSICS    211  Equilibrium Statistical Physics
+PHYSICS    212  Nonequilibrium Statistical Physics
+PHYSICS    221B Quantum Mechanics
+PHYSICS    231  General Relativity
+PHYSICS    232B Quantum Field Theory II
+PHYSICS    233A Standard Model and Beyond I
+PHYSICS    234B String Theory II
+PHYSICS    240B Quantum Theory of Solids
+PHYSICS    242A Theoretical Plasma Physics
+PHYSICS    250  Special Topics in Physics
+PHYSICS    C254 High Energy Astrophysics
+PHYSICS    C285 Theoretical Astrophysics Seminar
+PHYSICS    290B Seminar
+PHYSICS    C290C    Cosmology
+PHYSICS    290E Seminar
+PHYSICS    290F Seminar
+PHYSICS    290H Seminar
+PHYSICS    290I Seminar
+PHYSICS    290K Seminar
+PHYSICS    290P Seminar
+PHYSICS    290S Seminar
+PHYSICS    290Z Seminar
+PHYSICS    299  Research
+PHYSICS    301  Advanced Professional Preparation: Supervised Teach...
+PHYSICS    602  Individual Study for Doctoral Students
+PHYSICS    999  
+
+PLANT AND MICROBIAL BIOLOGY
+PLANTBI    11   Fungi, History, and Society
+PLANTBI    13   Genetic Revolutions
+PLANTBI    40   The (Secret) Life of Plants
+PLANTBI    98   Directed Group Study
+PLANTBI    99   Supervised Independent Study and Research
+PLANTBI    101L Experimental Plant Biolog y Laboratory
+PLANTBI    C103 Bacterial Pathogenesis
+PLANTBI    C112L    General Microbiology Laboratory
+PLANTBI    C114 Introduction to Comparative Virology
+PLANTBI    120  Biology of Algae
+PLANTBI    120L Laboratory for Biology of Algae
+PLANTBI    122  Bioenergy
+PLANTBI    C134 Chromosome Biology/Cytogenetics
+PLANTBI    C144 Introduction to Protein Informatics
+PLANTBI    C144L    Protein Informatics Laboratory
+PLANTBI    C148 Microbial Genomics and Genetics
+PLANTBI    150  Plant Cell Biology
+PLANTBI    160  Plant Molecular Genetics
+PLANTBI    165  Plant-Microbe Interactions
+PLANTBI    H196 Honors Research - Plant and Microbial Biology
+PLANTBI    198  Directed Group Studies in Plant Biology
+PLANTBI    199  Supervised Independent Study and Research
+PLANTBI    200B Genomics and Computational Biology
+PLANTBI    200D Plant Cell Biology
+PLANTBI    200F Plant Systems Biology
+PLANTBI    220B Genomics and Computational Biology
+PLANTBI    220C Microbial Diversity and Evolution
+PLANTBI    220F Microbial Ecology
+PLANTBI    C244 Introduction to Protein Informatics
+PLANTBI    C244L    Protein Informatics Laboratory
+PLANTBI    290  Seminar
+PLANTBI    296  Graduate Supervised Independent Study
+PLANTBI    297  Grant Writing and Research Presentations
+PLANTBI    298  Plant Biology Group Studies
+PLANTBI    299  Graduate Research
+
+POLITICAL ECONOMY
+POLECON    24   Freshman Seminar
+POLECON    98   Directed Group Study
+POLECON    100  Classical Theories of Political Economy
+POLECON    101  Contemporary Theories of Political Economy
+POLECON    133  Junior Seminar in Political Economy
+POLECON    150  Advanced Study in Political Economy of Industrial S...
+POLECON    160  Political Economy in Historical Context
+POLECON    H195 Senior Honors Thesis Seminar
+POLECON    C196A    UCDC Core Seminar
+POLECON    C196B    UCDC Internship
+POLECON    C196W    Special Field Research
+POLECON    198  Directed Group Study
+
+POLITICAL SCIENCE
+POL SCI    1    Introduction to American Politics
+POL SCI    2    Introduction to Comparative Politics
+POL SCI    4    Introduction to Political Theory
+POL SCI    98   Directed Group Study for Lower Division Students
+POL SCI    109J Special Topics in American Politics
+POL SCI    110B Cal-in-Sacramento
+POL SCI    111AC    The Politics of Displacement
+POL SCI    112B History of Political Theory
+POL SCI    116G Special Topics in Political Theory
+POL SCI    122A Politics of European Integration
+POL SCI    123I Special Topics in International Relations
+POL SCI    124A War!
+POL SCI    124C Ethics and Justice in International Affairs
+POL SCI    126A International Political Economy
+POL SCI    128  Chinese Foreign Policy
+POL SCI    C131A    Applied Econometrics and Public Policy
+POL SCI    138G National Success and Failure in the Age of a Global...
+POL SCI    143B Japanese Politics
+POL SCI    144  American Foreign Policy Toward Asia
+POL SCI    145A South Asian Politics
+POL SCI    149E Special Topics in Area Studies
+POL SCI    149W Special Topics in Area Studies
+POL SCI    169  Selected Topics in Political Behavior
+POL SCI    171  California Politics
+POL SCI    179  Undergraduate Colloquium on Political Science
+POL SCI    186  Public Problems
+POL SCI    H190B    Honors Seminar
+POL SCI    191  Junior Seminar
+POL SCI    C196A    UCDC Core Seminar
+POL SCI    C196B    UCDC Internship
+POL SCI    198  Directed Group Study for Undergraduates
+POL SCI    209A Comparative Political Economy
+POL SCI    210  Selected Topics in Comparative Politics
+POL SCI    212B History of Political Thought: Early Modern (Renaiss...
+POL SCI    214  Symposium in the History of Political Thought
+POL SCI    220A Theories of International Relations
+POL SCI    223  Selected Topics in International Relations
+POL SCI    232A Formal Models of Political Science
+POL SCI    236B Quantitative Methodology in the Social Sciences Sem...
+POL SCI    243C Japanese Politics
+POL SCI    245B International Relations in East Asia
+POL SCI    248A Latin American Politics
+POL SCI    252  Legal Theory and Institutions
+POL SCI    261  Political Behavior
+POL SCI    279  Selected Topics in American Government
+POL SCI    289  Research Topics in Public Organization
+POL SCI    291  Research Workshop in American Politics
+POL SCI    291AS    Research Workshop in Area Studies
+POL SCI    291IR    Research Workshop in International Relations
+POL SCI    291T Research Workshop in Theory
+POL SCI    292  Directed Advanced Study
+POL SCI    296  Directed Dissertation Research
+POL SCI    299  Special Study in Political Science
+POL SCI    398  Professional Preparation for Graduate Student Instr...
+POL SCI    404  Research Skills
+
+PSYCHOLOGY
+PSYCH      1    General Psychology
+PSYCH      W1   General Psychology
+PSYCH      2    Principles of Psychology
+PSYCH      24   Freshman Seminars
+PSYCH      39N  Freshman/Sophomore Seminar
+PSYCH      101  Research and Data Analysis in Psychology
+PSYCH      C116 Hormones and Behavior
+PSYCH      117  Human Neuropsychology
+PSYCH      121  Animal Cognition
+PSYCH      122  Introduction to Human Learning and Memory
+PSYCH      C126 Perception
+PSYCH      130  Clinical Psychology
+PSYCH      131  Developmental Psychopathology
+PSYCH      140  Developmental Psychology
+PSYCH      148  Topical Seminars in Developmental Psychology
+PSYCH      150  Psychology of Personality
+PSYCH      164  Social Cognition
+PSYCH      167AC    Stigma and Prejudice
+PSYCH      168  Topical Seminars in Social Psychology
+PSYCH      H194B    Honors Seminar
+PSYCH      198  Directed Group Study
+PSYCH      205B Data Analysis
+PSYCH      210A Proseminar: Cognition, Brain, and Behavior
+PSYCH      229  Cognition, Brain, and Behavior Colloquium
+PSYCH      236  Specialty Clinic
+PSYCH      237E Professional Development in Clinical Science
+PSYCH      237G Intervention: Specialty Clinics
+PSYCH      237H Intervention: Introduction to Clinical Methods
+PSYCH      239  Clinical Seminar
+PSYCH      249  Developmental Seminar
+PSYCH      250B Perspectives in Personality: Trends and Issues
+PSYCH      250C Proseminar: Social Cognition
+PSYCH      250D Principles and Pragmatics of Personality Measuremen...
+PSYCH      259  Personality Seminar
+PSYCH      269  Social Seminar
+PSYCH      290B Biological
+PSYCH      290I Personality
+PSYCH      290J Social
+PSYCH      290K Clinical
+PSYCH      290Z Seminars
+PSYCH      293  Second-Year Seminar on Professional Development
+PSYCH      294  Current Issues Colloquium Series
+PSYCH      298  Directed Study
+PSYCH      299  Research
+PSYCH      301  Supervision for Teaching Psychology 2
+PSYCH      401B Clinical Internship (Off Campus)
+PSYCH      602  Individual Study for Doctoral Students
+
+PUBLIC HEALTH
+PB HLTH    14   Healthy People: Introduction to Health Promotion
+PB HLTH    24   Freshman Seminar in Public Health
+PB HLTH    39J  Freshman/Sophomore Seminar
+PB HLTH    97   Field Study
+PB HLTH    98   Directed Group Study
+PB HLTH    99   Supervised Independent Study
+PB HLTH    C102 Bacterial Pathogenesis
+PB HLTH    104B Health Promotion in a College Setting
+PB HLTH    112  Global Health: A Multidisciplinary Examination
+PB HLTH    116  Seminar on Social, Political, and Ethical Issues in...
+PB HLTH    C117 Introduction to Global Health Disparities Research
+PB HLTH    126  Health Economics and Public Policy
+PB HLTH    142  Introduction to Probability and Statistics in Biolo...
+PB HLTH    144A Introduction to SAS Programming
+PB HLTH    144B Intermediate SAS Programming
+PB HLTH    150A Introduction to Epidemiology and Human Disease
+PB HLTH    150E Introduction to Community Health and Human Developm...
+PB HLTH    C155 Sociology of Health and Medicine
+PB HLTH    C160 Environmental Health and Development
+PB HLTH    183  The History of Medicine, Public Health, and the All...
+PB HLTH    H195A    Special Study for Honors Candidates in Public Healt...
+PB HLTH    H195B    Special Study for Honors Candidates in Public Healt...
+PB HLTH    196  Special Topics in Public Health
+PB HLTH    197  Field Study in Public Health
+PB HLTH    198  Directed Group Study
+PB HLTH    199  Supervised Independent Study and Research
+PB HLTH    200A Current issues in Public Health Ethics: Research an...
+PB HLTH    200C3    Health and Social Behavior Breadth
+PB HLTH    201E Public Health Interventions: Theory, Practice, and ...
+PB HLTH    202G Advanced Alcohol Research Seminar
+PB HLTH    204F Culture, Public Health Practice, and Eliminating He...
+PB HLTH    204G Research Advances in Health Disparities: Multidisci...
+PB HLTH    205  Program Planning, Development, and Evaluation
+PB HLTH    206D Food and Nutrition Programs and Policies in Develop...
+PB HLTH    207A Public Health Aspects of Maternal and Child Nutriti...
+PB HLTH    212C Migration and Health: A U.S.-Mexico Binational Pers...
+PB HLTH    212D Global Health Core Course
+PB HLTH    212E Private Sector Health Services in Developing Countr...
+PB HLTH    216A Biological Embedding of Social Factors
+PB HLTH    217C Aging and Public Health
+PB HLTH    C217D    Biological and Public Health Aspects of Alzheimer's...
+PB HLTH    218B Evaluation of Health and Social Programs
+PB HLTH    219C Community-Based Participatory Research in Public He...
+PB HLTH    219E Introduction to Qualitative Methods in Public Healt...
+PB HLTH    223C Strategic Management and the Organization of Health...
+PB HLTH    223E Capstone Seminar in Health Policy and Management
+PB HLTH    223F Effective Public Health Negotiations
+PB HLTH    224A Health Care Organizations and Management
+PB HLTH    225  Legal Basis for Health Care Delivery
+PB HLTH    230  Advanced Health Politics
+PB HLTH    231A Analytic Methods for Health Policy and Management
+PB HLTH    C234 Green Chemistry: An Interdisciplonary Approach to S...
+PB HLTH    C240A    Biostatistical Methods: Advanced Categorical Data A...
+PB HLTH    C240F    Statistical Genomics
+PB HLTH    241  Statistical Analysis of Categorical Data
+PB HLTH    243C Information Systems in Public Health
+PB HLTH    252  Epidemiological Analysis
+PB HLTH    252B Modeling the Dynamics of Infectious Disease Process...
+PB HLTH    C253 Foundations of Public Health
+PB HLTH    253B Epidemiology and Control of Infectious Diseases
+PB HLTH    253D Behavior and Policy Science in HIV Treatment and Pr...
+PB HLTH    253G Sexual Health Promotion and Sexually Transmitted Di...
+PB HLTH    254  Occupational and Environmental Epidemiology
+PB HLTH    255A Social Epidemiology
+PB HLTH    255D Methods in Social Epidemiology
+PB HLTH    256  Molecular and Genetic Epidemiology and Human Health...
+PB HLTH    257  Outbreak Investigation
+PB HLTH    258  Epidemiology of Neoplastic Diseases
+PB HLTH    260B Principles of Infectious Diseases
+PB HLTH    260C Infectious Disease Laboratory
+PB HLTH    262  Molecular and Cellular Basis of Bacterial Pathogene...
+PB HLTH    263  Public Health Immunology
+PB HLTH    266  Viruses and Human Cancer
+PB HLTH    C269C    Occupational Biomechanics
+PB HLTH    270B Toxicology I
+PB HLTH    270C Practical Toxicology
+PB HLTH    271C Drinking Water and Health
+PB HLTH    271E Science and Policy for Environment and Health
+PB HLTH    C271G    Health Implications of Climate Change
+PB HLTH    272A Geographic Information Science for Public and Envir...
+PB HLTH    275  Current Topics in Vaccinology
+PB HLTH    281  Public Health and Spirituality
+PB HLTH    282  Topics in the History of Medicine and Public Health
+PB HLTH    C285 Traffic Safety and Injury Control
+PB HLTH    288C Preventive Medicine Residency Seminar: Managed Care...
+PB HLTH    288D Preventive Medicine Residency Seminar: Public Admin...
+PB HLTH    290  Health Issues Seminars
+PB HLTH    291A Preparation for Public Health Practice
+PB HLTH    292  Seminars for M.P.H. Students
+PB HLTH    293  Doctoral Seminar
+PB HLTH    295  Seminars
+PB HLTH    296  Special Study
+PB HLTH    297  Field Study in Public Health
+PB HLTH    298  Group Study
+PB HLTH    299  Independent Research
+PB HLTH    375B Instructional Techniques in Biostatistics
+
+PUBLIC POLICY
+PUB POL    98   Group Study in Public Policy
+PUB POL    101  Introduction to Public Policy Analysis
+PUB POL    C103 Wealth and Poverty
+PUB POL    117AC    Race, Ethnicity, and Public Policy
+PUB POL    C142 Applied Econometrics and Public Policy
+PUB POL    179  Public Budgeting
+PUB POL    190  Special Topics in Public Policy
+PUB POL    198  Directed Group Study
+PUB POL    200  Introduction to Policy Analysis
+PUB POL    205  Advanced Policy Analysis
+PUB POL    210B The Economics of Public Policy Analysis
+PUB POL    240B Decision Analysis, Modeling, and Quantitative Metho...
+PUB POL    269  Public Budgeting
+PUB POL    270  Kid-First Policy: Family, School, and Community
+PUB POL    C285 Nuclear Security: The Nexus Between Policy and Tech...
+PUB POL    290  Special Topics in Public Policy
+PUB POL    296  Ph.D. Seminar
+PUB POL    297  Graduate Student Led Course in Public Policy
+PUB POL    298  Directed Advanced Study
+PUB POL    299  Independent Study in Preparation for the Advanced P...
+PUB POL    375  GSI Practicum
+
+RELIGIOUS STUDIES
+RELIGST    90B  Introductory Topics in Religious Studies
+RELIGST    C108 Scandinavian Myth and Religion
+RELIGST    C166 India's Great Epics: The Mahabharata and the Ramaya...
+RELIGST    173AC    Gandhi and the Civil Rights Movement in America
+RELIGST    C182 Sociology of Religion
+RELIGST    190  Topics in the Study of Religion
+RELIGST    H195A    Honors Course
+RELIGST    H195B    Honors Course
+RELIGST    199  Supervised Independent Study
+
+RHETORIC
+RHETOR     R1A  The Craft of Writing
+RHETOR     R1B  The Craft of Writing
+RHETOR     20   Rhetorical Interpretation
+RHETOR     24   Freshman Seminars
+RHETOR     39I  Freshman/Sophomore Seminar
+RHETOR     98   Supervised Group Study
+RHETOR     103B Approaches and Paradigms in the History of Rhetoric...
+RHETOR     109  Aesthetics and Rhetoric
+RHETOR     110  Advanced Argumentative Writing
+RHETOR     114  Rhetoric of New Media
+RHETOR     117  Language, Truth and Dialogue
+RHETOR     119  Rhetorical Places
+RHETOR     121  Rhetoric of Fiction
+RHETOR     127  Novel, Society, and Politics
+RHETOR     130  Novel into Film
+RHETOR     133T Theories of Film
+RHETOR     139  Rhetoric of Visual Witnessing
+RHETOR     160  Introduction to the Rhetoric of Legal Discourse
+RHETOR     167  Advanced Themes in Legal Theory, Philosophy, Argume...
+RHETOR     176  Rhetoric of Material Culture
+RHETOR     182  Rhetorics of Sexual Exchange and Sexual Difference
+RHETOR     H190A    Honors Thesis
+RHETOR     H190B    Honors Thesis
+RHETOR     197  Field Studies
+RHETOR     199  Supervised Independent Study
+RHETOR     200  Classical Rhetorical Theory and Practice
+RHETOR     230  Rhetoric and History
+RHETOR     240G Rhetorical Theory
+RHETOR     244A Special Topics in Rhetoric: Limited Study
+RHETOR     250  Rhetoric of the Image
+RHETOR     295  Special Study
+RHETOR     299  Directed Research
+RHETOR     601  Individual Study for Master's Students
+RHETOR     602  Individual Study for Doctoral Students
+
+SCANDINAVIAN
+SCANDIN    1B   Intermediate Swedish
+SCANDIN    2B   Beginning Finnish
+SCANDIN    3B   Intermediate Norwegian
+SCANDIN    4B   Intermediate Danish
+SCANDIN    R5B  Reading and Composition
+SCANDIN    98   Directed Group Study
+SCANDIN    100B Scandinavian Languages and Linguistics
+SCANDIN    102B Advanced Finnish
+SCANDIN    106  The Works of Hans Christian Andersen
+SCANDIN    C108 Strindberg
+SCANDIN    116  Studies in Prose
+SCANDIN    145  Senior Seminar
+SCANDIN    149  Major Studies
+SCANDIN    C160 Scandinavian Myth and Religion
+SCANDIN    198  Group Study for Advanced Undergraduates
+SCANDIN    199  Independent Study and Research
+SCANDIN    201B Norse Literature
+SCANDIN    206  Studies in Philology and Linguistics
+SCANDIN    249  Graduate Studies
+SCANDIN    250  Seminar in Scandinavian Literature
+SCANDIN    298  Special Study
+SCANDIN    299  Dissertation Writing
+SCANDIN    300B Teaching Practicum
+SCANDIN    301  Scandinavian Teaching Methods
+SCANDIN    601  Individual Study for M.A. Candidates
+SCANDIN    602  Individual Study for Doctoral Candidates
+
+SCIENCE AND MATHEMATICS EDUCATION
+SCMATHE    210  Practicum in Science and Math Education Research an...
+SCMATHE    220C Instructional Design in Science and Mathematics Edu...
+SCMATHE    292  Research Seminar and Colloquium
+SCMATHE    294  Formulation of Educational Research
+SCMATHE    295  Research
+SCMATHE    299  Individual Reading and Study
+SCMATHE    602  Individual Study for Qualifying Examination
+
+SCIENCE AND TECHNOLOGY STUDIES
+STS    C250 Science and Technology Studies Research Seminar
+
+SLAVIC LANGUAGES AND LITERATURES
+SLAVIC     1    Elementary Russian
+SLAVIC     2    Elementary Russian
+SLAVIC     3    Intermediate Russian
+SLAVIC     4    Intermediate Russian
+SLAVIC     R5A  Reading and Composition
+SLAVIC     R5B  Reading and Composition
+SLAVIC     24   Freshman Seminar
+SLAVIC     25B  Introductory Polish
+SLAVIC     26B  Introductory Czech
+SLAVIC     27B  Introductory Bosnian/Croatian/Serbian
+SLAVIC     36   Great Books of Russian Literature
+SLAVIC     46   Twentieth-Century Russian Literature
+SLAVIC     50   Introduction to Russian/East European/Eurasian Cult...
+SLAVIC     98   Directed Group Study
+SLAVIC     99   Individual Study
+SLAVIC     103B Advanced Russian
+SLAVIC     115B Advanced Polish
+SLAVIC     116B Advanced Czech
+SLAVIC     117B Advanced Bosnian/Croatian/Serbian
+SLAVIC     120B Advanced Russian Conversation and Communication
+SLAVIC     134E Chekhov
+SLAVIC     134G Tolstoy and Dostoevsky
+SLAVIC     134R Research in Russian Literature
+SLAVIC     147B Balkan Folklore
+SLAVIC     147R Slavic Studies Research
+SLAVIC     158  Topics in East European/Eurasian Cultural History
+SLAVIC     H195 Honors Seminar
+SLAVIC     198  Supervised Group Study for Undergraduates
+SLAVIC     199  Supervised Independent Study and Research
+SLAVIC     200  Graduate Colloquium
+SLAVIC     201  Advanced Russian Proficiency Maintenance
+SLAVIC     214  Medieval Orthodox Slavic Texts
+SLAVIC     239  Twentieth-Century Slavic Literary Theory
+SLAVIC     256  Topics in Slavic Folklore
+SLAVIC     287  Russian Poetry
+SLAVIC     298  Special Study for Graduate Students
+SLAVIC     299  Directed Research
+SLAVIC     375A Teaching Methods for Slavic Languages
+SLAVIC     375B Teaching Methods of Reading and Composition
+SLAVIC     601  Individual Study for Master's Students
+SLAVIC     602  Individual Study for Doctoral Students
+
+EAST EUROPEAN STUDIES
+EAEURST    1B   Introductory Hungarian
+EAEURST    2B   Introductory Romanian
+EAEURST    100  Readings in Hungarian
+EAEURST    102B Continuing Romanian
+
+EURASIAN STUDIES
+EURA ST    1B   Beginning Armenian
+EURA ST    101B Continuing Armenian
+
+SOCIAL WELFARE
+SOC WEL    24   Freshman Seminar
+SOC WEL    97   Field Studies in Social Welfare
+SOC WEL    107  Foundations, Philanthropy, and the Social Services:...
+SOC WEL    110  Social Work As a Profession
+SOC WEL    112  Social Welfare Policy
+SOC WEL    114AC    Practice in Social Work
+SOC WEL    116  Current Topics in Social Welfare
+SOC WEL    H195 Senior Honors Course
+SOC WEL    197  Field Studies in Social Welfare
+SOC WEL    199  Supervised Independent Study and Research
+SOC WEL    210B Infant Development
+SOC WEL    210C Aging Processes
+SOC WEL    222  Mental Health and Social Policy
+SOC WEL    226  Social Policy and Gerontology
+SOC WEL    230  Social Policy: Children and Families
+SOC WEL    232  Social Work and Education Policy
+SOC WEL    238C Health Policy--A Social Welfare Perspective
+SOC WEL    243  Direct Practice in Child and Family Settings
+SOC WEL    244  Direct Practice in Mental Health Settings
+SOC WEL    245  Direct Practice in Health Settings
+SOC WEL    246  Direct Practice in Aging Settings
+SOC WEL    250A Social Work with Groups
+SOC WEL    250I Essential Spanish for Social Workers
+SOC WEL    250J Social Work with Latino Populations
+SOC WEL    250N Public Child Welfare Services
+SOC WEL    250P Child Psychopathology: Issues in Assessment and Tre...
+SOC WEL    250T Social Work Practice in School Settings
+SOC WEL    251  Community Practice
+SOC WEL    255  Community Organizing
+SOC WEL    257  Financial Management
+SOC WEL    260  Forensic Social Work
+SOC WEL    275  Diversity-Sensitive and Competent Social Work
+SOC WEL    280  Introduction to Social Welfare Research
+SOC WEL    282B Seminar in Social Welfare Research
+SOC WEL    289A Research Methods and Techniques in Social Welfare
+SOC WEL    296  Individual Study for Graduate Students
+SOC WEL    298  Group Study for Graduate Students
+SOC WEL    299  Individual Research for Graduate Students
+SOC WEL    301  Training in Teaching
+SOC WEL    400B Field Integration Seminar
+SOC WEL    401  Field Practicum
+SOC WEL    403  Training in Research
+
+SOCIOLOGY
+SOCIOL     1    Introduction to Sociology
+SOCIOL     3AC  Principles of Sociology: American Cultures
+SOCIOL     5    Evaluation of Evidence
+SOCIOL     98   Directed Group Study
+SOCIOL     102  Sociological Theory II
+SOCIOL     105  Research Design and Sociological Methods
+SOCIOL     106  Quantitative Sociological Methods
+SOCIOL     110  Organizations and Social Institutions
+SOCIOL     111AC    Sociology of the Family
+SOCIOL     C112 Sociology of Religion
+SOCIOL     C115 Sociology of Health and Medicine
+SOCIOL     115B Biology, Genetics and Society
+SOCIOL     120  Economy and Society
+SOCIOL     121  Innovation and Entrepreneurship: Social and Cultura...
+SOCIOL     127  Development and Globalization
+SOCIOL     130AC    Social Inequalities: American Cultures
+SOCIOL     131AC    Race and Ethnic Relations: U.S. American Cultures
+SOCIOL     135  Sexual Cultures
+SOCIOL     136  Urban Sociology
+SOCIOL     137AC    Environmental Justice: Race, Class, Equity, and the...
+SOCIOL     140  Politics and Social Change
+SOCIOL     145L Social Change in Latin America
+SOCIOL     150  Social Psychology
+SOCIOL     152  Deviance and Social Control
+SOCIOL     165  Social Networks
+SOCIOL     166  Society and Technology
+SOCIOL     167  Virtual Communities/Social Media
+SOCIOL     169F Cultural Perspectives of Food
+SOCIOL     180C Comparative Perspectives on U.S. and European Socie...
+SOCIOL     183  Contemporary Chinese Society
+SOCIOL     189G Comparative Perspectives in Sociology: The Global E...
+SOCIOL     190  Seminar and Research in Sociology
+SOCIOL     H190B    Senior Honors Thesis and Seminar
+SOCIOL     194  Writing Seminar
+SOCIOL     C196A    UCDC Core Seminar
+SOCIOL     C196B    UCDC Internship
+SOCIOL     C196W    Special Field Research
+SOCIOL     197  Field Study in Sociology
+SOCIOL     198  Directed Group Study for Undergraduates
+SOCIOL     199  Supervised Independent Study and Research
+SOCIOL     201B Modern Social Theory
+SOCIOL     271C Methods of Sociological Research
+SOCIOL     C271D    Quantitative/Statistical Research Methods in Social...
+SOCIOL     273C Comparative and Historical Research
+SOCIOL     273D Quantitative/Statistical Research
+SOCIOL     275  Research Design
+SOCIOL     280B Race and Ethnic Relations
+SOCIOL     280C Political Sociology
+SOCIOL     280E Sociology of Work
+SOCIOL     280M Culture
+SOCIOL     280Q Economy and Society
+SOCIOL     280S Social Movements
+SOCIOL     280Y Sociology of Globalization
+SOCIOL     292  Advanced Research Seminar
+SOCIOL     295  Independent Study for Graduate Students in Sociolog...
+SOCIOL     296  Directed Dissertation Research
+SOCIOL     298  Directed Group Studies for Graduates
+SOCIOL     299  Individual Study and Research
+SOCIOL     301  Professional Training: Teachers
+SOCIOL     401  Professional Training: Research
+SOCIOL     601  Individual Study for Master's Students
+SOCIOL     602  Individual Study for Doctoral Students
+
+SOUTH AND SOUTHEAST ASIAN STUDIES
+S,SEASN    R5B  Under Western Eyes
+S,SEASN    39I  Freshman/Sophomore Seminar
+S,SEASN    39J  Freshman/Sophomore Seminar
+S,SEASN    99A  South Asian Studies
+S,SEASN    C145 Buddhism in Contemporary Society
+S,SEASN    190  Seminar in South and Southeast Asian Studies
+S,SEASN    H195A    South Asian Studies
+S,SEASN    H195B    Tamil
+S,SEASN    H195C    Hindi-Urdu
+S,SEASN    H195E    Southeast Asian Studies
+S,SEASN    H195F    Sanskrit
+S,SEASN    198F Sanskrit
+S,SEASN    199A South Asian Studies
+S,SEASN    199B Tamil
+S,SEASN    199C Hindi-Urdu
+S,SEASN    199D Malay/Indonesian
+S,SEASN    199E Southeast Asian Studies
+S,SEASN    199F Sanskrit
+S,SEASN    250  Seminar in South and Southeast Asian Studies
+S,SEASN    290A South Asian Studies
+S,SEASN    290B Tamil
+S,SEASN    290C Hindi-Urdu
+S,SEASN    290D Malay/Indonesian
+S,SEASN    290E Southeast Asian Studies
+S,SEASN    290F Sanskrit
+S,SEASN    299A South Asian Studies
+S,SEASN    299B Tamil
+S,SEASN    299C Hindi-Urdu
+S,SEASN    299D Malay-Indonesian
+S,SEASN    299E Southeast Asian Studies
+S,SEASN    299F Sanskrit
+S,SEASN    375  Methods and Problems in Teaching South and Southeas...
+S,SEASN    601A South Asian Studies
+S,SEASN    601B Tamil
+S,SEASN    601C Hindi-Urdu
+S,SEASN    601D Malay-Indonesian
+S,SEASN    601E Southeast Asian Studies
+S,SEASN    601F Sanskrit
+S,SEASN    602A South Asian Studies
+S,SEASN    602B Tamil
+S,SEASN    602C Hindi-Urdu
+S,SEASN    602D Malay-Indonesian
+S,SEASN    602E Southeast Asian Studies
+S,SEASN    602F Sanskrit
+
+SOUTH ASIAN
+S ASIAN    1B   Introduction to the Civilization of Medieval and Mo...
+S ASIAN    R5B  India in the Writer's Eye
+S ASIAN    124  Modern Indian Literature
+S ASIAN    C142 India's Great Epics: The Mahabharata and the Ramaya...
+S ASIAN    144  Islam in South Asia
+S ASIAN    C215B    Readings in Indian Buddhist Texts
+S ASIAN    C224 Readings in Tibetan Buddhist Texts
+
+SOUTHEAST ASIAN
+SEASIAN    10B  Introduction to the Civilization of Southeast Asia
+SEASIAN    130  Articulations of the Female in Indonesia
+SEASIAN    C164 The Indonesian Connection: Dutch Literature About t...
+
+BENGALI
+BANGLA     1B   Introductory Bengali
+
+FILIPINO
+FILIPN     1B   Introductory Filipino
+FILIPN     100B Intermediate Filipino
+FILIPN     101B Advanced Filipino
+
+HINDI-URDU
+HIN-URD    1B   Introductory Hindi
+HIN-URD    2B   Introductory Urdu
+HIN-URD    100B Intermediate Hindi
+HIN-URD    101B Readings in Modern Hindi
+HIN-URD    103B Intermediate Urdu
+HIN-URD    104B Advanced Urdu
+HIN-URD    221  Hindi Literature
+
+KHMER
+KHMER      1B   Introductory Khmer
+KHMER      100B Intermediate Khmer
+KHMER      101B Advanced Khmer
+
+MALAY/INDONESIAN
+MALAY/I    1B   Introductory Indonesian
+MALAY/I    100B Intermediate Indonesian
+MALAY/I    210B Seminar in Malay Letters and Oral Traditions
+
+PUNJABI
+PUNJABI    1B   Introductory Punjabi
+PUNJABI    100B Intermediate Punjabi
+
+SANSKRIT
+SANSKR     100B Elementary Sanskrit
+SANSKR     101B Intermediate Sanskrit: Sastraic (Scientific) Sanskr...
+SANSKR     200B Sanskrit Literature
+
+TAMIL
+TAMIL      1B   Introductory Tamil
+TAMIL      101B Readings in Tamil
+TAMIL      210B Seminar in Tamil Literature
+
+TELUGU
+TELUGU     1B   Elementary Telugu
+
+THAI
+THAI       1B   Introduction to Thai
+THAI       100B Intermediate Thai
+THAI       101B Advanced Thai
+
+VIETNAMESE
+VIETNMS    1B   Introductory Vietnamese
+VIETNMS    100B Intermediate Vietnamese
+VIETNMS    101B Advanced Vietnamese
+
+SPANISH
+SPANISH    1    Elementary Spanish
+SPANISH    R1B  Reading and Composition Through Readings from the S...
+SPANISH    2    Elementary Spanish
+SPANISH    3    Intermediate Spanish
+SPANISH    4    Intermediate Spanish
+SPANISH    21   Spanish for Bilingual Students, First Course
+SPANISH    22   Spanish for Bilingual Students, Second Course
+SPANISH    24   Freshman Seminars
+SPANISH    25   Reading and Analysis of Literary Texts
+SPANISH    98   Directed Group Study
+SPANISH    100  Introduction to Spanish Linguistics
+SPANISH    102A Advanced Grammar and Composition
+SPANISH    102C Creative Writing in Spanish
+SPANISH    104B Survey of Spanish American Literature
+SPANISH    107B Survey of Spanish Literature
+SPANISH    109  Spanish Drama of the 16th and 17th Centuries
+SPANISH    111B Cervantes
+SPANISH    135  Studies in Hispanic Literature
+SPANISH    135W Studies in Hispanic Literature - Writing Intensive
+SPANISH    161  Spanish Phonetics and Phonology
+SPANISH    H195 Spanish Honors Course
+SPANISH    H195A    Spanish Honors Course
+SPANISH    H195B    Spanish Honors Course
+SPANISH    197  Field Studies
+SPANISH    198  Supervised Group Study
+SPANISH    199  Supervised Independent Study and Research
+SPANISH    200B Research Seminar I
+SPANISH    201  Literary Linguistics
+SPANISH    C203 Comparative Studies in Romance Literatures and Cult...
+SPANISH    280  Seminar in Spanish American Literature
+SPANISH    285  Seminar in Spanish Literature
+SPANISH    298  Special Study for Graduate Students
+SPANISH    299  Special Advanced Study
+SPANISH    302  Practicum in College Teaching of Spanish and Portug...
+SPANISH    601  Individual Study for Master's Students
+SPANISH    602  Individual Study for Doctoral Students
+
+PORTUGUESE
+PORTUG     12   Elementary Portuguese
+PORTUG     24   Freshman Seminar
+PORTUG     101A Portuguese for Advanced Students
+PORTUG     101B Portuguese for Advanced Students: Workshop
+PORTUG     102  Readings in Portuguese
+PORTUG     103  Advanced Grammar and Composition
+PORTUG     128  Twentieth-Century Brazilian Literature
+PORTUG     135  Studies in Luso-Brazilian Literature
+PORTUG     H195 Portuguese Honors Course
+PORTUG     199  Supervised Independent Study and Research
+PORTUG     275  Critical and Stylistic Studies of a Single Author o...
+PORTUG     298  Special Study for Graduate Students
+PORTUG     299  Special Advanced Study
+
+CATALAN
+CATALAN    101  Catalan for Advanced Students
+
+STATISTICS
+STAT       2    Introduction to Statistics
+STAT       20   Introduction to Probability and Statistics
+STAT       131A Introduction to Probability and Statistics for Life...
+STAT       133  Concepts in Computing with Data
+STAT       134  Concepts of Probability
+STAT       135  Concepts of Statistics
+STAT       150  Stochastic Processes
+STAT       151A Linear Modelling: Theory and Applications
+STAT       152  Sampling Surveys
+STAT       153  Introduction to Time Series
+STAT       154  Modern Statistical Prediction and Machine Learning
+STAT       155  Game Theory
+STAT       C205B    Probability Theory
+STAT       C206B    Advanced Topics in Probablity and Stochastic Proces...
+STAT       210B Theoretical Statistics
+STAT       215B Statistical Models: Theory and Application
+STAT       222  Masters of Statistics Capstone Project
+STAT       230A Linear Models
+STAT       240  Nonparametric and Robust Methods
+STAT       C241A    Statistical Learning Theory
+STAT       C241B    Advanced Topics in Learning and Decision Making
+STAT       C245A    Biostatistical Methods: Advanced Categorical Data A...
+STAT       C245F    Statistical Genomics
+STAT       248  Analysis of Time Series
+STAT       260  Topics in Probability and Statistics
+STAT       C261 Quantitative/Statistical Research Methods in Social...
+STAT       272  Statistical Consulting
+STAT       278B Statistics Research Seminar
+STAT       298  Directed Study for Graduate Students
+STAT       299  Individual Study Leading to Higher Degrees
+STAT       601  Individual Study for Master's Candidates
+STAT       602  Individual Study for Doctoral Candidates
+
+THEATER, DANCE, AND PERFORMANCE ST
+THEATER    R1A  Performance: Writing and Research
+THEATER    R1B  Performance: Writing and Research
+THEATER    10   Introduction to Acting
+THEATER    11   Scene Study and Characterization
+THEATER    12   Speech and Vocal Communication Skills
+THEATER    26   Introduction to Performance Studies
+THEATER    39E  Freshman/Sophomore Seminar
+THEATER    40   Introduction to Modern Dance Technique
+THEATER    52AC Reflections of Gender, Culture, and Ethnicity in Am...
+THEATER    60   Introduction to Technical Theater and Production
+THEATER    98   Directed Group Study
+THEATER    99   Independent Study
+THEATER    C108 Strindberg
+THEATER    110B Intermediate Acting
+THEATER    111  Advanced Acting
+THEATER    114  Performance Workshop
+THEATER    119  Performance Theory
+THEATER    121  Performance and Culture
+THEATER    125  Performance and History
+THEATER    126  Performance Literatures
+THEATER    139A Fundamentals of Playwriting
+THEATER    141  Intermediate Modern Dance Technique
+THEATER    143  Practicum for Advanced Modern Dancers
+THEATER    146B Choreography: Group Forms
+THEATER    162  Fundamentals of Stage Directing
+THEATER    166  Special Topics: Theater Arts
+THEATER    167  Technical Theater: Performance Practice
+THEATER    168  Technical Theater: Shop Practice
+THEATER    169  Advanced Technical Theater Practice
+THEATER    171  Theatre Performance
+THEATER    172  Advanced Production Study
+THEATER    173A Scenography: Scenic Design for the Theatre
+THEATER    174B Scenography: Costume Design for the Theatre
+THEATER    175B Scenography: Lighting Design for the Theatre
+THEATER    176  Applied Theatrical Design
+THEATER    179  Supervised Theatrical Design
+THEATER    180  Theatrical Realization of Dance
+THEATER    181  Theatrical Realization of Dramatic Texts
+THEATER    198  Directed Group Study for Undergraduates
+THEATER    199  Supervised Independent Study and Research
+THEATER    200  Graduate Colloquium on Interdisciplinary Research i...
+THEATER    201  Performance Theory
+THEATER    266  Special Topics: Theater Arts
+THEATER    299  Special Study
+THEATER    300  Professional Preparation: Supervised Teaching in Dr...
+
+UNDERGRAD INTERDISCIPLINARY STUDIES
+UGIS       80A  It's Elementary! Exploring Science with Young Stude...
+UGIS       80B  It's Elementary! Exploring Math with Young Students
+UGIS       81A  Teaching Science with Middle School Students
+UGIS       81B  Teaching Math with Middle School Students
+UGIS       82   K-8 Teaching and Inquiry-Based Lesson Design in the...
+UGIS       98   Directed Group Study for Lower Division Students
+UGIS       112  Women and Disability
+UGIS       140  The Hand-Printed Book in Its Historical Context
+UGIS       156  Human Rights Interdisciplinary Minor Capstone Works...
+UGIS       162K Spies! The Politics of Intelligence
+UGIS       187  Project-Based Instruction
+UGIS       188  Research Methods for Science and Mathematics K-12 T...
+UGIS       192A Humanities
+UGIS       192B Social Sciences
+UGIS       192C Biological Sciences
+UGIS       192D Physical Sciences
+UGIS       192E Interdisciplinary Studies
+UGIS       303  Apprentice Teaching in Science and Mathematics
+
+
+     © 1998, 2014, The Regents of the University of California. All Rights Reserved.
+Please click here to send questions and comments.
