@@ -31,11 +31,16 @@ class Student(models.Model):
     current_section = models.ForeignKey(Section)
     registration_time = models.DateTimeField('registration time')
 
-    desired_section1 = models.ForeignKey(Section)
-    desired_section2 = models.ForeignKey(Section)
+    desired_section = models.ForeignKey(Section)
 
     verified = models.BooleanField(default = False)
-    matched = models.BooleanField(default = False)
+    confirmed = models.BooleanField(default = False)
+
+class PendingMatch(models.Model):
+    student1 = models.ForeignKey(Student)
+    student2 = models.ForeignKey(Student)
+
+    matched = models.DateTimeField(auto_now_add=True)
 
 
 
