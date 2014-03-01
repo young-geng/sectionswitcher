@@ -5,6 +5,9 @@ from django.db import models
 class Department(models.Model):
     department = models.CharField(max_length = 100)
 
+    def __init__(self, department):
+        self.department = department;
+
     def __unicode__(self):
         return self.department
 
@@ -12,12 +15,20 @@ class Course(models.Model):
     department = models.ForeignKey(Department)
     code = models.CharField(max_length = 20)
 
+    def __init__(self, code, department):
+        self.code = code
+        self.department = department
+
     def __unicode__(self):
         return self.code
 
 class Section(models.Model):
     number = models.CharField(max_length = 10)
     course = models.ForeignKey(Course)
+
+    def __init__(self, number, course):
+        self.number = number
+        self.course = course
 
     def __unicode__(self):
         return self.number
