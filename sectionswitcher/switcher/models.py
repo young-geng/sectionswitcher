@@ -11,6 +11,9 @@ class Department(models.Model):
     def __unicode__(self):
         return self.department
 
+    def equals(self, departmen):
+        return self.department == department
+
 class Course(models.Model):
     department = models.ForeignKey(Department)
     code = models.CharField(max_length = 20)
@@ -22,6 +25,9 @@ class Course(models.Model):
     def __unicode__(self):
         return self.code
 
+    def equals(self, course):
+        return self.code ==  course.code
+
 class Section(models.Model):
     number = models.CharField(max_length = 10)
     course = models.ForeignKey(Course)
@@ -32,6 +38,9 @@ class Section(models.Model):
 
     def __unicode__(self):
         return self.number
+
+    def equals(self, section):
+        return self.number == section.number and self.course.equals(section.course)
 
 # End of static data
 
