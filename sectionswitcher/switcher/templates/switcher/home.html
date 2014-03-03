@@ -1,0 +1,16 @@
+{% extends "switcher/base.html" %}
+{% block main_page_content %}
+	<div class="container">
+		<select class="form-control">
+			{% for d in department %}
+		  		<option value="one">{{ d.department }}</option>
+			{% endfor %}
+		</select>
+		<br />
+		<div class="input-group input-group-lg">
+  			<span class="input-group-addon">Email</span>
+  			<input type="text" class="form-control" placeholder="Email">
+		</div>
+
+	</div>
+{% endblock %}
