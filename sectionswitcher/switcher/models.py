@@ -1,4 +1,5 @@
 from django.db import models
+from datetime import datetime
 
 # Static Field of data
 
@@ -57,11 +58,18 @@ class Student(models.Model):
     matched = models.BooleanField(default = False)
     confirmed = models.BooleanField(default = False)
 
-    def init(self, email, current_section, desired_section, registration_time):
+    def init(
+            self, email, current_section, desired_section, 
+            registration_time=datetime.now(), verified=False,
+            matched=False, confirmed=False):
         self.email = email
         self.current_section = current_section
         self.desired_section = desired_section
         self.registration_time = registration_time
+        self.verified = verified
+        self.matched = matched
+        self.confirmed = confirmed
+
 
 class PendingMatch(models.Model):
     student1 = models.ForeignKey(Student, related_name='student1')
@@ -69,7 +77,7 @@ class PendingMatch(models.Model):
 
     match_time = models.DateTimeField(auto_now_add=True)
 
-    def init(self, student1, student2, match_time):
+    def init(self, student1, student2, match_time=datetime.now()):
         self.student1 = student1
         self.student2 = student2
         self.match_time = match_time
