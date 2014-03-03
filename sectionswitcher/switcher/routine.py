@@ -48,6 +48,7 @@ def find_match():
                     student[j].matched = True
                     student[i].save()
                     student[j].save()
+                    pass # FIXME send email
 
 
 
