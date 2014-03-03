@@ -317,7 +317,7 @@ ASTRON     C292 Planetary Science Seminar
 ASTRON     298  Directed Group Study
 ASTRON     299  Advanced Study and Research
 ASTRON     375  Instruction Techniques in General Astronomy
-ASTRON     999  
+  
 
 BIOENGINEERING
 BIO ENG    25   Careers in Biotechnology
@@ -1395,7 +1395,7 @@ ESPM       300  Supervised Teaching in Environmental Science, Polic...
 ESPM       400  Professional Training in Research
 ESPM       601  Individual Study for Master's Students
 ESPM       602  Individual Study for Doctoral Students
-ESPM       999  
+ 
 
 ETHNIC STUDIES
 ETH STD    11AC Theories and Concepts in Comparative Ethnic Studies...
@@ -2112,12 +2112,8 @@ MATH       301  Undergraduate Mathematics Instruction
 MATH       303  Professional Preparation: Supervised Teaching of Ma...
 MATH       375  Teaching Workshop
 MATH       602  Individual Study for Doctoral Students
-MATH       999  
-MATH       999  
-MATH       999  
-MATH       999  
-MATH       999  
-MATH       999  
+ 
+
 
 MECHANICAL ENGINEERING
 MEC ENG    24   Freshman Seminars
@@ -2616,8 +2612,7 @@ NUSCTX     296L Research Review in Nutritional Sciences and Toxicol...
 NUSCTX     298  Directed Group Studies
 NUSCTX     299  Nutritional Sciences and Toxicology Research
 NUSCTX     302  Professional Preparation: Supervised Teaching Exper...
-NUSCTX     999  
-NUSCTX     999  
+ 
 
 OPTOMETRY
 OPTOM      10   The Eye and Vision in a Changing Environment
@@ -2791,7 +2786,7 @@ PHYSICS    290Z Seminar
 PHYSICS    299  Research
 PHYSICS    301  Advanced Professional Preparation: Supervised Teach...
 PHYSICS    602  Individual Study for Doctoral Students
-PHYSICS    999  
+ 
 
 PLANT AND MICROBIAL BIOLOGY
 PLANTBI    11   Fungi, History, and Society

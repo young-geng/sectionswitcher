@@ -11,16 +11,17 @@ def parse_schedule():
         counter += 1
         if re.findall(r'\S+', line) == []:
             continue
-        x = re.findall('([A-Z]+[\s,/]*?[A-Z]+)\s\s+([0-9A-Z]+)\s+([\s\S]+[\S])', line)
+        x = re.findall('([A-Z]+[\s,/&]*?[A-Z]+)\s\s+([0-9A-Z]+)\s+([\s\S]+[\S])', line)
         if x == []:
             department = line.strip()
+            #print department
             #"""
             d = Department()
             d.init(department)
             d.save()
             #"""
         else:
-            print x
+            #print x
             code = x[0][0] + "." + x[0][1] + ".Spring.2014"
             #"""
             c = Course()

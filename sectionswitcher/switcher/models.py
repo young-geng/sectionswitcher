@@ -54,13 +54,25 @@ class Student(models.Model):
     desired_section = models.ForeignKey(Section, related_name='desired_section')
 
     verified = models.BooleanField(default = False)
+    matched = models.BooleanField(default = False)
     confirmed = models.BooleanField(default = False)
+
+    def init(self, email, current_section, desired_section, registration_time):
+        self.email = email
+        self.current_section = current_section
+        self.desired_section = desired_section
+        self.registration_time = registration_time
 
 class PendingMatch(models.Model):
     student1 = models.ForeignKey(Student, related_name='student1')
     student2 = models.ForeignKey(Student, related_name='student2')
 
-    matched = models.DateTimeField(auto_now_add=True)
+    match_time = models.DateTimeField(auto_now_add=True)
+
+    def init(self, student1, student2, match_time):
+        self.student1 = student1
+        self.student2 = student2
+        self.match_time = match_time
 
 
 
