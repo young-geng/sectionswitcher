@@ -4,16 +4,16 @@ from datetime import datetime, timedelta
 
 
 
-def expire_varification():
-    varifying_students = Student.objects.filter(varified=False)
-    for student in varifying_students:
+def expire_verification():
+    verifying_students = Student.objects.filter(verified=False)
+    for student in verifying_students:
         t = datetime.now() - student.registration_time
         if t.total_seconds() > 12 * 60 * 60:
             t.delete()
 
 
 def expire_match():
-    matches = Match.objects.all()
+    matches = PendingMatch.objects.all()
     for match in matches:
         if match.student1.confirmed and match.student2.confirmed:
             pass # FIXME send email
@@ -36,12 +36,12 @@ def expire_match():
 
 
 def find_match():
-    students = Student.objects.filter(varified=True, matched=False).order_by('registration_time')
+    students = Student.objects.filter(verified=True, matched=False).order_by('registration_time')
     for i in range(len(students)):
         for j in range(i + 1, len(students)):
             if not student[i].matched and not student[j].matched:
                 if students[i].current_section == student[j].desired_section and student[i].desired_section == student[j].current_section:
-                    m = Match()
+                    m = PendingMatch()
                     m.init(student[i], student[j], datetime.now())
                     m.save()
                     student[i].matched = True
