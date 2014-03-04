@@ -7,7 +7,8 @@ Replace this with more appropriate tests for your application.
 
 from django.test import TestCase
 from switcher.models import Department, Course, Section, Student, PendingMatch
-from routine import *
+import routine
+from datetime import datetime
 
 
 
@@ -73,9 +74,9 @@ class StudentTest(TestCase):
         sec1 = sections[0]
         sec2 = sections[1]
         stu1 = Student()
-        stu1.init("student1@example.com", sec1, sec2)
+        stu1.init("student1@example.com", sec1, sec2, verified=True)
         stu2 = Student()
-        stu2.init("student2@example.com", sec2, sec1)
+        stu2.init("student2@example.com", sec2, sec1, verified=True)
         stu1.save()
         stu2.save()
 
@@ -93,14 +94,37 @@ class StudentTest(TestCase):
                 stu2.current_section == sec2 and
                 stu2.desired_section == sec1,
                 "Student information retrieved is incorrect")
-        stu1.delete()
-        stu2.delete()
 
 
+
+    """ Test for find_match routine """
     def test_find_match(self):
-        find_match()
-        self.assertTrue(len(PendingMatch.objects.all()) == 1, "Wrong match")
         stu1 = Student.objects.filter(email="student1@example.com")[0]
         stu2 = Student.objects.filter(email="student2@example.com")[0]
-        assertTrue(stu1.matched and stu2.matched, "Student matched flag not set")
+        stu1.verified = True
+        stu2.verified = True
+        stu1.save()
+        stu2.save()
+        routine.find_match()
+        stu1 = Student.objects.filter(email="student1@example.com")[0]
+        stu2 = Student.objects.filter(email="student2@example.com")[0]
+        print stu1, stu2
+        print len(PendingMatch.objects.all())
+        self.assertTrue(len(PendingMatch.objects.all()) == 1, "Wrong match")
+        print PendingMatch.objects.all()[0]
+        print stu1, stu2
+        self.assertTrue(stu1.matched and stu2.matched, "Student matched flag not set")
 
+
+
+    """ Test for expire_verifying routine """
+    def test_expire_verification(self):
+        stu1 = Student.objects.filter(email="student1@example.com")[0]
+        stu2 = Student.objects.filter(email="student2@example.com")[0]
+        stu1.verified = False
+        stu1.registration_time = datetime(2014, 3, 1)
+        stu1.save()
+        routine.find_match()
+        self.assertTrue(len(PendingMatch.objects.all()) == 0, "Wrong match")
+        routine.expire_verification()
+        self.assertTrue(len(Student.objects.all()) == 1, "Student not expired!")

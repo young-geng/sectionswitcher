@@ -60,7 +60,7 @@ class Student(models.Model):
 
     def init(
             self, email, current_section, desired_section, 
-            registration_time=datetime.now(), verified=False,
+            registration_time=datetime.today(), verified=False,
             matched=False, confirmed=False):
         self.email = email
         self.current_section = current_section
@@ -71,16 +71,25 @@ class Student(models.Model):
         self.confirmed = confirmed
 
 
+    def __unicode__(self):
+        return "Email: " + str(self.email) + " | current_sec: " + str(self.current_section)\
+            + " | desired_sec: " + str(self.desired_section) + " | verified: " + str(self.verified)\
+            + " | matched: " + str(self.matched) + " | confirmed: " + str(self.confirmed) + "\n" 
+
+
 class PendingMatch(models.Model):
     student1 = models.ForeignKey(Student, related_name='student1')
     student2 = models.ForeignKey(Student, related_name='student2')
 
     match_time = models.DateTimeField(auto_now_add=True)
 
-    def init(self, student1, student2, match_time=datetime.now()):
+    def init(self, student1, student2, match_time=datetime.today()):
         self.student1 = student1
         self.student2 = student2
         self.match_time = match_time
+
+    def __unicode__(self):
+        return "Match between: " + self.student1.email + "  " + self.student2.email + "\n"
 
 
 

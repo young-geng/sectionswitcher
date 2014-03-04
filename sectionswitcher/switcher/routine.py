@@ -7,9 +7,9 @@ from datetime import datetime, timedelta
 def expire_verification():
     verifying_students = Student.objects.filter(verified=False)
     for student in verifying_students:
-        t = datetime.now() - student.registration_time
+        t = datetime.today() - student.registration_time
         if t.total_seconds() > 12 * 60 * 60:
-            t.delete()
+            student.delete()
 
 
 def expire_match():
@@ -17,7 +17,7 @@ def expire_match():
     for match in matches:
         if match.student1.confirmed and match.student2.confirmed:
             pass # FIXME send email
-        elif (datetime.now() - match.match_time).total_seconds() > 22 * 60 * 60: # Expired
+        elif (datetime.today() - match.match_time).total_seconds() > 22 * 60 * 60: # Expired
             if not match.student1.confirmed:
                 match.student1.delete()
             else:
@@ -39,15 +39,15 @@ def find_match():
     students = Student.objects.filter(verified=True, matched=False).order_by('registration_time')
     for i in range(len(students)):
         for j in range(i + 1, len(students)):
-            if not student[i].matched and not student[j].matched:
-                if students[i].current_section == student[j].desired_section and student[i].desired_section == student[j].current_section:
+            if not students[i].matched and not students[j].matched:
+                if students[i].current_section == students[j].desired_section and students[i].desired_section == students[j].current_section:
                     m = PendingMatch()
-                    m.init(student[i], student[j], datetime.now())
+                    m.init(students[i], students[j])
                     m.save()
-                    student[i].matched = True
-                    student[j].matched = True
-                    student[i].save()
-                    student[j].save()
+                    students[i].matched = True
+                    students[j].matched = True
+                    students[i].save()
+                    students[j].save()
                     pass # FIXME send email
 
 
