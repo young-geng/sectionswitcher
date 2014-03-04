@@ -15,6 +15,7 @@ def expire_verification():
 def expire_match():
     matches = PendingMatch.objects.all()
     for match in matches:
+        print (datetime.today() - match.match_time).total_seconds()
         if match.student1.confirmed and match.student2.confirmed:
             pass # FIXME send email
             match.delete()

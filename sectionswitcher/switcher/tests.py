@@ -9,6 +9,7 @@ from django.test import TestCase
 from switcher.models import Department, Course, Section, Student, PendingMatch
 import routine
 from datetime import datetime
+import time
 
 
 
@@ -101,10 +102,6 @@ class StudentTest(TestCase):
     def test_find_match(self):
         stu1 = Student.objects.filter(email="student1@example.com")[0]
         stu2 = Student.objects.filter(email="student2@example.com")[0]
-        stu1.verified = True
-        stu2.verified = True
-        stu1.save()
-        stu2.save()
         routine.find_match()
         stu1 = Student.objects.filter(email="student1@example.com")[0]
         stu2 = Student.objects.filter(email="student2@example.com")[0]
@@ -115,6 +112,16 @@ class StudentTest(TestCase):
         print stu1, stu2
         self.assertTrue(stu1.matched and stu2.matched, "Student matched flag not set")
 
+    def test_expire_match(self):
+        routine.find_match()
+        m = PendingMatch.objects.all()[0]
+        m.match_time = datetime(2014, 3, 1)
+        m.save()
+        PendingMatch.objects.all()[0].save()
+        routine.expire_match()
+        self.assertTrue(len(PendingMatch.objects.all()) == 0, "Expired match not removed")
+
+        
 
 
     """ Test for expire_verifying routine """
@@ -122,9 +129,7 @@ class StudentTest(TestCase):
         stu1 = Student.objects.filter(email="student1@example.com")[0]
         stu2 = Student.objects.filter(email="student2@example.com")[0]
         stu1.verified = False
-        stu1.registration_time = datetime(2014, 3, 1)
+        stu1.registration_time = datetime(2014, 3, 1, 0, 0, 0)
         stu1.save()
-        routine.find_match()
-        self.assertTrue(len(PendingMatch.objects.all()) == 0, "Wrong match")
         routine.expire_verification()
         self.assertTrue(len(Student.objects.all()) == 1, "Student not expired!")
