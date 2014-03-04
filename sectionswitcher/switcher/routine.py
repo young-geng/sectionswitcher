@@ -17,6 +17,7 @@ def expire_match():
     for match in matches:
         if match.student1.confirmed and match.student2.confirmed:
             pass # FIXME send email
+            match.delete()
         elif (datetime.today() - match.match_time).total_seconds() > 22 * 60 * 60: # Expired
             if not match.student1.confirmed:
                 match.student1.delete()
@@ -32,7 +33,7 @@ def expire_match():
                 match.student2.confirmed = False
                 match.student2.save()
                 pass # FIXME send email to student1
-        match.delete()
+            match.delete()
 
 
 def find_match():
