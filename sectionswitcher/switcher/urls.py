@@ -7,5 +7,6 @@ from django.conf.urls import patterns, url
 from switcher import views
 
 urlpatterns = patterns('',
-	url(r'^$', views.home, name="home"),
+	url(r'^thanks/$', views.thanks, name="thanks"),
+	url(r'^.*$', views.home, name="home"),
 )

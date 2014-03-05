@@ -1,5 +1,6 @@
 from django.db import models
 from datetime import datetime
+from django import forms
 
 # Static Field of data
 
@@ -91,8 +92,11 @@ class PendingMatch(models.Model):
     def __unicode__(self):
         return "Match between: " + self.student1.email + "  " + self.student2.email + "\n"
 
-
-
-
+class SectionSwitchForm(forms.Form):
+    email = forms.EmailField(max_length=50);
+    department = forms.ModelChoiceField(queryset=Department.objects.all())
+    course = forms.ModelChoiceField(queryset=Course.objects.all())
+    current_section = forms.ModelChoiceField(queryset=Section.objects.all())
+    desired_section = forms.ModelChoiceField(queryset=Section.objects.all())
 
 
