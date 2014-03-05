@@ -2,6 +2,7 @@ from sys import stdin, stdout
 from models import *
 from datetime import datetime, timedelta
 from hashlib import md5
+import smtplib
 
 
 
@@ -18,7 +19,7 @@ def expire_match():
     for match in matches:
         print (datetime.today() - match.match_time).total_seconds()
         if match.student1.confirmed and match.student2.confirmed:
-            send_match_completed_email(match.student1, match.student2)
+            send_match_completed_email(match.student1.email, match.student2.email)
             match.student1.delete()
             match.student2.delete()
             match.delete()
@@ -29,14 +30,14 @@ def expire_match():
                 match.student1.matched = False
                 match.student1.confirmed = False
                 match.student1.save()
-                send_match_cancelled_email(match.student1)
+                send_match_cancelled_email(match.student1.email)
             if not match.student2.confirmed:
                 match.student2.delete()
             else:
                 match.student2.matched = False
                 match.student2.confirmed = False
                 match.student2.save()
-                send_match_cancelled_email(match.student2)
+                send_match_cancelled_email(match.student2.email)
             match.delete()
 
 
@@ -53,8 +54,8 @@ def find_match():
                     students[j].matched = True
                     students[i].save()
                     students[j].save()
-                    send_confirmation_email(students[i])
-                    send_confirmation_email(students[j])
+                    send_confirmation_email(students[i].email)
+                    send_confirmation_email(students[j].email)
 
 
 
@@ -86,15 +87,104 @@ def confirm(code):
 
 
 
-def send_verification_email(student):
-    pass
+def send_verification_email(address):
+    link = "http://CalSectionSwitcher.io/varify/" + hash(address)
+    message = \
+    """
+    Hi,
 
-def send_confirmation_email(student):
-    pass
+    Thanks for using CalSectionSwitcher!
+    Please click the following link to confirmed your request.
+    %s
 
-def send_match_canceled_email(student):
-    pass        
+    Regards,
+    CalSectionSwitcher Team
+    """ % link
+    send_email(address, message)
 
 
-def send_match_completed_email(student1, student2):
-    pass
+def send_confirmation_email(address):
+    link = "http://CalSectionSwitcher.io/confirm/" + hash(address)
+    message = \
+    """
+    Hi,
+
+    Thanks for using CalSectionSwitcher!
+    The system automatically found a match for you! Please click the following link to confirm.
+    %s
+
+    Regards,
+    CalSectionSwitcher Team
+    """ % link
+    send_email(address, message)
+
+def send_match_canceled_email(address):
+    message = \
+    """
+    Hi,
+
+    Thanks for using CalSectionSwitcher!
+    We are sorry that your match is cancelled because the student who matches you hasn't respond to us.
+    Your request will be put back into the system to continue matching.
+
+
+    Regards,
+    CalSectionSwitcher Team
+    """ % link
+    send_email(address, message)     
+
+
+def send_match_completed_email(address1, address2):
+    message = \
+    """
+    Hi,
+
+    Thanks for using CalSectionSwitcher!
+    We are here to tell you the contact of the person who matches you.
+    His / Her email address is %s
+
+
+    Regards,
+    CalSectionSwitcher Team
+    """ % address1
+    send_email(address2, message)
+    message = \
+    """
+    Hi,
+
+    Thanks for using CalSectionSwitcher!
+    We are here to tell you the contact of the person who matches you.
+    His / Her email address is %s
+
+
+    Regards,
+    CalSectionSwitcher Team
+    """ % address2
+    send_email(address1, message)
+
+
+
+
+def send_email(address, text):  
+  
+    fromaddr = 'calsectionswitcher@gmail.com'  
+    subject = 'CalSectionSwitcher Notification' 
+
+    msg = """\
+    From: %s
+    To: %s
+    Subject: %s
+
+    %s
+    """ % (fromaddr, address, subject, text)
+      
+    # Credentials (if needed)  
+    username = 'calsectionswitcher'  
+    password = 'byebye123'  
+      
+    # The actual mail send  
+    server = smtplib.SMTP('smtp.gmail.com:587')  
+    server.starttls()  
+    server.login(username,password)  
+    server.sendmail(fromaddr, toaddrs, msg)  
+    server.quit()
