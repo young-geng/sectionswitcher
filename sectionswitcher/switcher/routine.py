@@ -181,10 +181,17 @@ def send_email(address, text):
     # Credentials (if needed)  
     username = 'calsectionswitcher'  
     password = 'byebye123'  
-      
-    # The actual mail send  
-    server = smtplib.SMTP('smtp.gmail.com:587')  
-    server.starttls()  
-    server.login(username,password)  
-    server.sendmail(fromaddr, toaddrs, msg)  
-    server.quit()
+     
+    failure = 0 
+    # The actual mail send 
+    while failure < 5:
+        try: 
+            server = smtplib.SMTP('smtp.gmail.com:587')  
+            server.starttls()  
+            server.login(username,password)  
+            server.sendmail(fromaddr, address, msg)  
+            server.quit()
+            break
+        except Exception as e:
+            failure += 1
+
