@@ -1,6 +1,7 @@
 from sys import stdin, stdout
 from models import *
 from datetime import datetime, timedelta
+from hashlib import md5
 
 
 
@@ -54,6 +55,32 @@ def find_match():
                     students[j].save()
                     send_confirmation_email(students[i])
                     send_confirmation_email(students[j])
+
+
+
+def hash(text):
+    return md5(text + "ail(*#Cn03f09zx-_(").hexdigest()
+
+
+
+def verify(code):
+    students = Student.objects.filter(verified=False)
+    for i in students:
+        if hash(i.email) == code:
+            i.verified = True
+            i.save()
+            return True
+    return False
+
+def confirm(code):
+    students = Student.objects.filter(verified=True, matched=True)
+    for i in students:
+        if hash(i.email) == code:
+            i.confirmed = True
+            i.save()
+            return True
+    return False
+
 
 
 
