@@ -1,0 +1,23 @@
+#swap {
+	padding: 20px;
+	width: 700px;
+	text-align: center;
+	background-color: #E0E0E0;
+	border-radius: 5px;
+	border: 1px solid #F0F0F0;
+}
+
+#courses {
+	display: none;
+}
+
+#current_sections {
+	display: none;
+}
+
+#desired_sections {
+	display: none;
+}
+#swap-btn {
+
+}

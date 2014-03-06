@@ -1,9 +1,165 @@
 {% extends "switcher/base.html" %}
 {% block main_page_content %}
-	<div id="container">
-		<form action="/" method="post">{% csrf_token %}
-			{{ form.as_p }}
-			<input type="submit" value="Submit" />
+	<div id="swap" class="container">
+		<form action="thanks/" id="test">
+			<h5>Select department:</h5> <select class="form-control" id="departments" name="departments">
+				<option value="AFRICAN AMERICAN STUDIES">AFRICAN AMERICAN STUDIES</option>
+				<option value="AGRICULTURAL AND ENVIRON CHEMISTRY">AGRICULTURAL AND ENVIRON CHEMISTRY</option>
+				<option value="ENVIRONMENTAL ECONOMICS AND POLICY">ENVIRONMENTAL ECONOMICS AND POLICY</option>
+				<option value="AGRICULTURAL AND RESOURCE ECONOMICS">AGRICULTURAL AND RESOURCE ECONOMICS</option>
+				<option value="AMERICAN STUDIES">AMERICAN STUDIES</option>
+				<option value="ANCIENT HISTORY AND MED. ARCH.">ANCIENT HISTORY AND MED. ARCH.</option>
+				<option value="ANTHROPOLOGY">ANTHROPOLOGY</option>
+				<option value="APPLIED SCIENCE AND TECHNOLOGY">APPLIED SCIENCE AND TECHNOLOGY</option>
+				<option value="ARCHITECTURE">ARCHITECTURE</option>
+				<option value="VISUAL STUDIES">VISUAL STUDIES</option>
+				<option value="PRACTICE OF ART">PRACTICE OF ART</option>
+				<option value="HISTORY OF ART">HISTORY OF ART</option>
+				<option value="ASIAN AMERICAN STUDIES">ASIAN AMERICAN STUDIES</option>
+				<option value="ASIAN STUDIES">ASIAN STUDIES</option>
+				<option value="ASTRONOMY">ASTRONOMY</option>
+				<option value="BIOENGINEERING">BIOENGINEERING</option>
+				<option value="BIOLOGY">BIOLOGY</option>
+				<option value="BIOPHYSICS">BIOPHYSICS</option>
+				<option value="GROUP IN BUDDHIST STUDIES">GROUP IN BUDDHIST STUDIES</option>
+				<option value="UNDERGRAD. BUSINESS ADMINISTRATION">UNDERGRAD. BUSINESS ADMINISTRATION</option>
+				<option value="PH.D. IN BUSINESS ADMINISTRATION">PH.D. IN BUSINESS ADMINISTRATION</option>
+				<option value="CELTIC STUDIES">CELTIC STUDIES</option>
+				<option value="CHEMICAL & BIOMOLECULAR ENGINEERING">CHEMICAL & BIOMOLECULAR ENGINEERING</option>
+				<option value="CHEMISTRY">CHEMISTRY</option>
+				<option value="CHICANO STUDIES">CHICANO STUDIES</option>
+				<option value="CITY AND REGIONAL PLANNING">CITY AND REGIONAL PLANNING</option>
+				<option value="CIVIL AND ENVIRONMENTAL ENGINEERING">CIVIL AND ENVIRONMENTAL ENGINEERING</option>
+				<option value="CLASSICS">CLASSICS</option>
+				<option value="GREEK">GREEK</option>
+				<option value="LATIN">LATIN</option>
+				<option value="COGNITIVE SCIENCE">COGNITIVE SCIENCE</option>
+				<option value="COLLEGE WRITING PROGRAM">COLLEGE WRITING PROGRAM</option>
+				<option value="COMPARATIVE BIOCHEMISTRY">COMPARATIVE BIOCHEMISTRY</option>
+				<option value="COMPARATIVE LITERATURE">COMPARATIVE LITERATURE</option>
+				<option value="COMPUTATIONAL BIOLOGY">COMPUTATIONAL BIOLOGY</option>
+				<option value="CRITICAL THEORY GRADUATE GROUP">CRITICAL THEORY GRADUATE GROUP</option>
+				<option value="DEMOGRAPHY">DEMOGRAPHY</option>
+				<option value="DEVELOPMENT PRACTICE">DEVELOPMENT PRACTICE</option>
+				<option value="DEVELOPMENT STUDIES">DEVELOPMENT STUDIES</option>
+				<option value="EARTH AND PLANETARY SCIENCE">EARTH AND PLANETARY SCIENCE</option>
+				<option value="EAST ASIAN LANGUAGES AND CULTURES">EAST ASIAN LANGUAGES AND CULTURES</option>
+				<option value="CHINESE">CHINESE</option>
+				<option value="JAPANESE">JAPANESE</option>
+				<option value="KOREAN">KOREAN</option>
+				<option value="TIBETAN">TIBETAN</option>
+				<option value="ECONOMICS">ECONOMICS</option>
+				<option value="EDUCATION">EDUCATION</option>
+				<option value="ELECTRICAL ENGINEERING">ELECTRICAL ENGINEERING</option>
+				<option value="COMPUTER SCIENCE">COMPUTER SCIENCE</option>
+				<option value="ENERGY AND RESOURCES GROUP">ENERGY AND RESOURCES GROUP</option>
+				<option value="ENGINEERING">ENGINEERING</option>
+				<option value="ENGLISH">ENGLISH</option>
+				<option value="ENVIRONMENTAL DESIGN">ENVIRONMENTAL DESIGN</option>
+				<option value="ENVIRON SCI, POLICY, AND MANAGEMENT">ENVIRON SCI, POLICY, AND MANAGEMENT</option>
+				<option value="ETHNIC STUDIES">ETHNIC STUDIES</option>
+				<option value="ETHNIC STUDIES GRADUATE GROUP">ETHNIC STUDIES GRADUATE GROUP</option>
+				<option value="FILM AND MEDIA">FILM AND MEDIA</option>
+				<option value="FOLKLORE">FOLKLORE</option>
+				<option value="FRENCH">FRENCH</option>
+				<option value="GENDER AND WOMEN'S STUDIES">GENDER AND WOMEN'S STUDIES</option>
+				<option value="LESBIAN GAY BISEXUAL TRANSGENDER ST">LESBIAN GAY BISEXUAL TRANSGENDER ST</option>
+				<option value="GEOGRAPHY">GEOGRAPHY</option>
+				<option value="GERMAN">GERMAN</option>
+				<option value="YIDDISH">YIDDISH</option>
+				<option value="DUTCH">DUTCH</option>
+				<option value="GLOBAL METROPOLITAN STUDIES">GLOBAL METROPOLITAN STUDIES</option>
+				<option value="GLOBAL POVERTY AND PRACTICE">GLOBAL POVERTY AND PRACTICE</option>
+				<option value="GRAD STUDENT PROF DEVELOPMENT PGM">GRAD STUDENT PROF DEVELOPMENT PGM</option>
+				<option value="LANGUAGE PROFICIENCY PROGRAM">LANGUAGE PROFICIENCY PROGRAM</option>
+				<option value="HEALTH AND MEDICAL SCIENCES">HEALTH AND MEDICAL SCIENCES</option>
+				<option value="HISTORY">HISTORY</option>
+				<option value="INDUSTRIAL ENGIN AND OPER RESEARCH">INDUSTRIAL ENGIN AND OPER RESEARCH</option>
+				<option value="INFORMATION">INFORMATION</option>
+				<option value="INTEGRATIVE BIOLOGY">INTEGRATIVE BIOLOGY</option>
+				<option value="INTERDISCIPLINARY STUDIES FIELD MAJ">INTERDISCIPLINARY STUDIES FIELD MAJ</option>
+				<option value="INTERNATIONAL AND AREA STUDIES">INTERNATIONAL AND AREA STUDIES</option>
+				<option value="ITALIAN STUDIES">ITALIAN STUDIES</option>
+				<option value="JEWISH STUDIES">JEWISH STUDIES</option>
+				<option value="JOURNALISM">JOURNALISM</option>
+				<option value="LANDSCAPE ARCHITECTURE">LANDSCAPE ARCHITECTURE</option>
+				<option value="LATIN AMERICAN STUDIES">LATIN AMERICAN STUDIES</option>
+				<option value="LEGAL STUDIES">LEGAL STUDIES</option>
+				<option value="LETTERS AND SCIENCE">LETTERS AND SCIENCE</option>
+				<option value="LINGUISTICS">LINGUISTICS</option>
+				<option value="MATERIALS SCIENCE AND ENGINEERING">MATERIALS SCIENCE AND ENGINEERING</option>
+				<option value="MATHEMATICS">MATHEMATICS</option>
+				<option value="MECHANICAL ENGINEERING">MECHANICAL ENGINEERING</option>
+				<option value="MEDIA STUDIES">MEDIA STUDIES</option>
+				<option value="MIDDLE EASTERN STUDIES">MIDDLE EASTERN STUDIES</option>
+				<option value="MILITARY AFFAIRS">MILITARY AFFAIRS</option>
+				<option value="AEROSPACE STUDIES">AEROSPACE STUDIES</option>
+				<option value="MILITARY SCIENCE">MILITARY SCIENCE</option>
+				<option value="NAVAL SCIENCE">NAVAL SCIENCE</option>
+				<option value="MOLECULAR AND CELL BIOLOGY">MOLECULAR AND CELL BIOLOGY</option>
+				<option value="MUSIC">MUSIC</option>
+				<option value="NANOSCALE SCIENCE AND ENGINEERING">NANOSCALE SCIENCE AND ENGINEERING</option>
+				<option value="NATIVE AMERICAN STUDIES">NATIVE AMERICAN STUDIES</option>
+				<option value="NATURAL RESOURCES">NATURAL RESOURCES</option>
+				<option value="NEAR EASTERN STUDIES">NEAR EASTERN STUDIES</option>
+				<option value="ARABIC">ARABIC</option>
+				<option value="CUNEIFORM">CUNEIFORM</option>
+				<option value="EGYPTIAN">EGYPTIAN</option>
+				<option value="HEBREW">HEBREW</option>
+				<option value="PERSIAN">PERSIAN</option>
+				<option value="SEMITICS">SEMITICS</option>
+				<option value="TURKISH">TURKISH</option>
+				<option value="NEUROSCIENCE">NEUROSCIENCE</option>
+				<option value="NEW MEDIA">NEW MEDIA</option>
+				<option value="NUCLEAR ENGINEERING">NUCLEAR ENGINEERING</option>
+				<option value="NUTRITIONAL SCIENCES AND TOXICOLOGY">NUTRITIONAL SCIENCES AND TOXICOLOGY</option>
+				<option value="OPTOMETRY">OPTOMETRY</option>
+				<option value="VISION SCIENCE">VISION SCIENCE</option>
+				<option value="PEACE AND CONFLICT STUDIES">PEACE AND CONFLICT STUDIES</option>
+				<option value="PHILOSOPHY">PHILOSOPHY</option>
+				<option value="PHYSICAL EDUCATION">PHYSICAL EDUCATION</option>
+				<option value="PHYSICS">PHYSICS</option>
+				<option value="PLANT AND MICROBIAL BIOLOGY">PLANT AND MICROBIAL BIOLOGY</option>
+				<option value="POLITICAL ECONOMY">POLITICAL ECONOMY</option>
+				<option value="POLITICAL SCIENCE">POLITICAL SCIENCE</option>
+				<option value="PSYCHOLOGY">PSYCHOLOGY</option>
+				<option value="PUBLIC HEALTH">PUBLIC HEALTH</option>
+				<option value="PUBLIC POLICY">PUBLIC POLICY</option>
+				<option value="RELIGIOUS STUDIES">RELIGIOUS STUDIES</option>
+				<option value="RHETORIC">RHETORIC</option>
+				<option value="SCANDINAVIAN">SCANDINAVIAN</option>
+				<option value="SCIENCE AND MATHEMATICS EDUCATION">SCIENCE AND MATHEMATICS EDUCATION</option>
+				<option value="SCIENCE AND TECHNOLOGY STUDIES">SCIENCE AND TECHNOLOGY STUDIES</option>
+				<option value="SLAVIC LANGUAGES AND LITERATURES">SLAVIC LANGUAGES AND LITERATURES</option>
+				<option value="EAST EUROPEAN STUDIES">EAST EUROPEAN STUDIES</option>
+				<option value="EURASIAN STUDIES">EURASIAN STUDIES</option>
+				<option value="SOCIAL WELFARE">SOCIAL WELFARE</option>
+				<option value="SOCIOLOGY">SOCIOLOGY</option>
+				<option value="SOUTH AND SOUTHEAST ASIAN STUDIES">SOUTH AND SOUTHEAST ASIAN STUDIES</option>
+				<option value="SOUTH ASIAN">SOUTH ASIAN</option>
+				<option value="SOUTHEAST ASIAN">SOUTHEAST ASIAN</option>
+				<option value="BENGALI">BENGALI</option>
+				<option value="FILIPINO">FILIPINO</option>
+				<option value="HINDI-URDU">HINDI-URDU</option>
+				<option value="KHMER">KHMER</option>
+				<option value="MALAY/INDONESIAN">MALAY/INDONESIAN</option>
+				<option value="PUNJABI">PUNJABI</option>
+				<option value="SANSKRIT">SANSKRIT</option>
+				<option value="TAMIL">TAMIL</option>
+				<option value="TELUGU">TELUGU</option>
+				<option value="THAI">THAI</option>
+				<option value="VIETNAMESE">VIETNAMESE</option>
+				<option value="SPANISH">SPANISH</option>
+				<option value="PORTUGUESE">PORTUGUESE</option>
+				<option value="CATALAN">CATALAN</option>
+				<option value="STATISTICS">STATISTICS</option>
+				<option value="THEATER, DANCE, AND PERFORMANCE ST">THEATER, DANCE, AND PERFORMANCE ST</option>
+				<option value="UNDERGRAD INTERDISCIPLINARY STUDIES">UNDERGRAD INTERDISCIPLINARY STUDIES</option>
+			</select>
+			<select id="courses" name="courses"></select>
+			<select id="current_sections" name="current_sections"></select>
+			<select id="desired_sections" name="desired_sections"></select>
+			<input id="swap-btn" type="submit" class="btn btn-default btn-lg" value="Swap!">
 		</form>
 	</div>
 {% endblock %}
