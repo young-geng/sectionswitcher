@@ -1,8 +1,9 @@
 {% extends "switcher/base.html" %}
 {% block main_page_content %}
 	<div id="swap" class="container">
-		<form action="thanks/" id="test">
-			<h5>Select department:</h5> <select class="form-control" id="departments" name="departments">
+		<form action="thanks/" method="post" id="test">
+				<h5>Select department:</h5>
+				<select class="form-control" id="departments" name="departments">
 				<option value="AFRICAN AMERICAN STUDIES">AFRICAN AMERICAN STUDIES</option>
 				<option value="AGRICULTURAL AND ENVIRON CHEMISTRY">AGRICULTURAL AND ENVIRON CHEMISTRY</option>
 				<option value="ENVIRONMENTAL ECONOMICS AND POLICY">ENVIRONMENTAL ECONOMICS AND POLICY</option>
@@ -156,9 +157,10 @@
 				<option value="THEATER, DANCE, AND PERFORMANCE ST">THEATER, DANCE, AND PERFORMANCE ST</option>
 				<option value="UNDERGRAD INTERDISCIPLINARY STUDIES">UNDERGRAD INTERDISCIPLINARY STUDIES</option>
 			</select>
-			<select id="courses" name="courses"></select>
-			<select id="current_sections" name="current_sections"></select>
-			<select id="desired_sections" name="desired_sections"></select>
+			<div id="courses_container"><h5>Select course:</h5><select class="form-control" id="courses" name="courses"></select></div>
+			<div id="current_sections_container"><h5>Select current section:</h5><select class="form-control" id="current_sections" name="current_sections"></select></div>
+			<div id="desired_sections_container"><h5>Select desired section:</h5><select class="form-control" id="desired_sections" name="desired_sections"></select></div>
+			<input type="email" class="form-control" id="email" name="email" placeholder="Enter email">
 			<input id="swap-btn" type="submit" class="btn btn-default btn-lg" value="Swap!">
 		</form>
 	</div>

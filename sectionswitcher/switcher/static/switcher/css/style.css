@@ -7,17 +7,34 @@
 	border: 1px solid #F0F0F0;
 }
 
-#courses {
-	display: none;
+#departments {
+	margin-top: 10px;
+	margin-bottom: 10px;
 }
 
-#current_sections {
+#courses_container {
 	display: none;
+	margin-top: 10px;
+	margin-bottom: 10px;
 }
 
-#desired_sections {
+#current_sections_container {
 	display: none;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+#desired_sections_container {
+	display: none;
+	margin-top: 10px;
+	margin-bottom: 10px;
 }
 #swap-btn {
+	display: none;
+}
 
+#email {
+	display: none;
+	margin-top: 10px;
+	margin-bottom: 10px;
 }

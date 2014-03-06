@@ -177,10 +177,11 @@ def send_email(address, text):
 
     %s
     """ % (fromaddr, address, subject, text)
+    msg = text
       
     # Credentials (if needed)  
     username = 'calsectionswitcher'  
-    password = 'byebye123'  
+    password = 'byebye123'
      
     failure = 0 
     # The actual mail send 
