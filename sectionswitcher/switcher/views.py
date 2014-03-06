@@ -33,14 +33,14 @@ def thanks(request):
 		c = Course.objects.get(code=request.POST['courses'])
 		cur_sec = Section.objects.get(course=c, number=request.POST['current_sections'])
 		des_sec = Section.objects.get(course=c, number=request.POST['desired_sections'])
-        if len(Student.objects.filter(email=request.POST['email'])) != 0:
-            return HttpResponse("Sorry, you've already registered")
-        elif request.POST['current_sections'] == request.POST['desired_sections']:
-            return HttpResponse("Sorry, you can't switch to the same section!")
+		if len(Student.objects.filter(email=request.POST['email'])) != 0:
+			return HttpResponse("Sorry, you've already registered")
+		elif request.POST['current_sections'] == request.POST['desired_sections']:
+			return HttpResponse("Sorry, you can't switch to the same section!")
 		stu = Student()
 		stu.init(request.POST['email'], cur_sec, des_sec)
 		send_verification_email(request.POST['email'])
-        stu.save()
+		stu.save()
 		return HttpResponseRedirect('/')
 
 @csrf_exempt
