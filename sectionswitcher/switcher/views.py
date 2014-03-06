@@ -30,8 +30,14 @@ def confirm(request, hashcode):
 @csrf_exempt
 def thanks(request):
 	if request.method == 'POST':
+		if len(Course.objects.filter(code=request.POST['courses'])) == 0:
+			return HttpResponse("Invalid selection!")
 		c = Course.objects.get(code=request.POST['courses'])
+		if len(Section.objects.filter(course=c, number=request.POST['current_sections'])) == 0:
+			return HttpResponse("Invalid selection!")
 		cur_sec = Section.objects.get(course=c, number=request.POST['current_sections'])
+		if len(Section.objects.filter(course=c, number=request.POST['desired_sections'])) == 0:
+                        return HttpResponse("Invalid selection!")
 		des_sec = Section.objects.get(course=c, number=request.POST['desired_sections'])
 		if len(Student.objects.filter(email=request.POST['email'])) != 0:
 			return HttpResponse("Sorry, you've already registered")
@@ -41,7 +47,7 @@ def thanks(request):
 		stu.init(request.POST['email'], cur_sec, des_sec)
 		send_verification_email(request.POST['email'])
 		stu.save()
-		return HttpResponseRedirect('/')
+		return HttpResponse("Thanks for using SectionSwap!\nA verification link has been sent to your email, please follow the instruction there!") 
 
 @csrf_exempt
 def getCourses(request):

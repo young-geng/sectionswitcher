@@ -88,7 +88,7 @@ def confirm(code):
 
 
 def send_verification_email(address):
-    link = "http://CalSectionSwitcher.io/varify/" + hash(address)
+    link = "http://192.241.207.136:8000/verify/" + hash(address)
     message = \
     """
     Hi,
@@ -104,7 +104,7 @@ def send_verification_email(address):
 
 
 def send_confirmation_email(address):
-    link = "http://CalSectionSwitcher.io/confirm/" + hash(address)
+    link = "http://192.241.207.136:8000/confirm/" + hash(address)
     message = \
     """
     Hi,

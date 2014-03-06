@@ -5,7 +5,7 @@ $( document ).ready(function() {
         //alert(department_name);
         var departmentData = {"department": department_name};
         $.ajax({
-            url: "getCourses",
+            url: "/getCourses",
             type: "POST",
             data: departmentData,
             dataType: "json",
@@ -28,7 +28,7 @@ $( document ).ready(function() {
         //alert(department_name);
         var departmentData = {"code": department_name};
         $.ajax({
-            url: "getSections",
+            url: "/getSections",
             type: "POST",
             data: departmentData,
             dataType: "json",
